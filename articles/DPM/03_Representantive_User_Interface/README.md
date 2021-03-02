@@ -4,7 +4,5 @@
 <li><a href="/articles/DPM/03_Representative_User_Interface/01_Representantive_User_Interface_Overview.md">Representative User Interface Overview</a></li>
 <li><a href="/articles/DPM/03_Representative_User_Interface/02_Representantive_User_Interface_Search.md">Search a Request</li>
 <li><a href="/articles/DPM/03_Representative_User_Interface/03_Representantive_User_Interface_Submit.md">Submit a Request</li>
-  
-  <li><a href="/articles/DPM/02_Admin_Module/01_Admin_Module_Overview.md">Admin Module Overview</a></li>
 
 </ul>
