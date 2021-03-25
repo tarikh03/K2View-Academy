@@ -8,7 +8,7 @@ A dialog box displays, verifying that you want to turn on the consent. The text 
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn.jpg)                                   
 
-Click ![image](/articles/demo_project/DPM_Demo_Project/images/008_ICON_OK.png) to turn on the consent. The On/Off slider is turned to “On”.
+Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_OK.png) to turn on the consent. The On/Off slider is turned to “On”.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_3_Consent_CustConsent_OptIn_Callouts.jpg)  
 
