@@ -1,0 +1,27 @@
+# Data Subject Access Request
+
+K2View DPM provides your company with the ability to create flows for the management of any Data Subject Request (DSR) that may be required by any data privacy regulations, automating data collection from source systems, data rectification, anonymization, portability, purging or any other DSR type. 
+
+The step-by-step explanation in this section guides you through the steps of implementing a new flow that manages the fulfilment process of a Data Subject Access Request (DSAR).  
+
+In high level the phases of this implementation are:
+
+- Create a new Flow and add to it the stages and tasks that are needed to perform the request validation, customer data retrieval, creating and validating the response.
+- Define a new object of Regulation, and under this regulation, define the DSAR activity that the above Flow implements. 
+
+The Flow we will create in this section can serve as a model for the implementation of any other DSR type. 
+
+Further details about the creation Data Subject Request flows can be found at the DPM User Guide [Admin Module](/articles/DPM/02_Admin_Module/02_DPM_Configuration.md#dpm-configuration)
+
+The DSAR Flow we build in this tutorial collects customer information from the two applications we described at the introduction: Odoo and Open Source Billing, format this information and notify the customer once request was fulfilled. 
+
+Let's get started: 
+
+1. [Login into the DPM using an administrator user](/articles/demo_project/DPM_Demo_Project/01_DSAR_login.md)  
+
+2. [Create a DSAR Flow](/articles/demo_project/DPM_Demo_Project/01_DSAR_flow.md) 
+3. [Associate the DSAR flow with a Regulation and Activity](/articles/demo_project/DPM_Demo_Project/01_DSAR_associate_to_activity.md)
+
+Your Flow is now ready to go! 
+
+The DSAR flow that you have created will be available for customers to submit their requests, as we will demonstrate in the next section of this demo. 
