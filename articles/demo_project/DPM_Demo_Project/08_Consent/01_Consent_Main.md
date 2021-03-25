@@ -1,8 +1,8 @@
-# 8   Consent
+#Consent
 
 This demonstration will guide you through the process of a typical Consent Management lifecycle. A lifecycle begins with an Admin setting up consent configurations and integration with third parties.  It completes itself with a customer selecting consent preferences that were set up by the Admin.
 
-[Admin Consent Introduction](/articles/demo_project/DPM_Demo_Project/08_Consent/03_01_Admin_Consent_Tutorial.md)
+[Admin Consent Introduction](/articles/demo_project/DPM_Demo_Project/08_Consent/02_Admin_Consent_Introduction.md)
 
 [Admin Consent Tutorial](/articles/demo_project/DPM_Demo_Project/08_Consent/03_01_Admin_Consent_Tutorial.md)
 
