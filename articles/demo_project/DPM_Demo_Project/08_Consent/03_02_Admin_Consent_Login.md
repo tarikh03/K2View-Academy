@@ -3,7 +3,7 @@
 Enter your DPM application **Username** and **Password**.
 
 ![image](/articles/demo_project/images/08_01_Consent_AdminLogin.jpg)
-<img src="/articles/demo_project/images/08_01_Consent_AdminLogin.jpg" width="50%" height="50%">
+
 
 Click **Login**. 
 
