@@ -39,7 +39,7 @@ Follow the links below in order to access the step-by-step instruction for the g
 
 The first section of our demo takes you through the steps of implementing the automation and streamlining the fulfilment process of data access requests.
 
-- [**Data Subject Access Request (DSAR)**](articles/demo_project/DPM_Demo_Project/01_DSAR/01_00_DSAR.md) - By demonstrating how to create a DSAR request we will lead you through the implementation steps that allow you to define the flow and automation of any type of Data Subject request that Data Privacy regulations may require. 
+- [**Data Subject Access Request (DSAR)**](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_00_DSAR.md) - By demonstrating how to create a DSAR request we will lead you through the implementation steps that allow you to define the flow and automation of any type of Data Subject request that Data Privacy regulations may require. 
 
 - **Execute a DSAR** - In this demonstration, you will simulate the scenario of a customer who submitted a DSAR, and the flow this request goes through from submission to fulfillment. 
 
