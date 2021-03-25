@@ -2,9 +2,13 @@
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/08_22_Consent_AdminLanding.jpg" width="85%" height="85%">                                
 
-Click the <img src="/articles/demo_project/DPM_Demo_Project/images/08_ICON_ConsentManagement.png" width="15%" height="15%"> button at the top-right of the screen in order to configure a new consent topic. The New Consent dialog box displays.
+Click the <img src="/articles/demo_project/DPM_Demo_Project/images/08_ICON_ConsentManagement.png" width="15%" height="15%"> button at the top-right of the screen in order to configure a new consent topic. 
 
-​     
+<img src="/articles/demo_project/DPM_Demo_Project/images/08_20_Consent_AdminConsent_LeftPanel.jpg" width="25%" height="25%">
+
+The New Consent dialog box displays.
+
+<img src="/articles/demo_project/DPM_Demo_Project/images/08_21_Consent_AdminConsent_Main.jpg" width="85%" height="85%">     
 
 Select a **Category**. Categories are used for grouping consent topics. This field lets the user classify the new consent under an existing Category or select **New Category** to manually enter a new one.
 
