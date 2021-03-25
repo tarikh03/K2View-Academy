@@ -18,9 +18,9 @@ Meet the demo “Source Systems”:
 
 The two systems that we picked up to simulate source systems are:
 
-- ![image](/articles/demo_project/DPM_Demo_Project/images/Odoo.PNG) - Odoo is an open source ERP and CRM application. You can view more details about this application at their site: https://www.odoo.com/
+- ![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_Odoo.PNG) - Odoo is an open source ERP and CRM application. You can view more details about this application at their site: https://www.odoo.com/
 
-- ![image](/articles/demo_project/DPM_Demo_Project/images/opensourcebilling_icon.png) - Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its site https://opensourcebilling.org/ for more information.
+- ![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_opensourcebilling_icon.png) - Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its site https://opensourcebilling.org/ for more information.
 
 
 When you set up the demo environment, we automatically generate for you not only a running instance of each of those applications, but also populate it with the data of imaginary customers. This data will be used along the demo to demonstrate DPM features and functionality, such as customer matching between applications, fulfilment of data access requests, keeping up with data change scenarios and more.  
@@ -39,7 +39,7 @@ Follow the links below in order to access the step-by-step instruction for the g
 
 The first section of our demo takes you through the steps of implementing the automation and streamlining the fulfilment process of data access requests.
 
-- **Data Subject Access Request (DSAR)** - By demonstrating how to create a DSAR request we will lead you through the implementation steps that allow you to define the flow and automation of any type of Data Subject request that Data Privacy regulations may require. 
+- [**Data Subject Access Request (DSAR)**](articles/demo_project/DPM_Demo_Project/01_DSAR/01_00_DSAR.md) - By demonstrating how to create a DSAR request we will lead you through the implementation steps that allow you to define the flow and automation of any type of Data Subject request that Data Privacy regulations may require. 
 
 - **Execute a DSAR** - In this demonstration, you will simulate the scenario of a customer who submitted a DSAR, and the flow this request goes through from submission to fulfillment. 
 
