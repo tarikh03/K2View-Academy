@@ -12,11 +12,11 @@ We will now create a new Regulation, add under it a new Activity, and then we wi
 
 2. use the <img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_New_Regulation_Icon.png" width="10%" height="10%"> to create a new Regulation. Populate the information for this new Regulation as presented below. 
 
-<img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_Regulations_List.png" width="80%" height="80%">
+<img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_Regulations_List.png" width="100%" height="100%">
 
 Once you saved the new Regulation, the screen of the Activities for this Regulation is presented, initially empty as no Activity was created yet. 
 
-<img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_Empty_Regulation.png" width="80%" height="80%">
+<img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_Empty_Regulation.png" width="100%" height="100%">
 
 3. Select the <img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_New_Activity_Icon.png" width="10%" height="10%"> in order to add a new Activity under this Regulation. Populate the information for this new Activity as presented below, selecting for the Flow field the DSAR Tutorial Flow which was created in the previous steps. 
 
