@@ -47,8 +47,8 @@ For this example, we selected the “CCPA” and “LGPD” Regulations.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_18_Consent_AdminConsent_Add_All.jpg)    
 
-Review your entries as needed, and then click   .
+Review your entries as needed, and then click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_Save.jpg).
 
 The New Consent displays in the Consents table. The rows are separated by Category. Since we chose “Marketing” Category in the New Consent, it displays under the Marketing Category, along with all other Consents of the same Category.
 
-​     
+![image](/articles/demo_project/DPM_Demo_Project/images/08_5_Consent_AdminConsent_Add10.jpg)     
