@@ -1,8 +1,8 @@
 ### Create a New Consent
 
-​                                   
+<img src="/articles/demo_project/images/08_22_Consent_AdminLanding.jpg" width="50%" height="50%">                                
 
-Click the   button at the top-right of the screen in order to configure a new consent topic. The New Consent dialog box displays.
+Click the <img src="/articles/demo_project/images/ICON_ConsentManagement.png" width="50%" height="50%">button at the top-right of the screen in order to configure a new consent topic. The New Consent dialog box displays.
 
 ​     
 
