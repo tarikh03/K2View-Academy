@@ -3,9 +3,7 @@
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_21_Consent_AdminConsent_Main.jpg)
 
-Click the <img src="/articles/demo_project/DPM_Demo_Project/images/08_ICON_ConsentManagement.png" width="15%" height="15%"> button at the top-right of the screen in order to configure a new consent topic. 
-
-<img src="/articles/demo_project/DPM_Demo_Project/images/08_20_Consent_AdminConsent_LeftPanel.jpg" width="25%" height="25%">
+Click the <img src="/articles/demo_project/DPM_Demo_Project/images/08_ICON_NewRegulation.png" width="15%" height="15%"> button at the top-right of the screen in order to configure a new consent topic. 
 
 The New Consent dialog box displays.
 
