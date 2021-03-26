@@ -10,14 +10,14 @@ Click the **Consents History** tab.
 
 The Consents History screens displays.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_1_Consent_CustConsent_ConsentsHistory1.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/08_14_Consent_RepConsent_History.jpg)
 
 **Search for Consents**
 
 To search a specific consent, use the "Search" option at the top-right of the Consents History table.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_1_Consent_CustConsent_ConsentsHistory3.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/08_15_Consent_RepConsent_HistorySearch.jpg)
 
 Enter a keyword to display all Consent histories where the keyword appears. For this example, enter "Advertisting". The Consents History table automatically displays all instances where "Advertising" appears in the action history.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_1_Consent_CustConsent_ConsentsHistory2.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/08_16_Consent_RepConsent_HistorySearch2.jpg)
