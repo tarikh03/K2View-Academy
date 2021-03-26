@@ -41,7 +41,7 @@ The sample Stages we will create include:
 
 3. In the operations Tab, select the GenerateCustomerPDF operation. This automatic operation formats the data that was collected about the customer in a PDF. 
 
-   <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_03_File_Generation_operations.png" width="80%" height="80%">
+   <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_03_DSAR_File_Generation_Operations.png" width="80%" height="80%">
 
 4. Save the new task
 
@@ -59,13 +59,13 @@ The sample Stages we will create include:
 
 3. As this is a manual operation, we will also configure reminders in two intervals - one to the Legal team and the other to the Case Owner, so that if for some reason this task is not being completed, the relevant users would be notified to take action. 
 
-   <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_03_Review_Approval_Reminders.png" width="80%" height="80%">
+   <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_03_DSAR_Review_Approval_Reminders.png" width="80%" height="80%">
 
 4. Save the new task
 
 5. Create another task under the same stage: Case Owner Review. Assign it to the Case Owner Role. This too is a manual task that should be executed after the legal review was completed. Therefore, set the order of this task to be 2, and give it a 24 minutes deadline. 
 
-   <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_03_Review_Approval_Case_Owner.png" width="80%" height="80%">
+   <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_03_DSAR_Review_Approval_Case_Owner.png" width="80%" height="80%">
 
 ### 	Customer Notification
 
