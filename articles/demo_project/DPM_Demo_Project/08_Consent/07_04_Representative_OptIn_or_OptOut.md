@@ -10,7 +10,7 @@ Locate a Consent in the Consents table. Under the ACTIONS column, turn the On/Of
 
 A dialog box displays, verifying that you want to turn on the consent.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_9_Consent_RepConsent_OptIn.jpg)                                   
+![image](/articles/demo_project/DPM_Demo_Project/images/08_13_Consent_RepConsent_OptIn.jpg)                                   
 
 Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_OK.png) to turn on the consent. 
 
