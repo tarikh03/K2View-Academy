@@ -1,19 +1,12 @@
 ### View the Consents List
 
-Enter your DPM application **Username** and **Password**.
+The Consent Management functionality at the Representative level is equal to the functionality at the Customer level with the only difference: The Representative must enter the customer identification in order to retrieve the information. To view the Consents list of a customer, you need to search for them based on their Customer ID.
 
-​                                   
+Enter the **Customer ID**.
 
-Click **Login**.
+![image](/articles/demo_project/DPM_Demo_Project/images/08_01_Consent_AdminLogin.jpg)                                   
 
-Once a user logs into the DPM system as a Representative, the screen is updated with two frames (windows) of information. The left frame displays a list of menu options for this module. The right frame displays the interactive components of the selection. The Requests List screen displays by default after logging into the system.
+Click the ![image](/articles/demo_project/DPM_Demo_Project/images/08_01_Consent_AdminLogin.jpg) button. The customer Consents list displays.
 
-​      
-
-Click   under the REPRESENTATIVE menu options, located on the left side of the screen. 
-
-​     
-
-The Consent Management screen displays.
-
-​      
+![image](/articles/demo_project/DPM_Demo_Project/images/08_01_Consent_AdminLogin.jpg)
+  
