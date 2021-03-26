@@ -18,6 +18,6 @@ To search a specific consent, use the "Search" option at the top-right of the Co
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_1_Consent_CustConsent_ConsentsHistory3.jpg)
 
-Enter a keyword to display all Consent histories where the keyword appears. For this example, enter "Advertisting". The Consents History screen automatically displays all instances where "Advertising" appears in the action history.
+Enter a keyword to display all Consent histories where the keyword appears. For this example, enter "Advertisting". The Consents History table automatically displays all instances where "Advertising" appears in the action history.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_1_Consent_CustConsent_ConsentsHistory2.jpg)
