@@ -4,7 +4,7 @@ The following simulation of working within DPM Consent Management will show you 
 
 [Login to the System](/articles/demo_project/DPM_Demo_Project/08_Consent/07_02_Representative_Login.md)
 
-[View Consents List](/articles/demo_project/DPM_Demo_Project/08_Consent/07_03_Representative_View_Consents.md)
+[View the Consents List](/articles/demo_project/DPM_Demo_Project/08_Consent/07_03_Representative_View_Consents.md)
 
 [Opt-In or Opt-Out of Consents](/articles/demo_project/DPM_Demo_Project/08_Consent/07_03_Representative_OptIn_or_OptOut.md)
 
