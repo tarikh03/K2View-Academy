@@ -20,9 +20,22 @@ Once you saved the new Regulation, the screen of the Activities for this Regulat
 
 3. Select the <img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_New_Activity_Icon.png" width="10%" height="10%"> in order to add a new Activity under this Regulation. Populate the information for this new Activity as presented below, selecting for the Flow field the DSAR Tutorial Flow which was created in the previous steps. 
 
-![image](/articles/demo_project/DPM_Demo_Project/DPM_Demo_Project/images/01_03_DSAR_New_Activity.png)
+![image](/articles/demo_project/DPM_Demo_Project/DPM_Demo_Project/images/01_03_DSAR_Link_Activity_1.png)
 
-Saving the new Activity makes the new flow we created available for customers to submit requests based on it.  The execution of such requests is described in the next section of this tutorial: [DSAR Request Execution](). 
+<img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_Link_Activity_1.png" width="30%" height="30%">
+
+This screen allows you additional configuration, such as:
+
+- Use the <img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_Link_Activity_Allow_Extension_Icon.png" width="7%" height="7%"> icon in order to allow extension of the duration of the Activity.
+-  Use the <img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_Link_Activity_Automatic_Extension_Icon.png" width="7%" height="7%"> icon, which will result in automatic extension of the Activity SLA before it becomes overdue. The "Days Before Due" defines in how many days before the due date of a request should the automatic extension be triggered.  
+
+<img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_Link_Activity_2.png" width="30%" height="30%">
+
+Saving the new Activity makes the new flow we created available for customers to submit requests based on it.  
+
+<img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_Link_Activity_3.png" width="100%" height="100%">
+
+The submission and execution of such requests is described in the next section of this tutorial: [DSAR Request Execution](). 
 
   
 
