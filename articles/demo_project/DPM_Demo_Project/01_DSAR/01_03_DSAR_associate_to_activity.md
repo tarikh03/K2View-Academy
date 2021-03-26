@@ -1,4 +1,4 @@
-# Associate DSAR Flow to Activity of a Specific Regulation
+# Associate DSAR Flow to Activity
 
 In the previous steps we have configured the Flow that performs the tasks to retrieve customer data.
 
