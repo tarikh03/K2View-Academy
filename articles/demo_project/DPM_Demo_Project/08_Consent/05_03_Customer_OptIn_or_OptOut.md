@@ -2,7 +2,7 @@
 
 When a user changes consent topic preferences (example: from opt-in to opt-out), a dialog box displays to confirm the selection. This dialog box includes the opt-in or opt-out text defined in the consent configuration.
 
-Locate a Consent in the Consents table. Under the ACTIONS column, turn the On/Off slider to On to opt-in to the selected Consent..
+Locate a Consent in the Consents table. Under the ACTIONS column, turn the On/Off slider to On to opt-in to the selected Consent.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn.jpg)  
 
