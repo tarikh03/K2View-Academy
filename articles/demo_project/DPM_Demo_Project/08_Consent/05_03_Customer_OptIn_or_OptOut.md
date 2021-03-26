@@ -4,16 +4,24 @@ When a user changes consent topic preferences (example: from opt-in to opt-out),
 
 Locate a Consent in the Consents table. Under the ACTIONS column, turn the On/Off slider to On to opt-in to the selected Consent.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn.jpg)  
+![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn1.jpg)  
 
-A dialog box displays, verifying that you want to turn on the consent. The text entered into the Opt-In Text field of the New Consent screen displays in this dialog box as well.
+A dialog box displays, verifying that you want to turn on the consent.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn.jpg)                                   
+![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn2.jpg)                                   
 
 Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_OK.png) to turn on the consent. The On/Off slider is turned to “On”.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_3_Consent_CustConsent_OptIn_Callouts.jpg)  
+![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn4.jpg)  
 
 To opt-out of a Consent, locate a Consent in the Consents table. Under the ACTIONS column, turn the On/Off slider to Off to opt-out to the selected Consent.
 
-A dialog box displays, verifying that you want to turn off the consent. 
+![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn4.jpg)
+
+A dialog box displays, verifying that you want to turn off the consent.
+
+![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn3.jpg) 
+
+Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_OK.png) to turn on the consent. The On/Off slider is turned to “On”.
+
+![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn1.jpg) 
