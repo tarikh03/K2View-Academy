@@ -1,4 +1,4 @@
-### View Consents List
+### View the Consents List
 
 Enter your DPM application **Username** and **Password**.
 
