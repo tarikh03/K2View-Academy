@@ -1,4 +1,4 @@
-### Login to the System as a Representative
+### View Consents List
 
 Enter your DPM application **Username** and **Password**.
 
