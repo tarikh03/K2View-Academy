@@ -2,6 +2,8 @@
 
 When a user changes consent topic preferences (example: from opt-in to opt-out), a dialog box displays to confirm the selection. This dialog box includes the opt-in or opt-out text defined in the consent configuration.
 
+**Opt-In to a Consent**
+
 Locate a Consent in the Consents table. Under the ACTIONS column, turn the On/Off slider to On to opt-in to the selected Consent.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn1.jpg)  
@@ -15,6 +17,8 @@ Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_OK.png) to
 The On/Off slider is turned to “On”.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn4.jpg)  
+
+**Opt-Out of a Consent**
 
 To opt-out of a Consent, locate a Consent in the Consents table. Under the ACTIONS column, turn the On/Off slider to Off to opt-out to the selected Consent.
 
