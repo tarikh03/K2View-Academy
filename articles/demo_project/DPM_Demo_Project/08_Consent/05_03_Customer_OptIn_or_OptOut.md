@@ -26,6 +26,6 @@ A dialog box displays, verifying that you want to turn off the consent.
 
 Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_OK.png) to turn on the consent. 
 
-The On/Off slider is turned to “On”.
+The On/Off slider is turned to “Off”.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn1.jpg) 
