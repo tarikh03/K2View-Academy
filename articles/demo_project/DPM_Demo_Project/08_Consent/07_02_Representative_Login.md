@@ -1,4 +1,4 @@
-### Login to the System as a Representative
+### Login to the System
 
 Enter your DPM application **Username** and **Password**.
 
