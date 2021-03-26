@@ -8,6 +8,6 @@ The following simulation of working within DPM Consent Management will show you 
 
 [Opt-In or Opt-Out of Consents](/articles/demo_project/DPM_Demo_Project/08_Consent/07_03_Representative_OptIn_or_OptOut.md)
 
-[View and Search the Consent History](/articles/demo_project/DPM_Demo_Project/08_Consent/07_04_Representative_View_Consent_History.md)
+[View and Search the Consent History](/articles/demo_project/DPM_Demo_Project/08_Consent/07_06_Representative_View_Consent_History.md)
 
 [Logout of the System](/articles/demo_project/DPM_Demo_Project/08_Consent/07_05_Representative_Logout.md)
