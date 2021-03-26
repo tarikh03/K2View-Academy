@@ -26,8 +26,8 @@ Once you saved the new Regulation, the screen of the Activities for this Regulat
 
 This screen allows you additional configuration, such as:
 
-- Use the <img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_Link_Activity_Allow_Extension_Icon.png" width="7%" height="7%"> icon in order to allow extension of the duration of the Activity.
--  Use the <img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_Link_Activity_Automatic_Extension_Icon.png" width="7%" height="7%"> icon, which will result in automatic extension of the Activity SLA before it becomes overdue. The "Days Before Due" defines in how many days before the due date of a request should the automatic extension be triggered.  
+- Use the <img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_Link_Activity_Allow_Extension_Icon.png" width="13%" height="13%"> icon in order to allow extension of the duration of the Activity.
+-  Use the <img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_Link_Activity_Automatic_Extension_Icon.png" width="16%" height="16%"> icon, which will result in automatic extension of the Activity SLA before it becomes overdue. The "Days Before Due" defines in how many days before the due date of a request should the automatic extension be triggered.  
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_03_DSAR_Link_Activity_2.png" width="30%" height="30%">
 
