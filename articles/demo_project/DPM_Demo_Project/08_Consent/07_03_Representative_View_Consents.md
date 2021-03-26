@@ -6,7 +6,7 @@ Enter the **Customer ID**.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_3_Consent_RepConsent_Landing.jpg)                                   
 
-Click the ![image](/articles/demo_project/DPM_Demo_Project/images/08_01_Consent_AdminLogin.jpg) button. The customer Consents list displays.
+Click the ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_Search.jpg) button. The customer Consents list displays.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_4_Consent_RepConsent_Landing.jpg)
   
