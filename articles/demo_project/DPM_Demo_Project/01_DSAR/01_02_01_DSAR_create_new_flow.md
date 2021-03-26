@@ -22,11 +22,11 @@ You can now start adding Stages to this new Flow, and under each Stage, the Task
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Empty_Flow.png" width="100%" height="100%">
 
-4. Select the  <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Add_Stage_icon.png" width="10%" height="10%">  in order to add the first Stage. The Add Stage popup is presented
+4. Select the  <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Add_Stage_icon.png" width="5%" height="5%">  in order to add the first Stage. The Add Stage popup is presented
 
 5. fill the stage name and description. The first stage we create in this tutorial is called "Case Opening", where we will add tasks that validate the request, get the customer identification and notify the customer on the case opening. 
 
-<img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Add_Stage.png" width="100%" height="100%">
+<img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Add_Stage.png" width="30%" height="30%">
 
 Once you save the information, the Flow screen is updated to present the new Stage:
 
