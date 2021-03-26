@@ -10,7 +10,9 @@ A dialog box displays, verifying that you want to turn on the consent.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn2.jpg)                                   
 
-Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_OK.png) to turn on the consent. The On/Off slider is turned to “On”.
+Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_OK.png) to turn on the consent. 
+
+The On/Off slider is turned to “On”.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn4.jpg)  
 
@@ -22,6 +24,8 @@ A dialog box displays, verifying that you want to turn off the consent.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn3.jpg) 
 
-Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_OK.png) to turn on the consent. The On/Off slider is turned to “On”.
+Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_OK.png) to turn on the consent. 
+
+The On/Off slider is turned to “On”.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Consent_CustConsent_OptIn1.jpg) 
