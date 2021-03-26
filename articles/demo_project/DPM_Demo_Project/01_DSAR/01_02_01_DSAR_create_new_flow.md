@@ -31,3 +31,5 @@ You can now start adding Stages to this new Flow, and under each Stage, the Task
 Once you save the information, the Flow screen is updated to present the new Stage:
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Flow_With_New_Stage.png" width="100%" height="100%">
+
+In the next steps you will create the Tasks that perform the actual fulfilment flow for a specific DSAR request.
