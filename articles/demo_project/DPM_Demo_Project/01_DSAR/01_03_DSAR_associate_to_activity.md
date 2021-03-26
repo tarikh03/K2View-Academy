@@ -22,7 +22,7 @@ Once you saved the new Regulation, the screen of the Activities for this Regulat
 
 ![image](/articles/demo_project/DPM_Demo_Project/DPM_Demo_Project/images/01_03_DSAR_New_Activity.png)
 
-Saving the new Activity makes the new flow we created available for customers to submit requests based on it.  The execution of such requests is described in the [DSAR Request Execution]() section of this tutorial. 
+Saving the new Activity makes the new flow we created available for customers to submit requests based on it.  The execution of such requests is described in the next section of this tutorial: [DSAR Request Execution](). 
 
   
 
