@@ -9,7 +9,7 @@ Use the credentials
 
 This user  is defined as an administrator user. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_Login_Admin.png)
+<img src="/articles/demo_project/DPM_Demo_Project/images/01_DSAR_Login_Admin.png" width="30%" height="30%">
 
 As a result, the initial screen of the Admin module is presented. 
  
