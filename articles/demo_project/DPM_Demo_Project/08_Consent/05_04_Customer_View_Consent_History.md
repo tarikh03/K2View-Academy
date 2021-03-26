@@ -14,7 +14,7 @@ The Consents History screens displays.
 
 **Search for Consents**
 
-To search a specific consent, use the "Search" option at the top-right of the Consents table.
+To search a specific consent, use the "Search" option at the top-right of the Consents History table.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_1_Consent_CustConsent_ConsentsHistory3.jpg)
 
