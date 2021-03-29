@@ -44,7 +44,7 @@ Enter an **Exclude Pattern**.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_11_Discovery_NewMatchingRule9.jpg)
 
-Review your entries as needed, and then click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_Save.jpg).                             .
+Review your entries as needed, and then click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_Save.jpg).
 
 The New Matching Rule displays in the Matching Rules table. If your table contains entries that span across multiple screen pages, you can distill the results by selecting the relevant Matching Type. Since we chose the “Column” Matching Type for the New Matching Rule, select Column from the Matching Type dropdown list.
 
