@@ -6,15 +6,15 @@ Click the ![image](/articles/demo_project/DPM_Demo_Project/images/ICON_NewMatchi
 
 The New Matching Rule dialog box displays. 
 
-For this tutorial, we will select a **Column** Matching Type. 
-
-<NewMatchingRule>
+![image](/articles/demo_project/DPM_Demo_Project/images/08_1_Discovery_NewMatchingRule.jpg)
 
 Select a **Matching** **Category**. Categories are used for grouping New Matching Rule topics. This field lets the user classify the new consent under an existing Category or select **New Category** to manually enter a new one.
 
+![image](/articles/demo_project/DPM_Demo_Project/images/08_4_Discovery_NewMatchingRule2.jpg)
+
 The following example shows the New Matching Rule screen populated with sample information.
 
-<image>
+![image](/articles/demo_project/DPM_Demo_Project/images/08_11_Discovery_NewMatchingRule9.jpg)
 
 For this tutorial, select **CONTACT INFO**.
 
@@ -28,7 +28,7 @@ Set the **Probability** percentage of the New Matching Rule. For example, when y
 
 <NewMatchingRule4>
 
-Select the **Matching Type**. For this tutorial, select **Column**. 
+Select the **Matching Type**. For this tutorial, we will select a **Column** Matching Type. 
 
 After you select a Matching Type, additional entry fields will display. The fields that display depend upon your selection. 
 
