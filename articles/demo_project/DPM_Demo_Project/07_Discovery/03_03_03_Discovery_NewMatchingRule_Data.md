@@ -14,7 +14,7 @@ Select a **Matching** **Category**. Categories are used for grouping New Matchin
 
 The following example shows the New Matching Rule screen populated with sample information.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/07_11_Discovery_NewMatchingRule9.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule13_Data3.jpg)
 
 For this tutorial, select **CONTACT INFO**.
 
