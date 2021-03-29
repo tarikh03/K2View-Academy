@@ -8,4 +8,4 @@ To mark your Flow as complete, select the <img src="/articles/demo_project/DPM_D
 
 As a result, the Flow status is now marked as Completed and no further changes can be done to this Flow. 
 
-<img src="/articles/demo_project/DPM_Demo_Project/images/01_02_04_DSAR_Marking_As_Complete.png" width="100%" height="100%">
+<img src="/articles/demo_project/DPM_Demo_Project/images/01_02_04_DSAR_Completed_Flow.png" width="100%" height="100%">
