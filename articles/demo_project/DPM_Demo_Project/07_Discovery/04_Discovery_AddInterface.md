@@ -48,4 +48,4 @@ Review your entries as needed, and then click ![image](/articles/demo_project/DP
 
 The New Discovery Interface displays in the Interfaces Configuration table. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/07_13_Discovery_InterfacesTab_CreateNew10.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/07_13_Discovery_InterfacesTab_CreateNew11.jpg)
