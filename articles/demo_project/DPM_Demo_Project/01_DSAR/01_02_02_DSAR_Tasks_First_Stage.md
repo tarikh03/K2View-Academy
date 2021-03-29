@@ -24,7 +24,7 @@ This task is an automatic task that verifies if the customer already has another
 
 3. Move to the "Operations" tab of the Task configuration screen, and select caseCheckIfDuplicate from the operations drop down, as shown below. The caseCheckIfDuplicate is a built in operation which performs the Duplicate Case validation. The DPM includes a long list of such automatic operations, and any other operation that is specific for your project can be created to meet your needs.
 
-<img src="/articles/demo_project/DPM_Demo_Project/images/01_02_02_DSAR_Check_Case_Duplication_operations.png" width="100%" height="100%">
+<img src="/articles/demo_project/DPM_Demo_Project/images/01_02_02_DSAR_Check_Case_Duplication_operations.png" width="80%" height="80%">
 
 4. The first Task is ready! Save the Task and you will be directed back to the Flow screen, where you can continue and add the following Tasks. 
 
