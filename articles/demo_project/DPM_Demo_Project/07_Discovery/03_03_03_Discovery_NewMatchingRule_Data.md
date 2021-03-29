@@ -34,7 +34,7 @@ Select the **Matching Type**. For this tutorial, we will select a **Data** Match
 
 After you select a Matching Type, additional entry fields will display. The fields that display depend upon your selection. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule13_Data2.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule13_Data1.jpg)
 
 Enter a **Match Pattern**.
 
