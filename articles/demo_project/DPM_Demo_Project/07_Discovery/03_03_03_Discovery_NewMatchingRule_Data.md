@@ -30,7 +30,7 @@ Set the **Probability** percentage of the New Matching Rule. For example, when y
 
 Select the **Matching Type**. For this tutorial, we will select a **Data** Matching Type. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule13_Data1.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/07_7_Discovery_NewMatchingRule5.jpg)
 
 After you select a Matching Type, additional entry fields will display. The fields that display depend upon your selection. 
 
