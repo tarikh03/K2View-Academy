@@ -14,7 +14,7 @@ Select a **Matching** **Category**. Categories are used for grouping New Matchin
 
 The following example shows the New Matching Rule screen populated with sample information.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule13_DataFunction3.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule13_DataSample3.jpg)
 
 For this tutorial, select **CONTACT INFO**.
 
@@ -34,18 +34,18 @@ Select the **Matching Type**. For this tutorial, we will select a **Data Sample*
 
 After you select a Matching Type, additional entry fields will display. The fields that display depend upon your selection. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule13_DataFunction1.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule13_DataSample1.jpg)
 
 Select a **Data Samples Category** from the dropdown list. For this tutorial, select **LANGUAGE_SAMPLE**.
 
-<image>
+![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule13_DataSample2.jpg)
 
-Review your entries as needed, and then click                                 .
+Review your entries as needed, and then click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_Save.jpg).
 
 The New Matching Rule displays in the Matching Rules table. If your table contains entries that span across multiple screen pages, you can distill the results by selecting the relevant Matching Type. Since we chose the “Data Sample” Matching Type for the New Matching Rule, select **Data Sample** from the Matching Type dropdown list.
 
-<image>
+![image](/articles/demo_project/DPM_Demo_Project/images/07_2_Discovery_NewMatchingRule10.jpg)
 
 The New Matching Rule displays in the table.
 
-<image>
+![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule13_DataSample4.jpg)
