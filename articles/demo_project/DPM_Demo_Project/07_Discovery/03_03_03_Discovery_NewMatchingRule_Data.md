@@ -52,4 +52,4 @@ The New Matching Rule displays in the Matching Rules table. If your table contai
 
 The New Matching Rule displays in the table.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule11_DataCallout.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule12_DataCallout.jpg)
