@@ -18,7 +18,7 @@ This task is an automatic task that verifies if the customer already has another
 
 1.  In the screen of the DSAR Tutorial Flow  select <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_02_DSAR_New_Task_Icon.png" width="5%" height="5%"> the at the right side of the window, in order to add a new Task:
 
-<img src="/articles/demo_project/DPM_Demo_Project/images/01_02_02_DSAR_Check_Case_Duplication.png" width="100%" height="100%">
+<img src="/articles/demo_project/DPM_Demo_Project/images/01_02_02_DSAR_Check_Case_Duplication.png" width="80%" height="80%">
 
 2. Populate the fields in this window in the same way shown in the image above. As this is going to be an automatic activity, we set the Role to be "Case Owner". If the automatic process fails for some reason, it will be the Case Owner of this request who will receive the failure notification. Note that the Task order was set automatically to 1 as this is the first task you created. The order can be changed later on if needed.
 
@@ -28,7 +28,7 @@ This task is an automatic task that verifies if the customer already has another
 
 4. The first Task is ready! Save the Task and you will be directed back to the Flow screen, where you can continue and add the following Tasks. 
 
-   <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_02_DSAR_Flow_One_Task.png" width="100%" height="100%">
+<img src="/articles/demo_project/DPM_Demo_Project/images/01_02_02_DSAR_Flow_One_Task.png" width="100%" height="100%">
 
 ### Get Customer ID
 
