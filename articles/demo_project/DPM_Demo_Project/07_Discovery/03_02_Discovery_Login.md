@@ -12,9 +12,9 @@ Once a user logs into the DPM system as an Administrator, the screen is updated 
 
 Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_ConsentManagement.png)  under the ADMIN menu options, located on the left side of the screen. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_20_Consent_AdminConsent_LeftPanel.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/08_1_Discovery_LeftPanel.jpg)
 
 The Discovery Matching Rules screen displays.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_21_Consent_AdminConsent_Main.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/08_12_Discovery_RulesTab.jpg)
 
