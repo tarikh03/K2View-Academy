@@ -8,6 +8,6 @@ Assuming you reached this section after following the login steps in the previou
 
 1.  [Create a new Flow and Stage](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_02_01_DSAR_create_new_flow.md)
 2.  [Case Opening and customer notification Tasks](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_02_02_DSAR_Tasks_First_Stage.md)
-3.  [Data Gathering and Review Tasks](articles/demo_project/DPM_Demo_Project/01_DSAR/01_DSAR_Data_Gathering_and_Review_Tasks.md)
-4.  [Marking the Flow as complete](articles/demo_project/DPM_Demo_Project/01_DSAR/01_DSAR_Mark_Flow_as_Complete.md)
+3.  [Data Gathering and Review Tasks](articles/demo_project/DPM_Demo_Project/01_DSAR/01_02_03_DSAR_Tasks_Next_Stages.md)
+4.  [Marking the Flow as complete](articles/demo_project/DPM_Demo_Project/01_DSAR/01_02_04_DSAR_Finalize_Flow.md)
 
