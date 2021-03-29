@@ -35,20 +35,21 @@ Select the **Matching Type**. For this tutorial, we will select a **Data Functio
 After you select a Matching Type, additional entry fields will display. The fields that display depend upon your selection. 
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/07_8_Discovery_NewMatchingRule6.jpg)
+
 After you select a Matching Type, additional entry fields will display. The fields that display depend upon your selection. 
 
-<image>
+![image](/articles/demo_project/DPM_Demo_Project/images/07_8_Discovery_NewMatchingRule6.jpg)
 
 Select a **Data Function** from the dropdown list. For this tutorial, select **dfnDiscovery_ValidateSSN**.
 
-<image>
+![image](/articles/demo_project/DPM_Demo_Project/images/07_8_Discovery_NewMatchingRule6.jpg)
 
-Review your entries as needed, and then click                                 .
+Review your entries as needed, and then click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_Save.jpg).
 
 The New Matching Rule displays in the Matching Rules table. If your table contains entries that span across multiple screen pages, you can distill the results by selecting the relevant Matching Type. Since we chose the “Data Function” Matching Type for the New Matching Rule, select **Data Function** from the Matching Type dropdown list.
 
-<image>
+![image](/articles/demo_project/DPM_Demo_Project/images/07_2_Discovery_NewMatchingRule10.jpg)
 
 The New Matching Rule displays in the table.
 
-<image>
+![image](/articles/demo_project/DPM_Demo_Project/images/07_8_Discovery_NewMatchingRule6.jpg)
