@@ -1,8 +1,10 @@
 ### Create a New Matching Rule - Column Type
 
+Click the ![image](/articles/demo_project/DPM_Demo_Project/images/ICON_NewMatchingRule.jpg) button at the top-right of the screen in order to configure a new matching rule. 
+
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_12_Discovery_RulesTab.jpg)
 
-Click the ![image](/articles/demo_project/DPM_Demo_Project/images/ICON_NewMatchingRule.jpg) button at the top-right of the screen in order to configure a new matching rule. The New Matching Rule dialog box displays. 
+The New Matching Rule dialog box displays. 
 
 For this tutorial, we will select a **Column** Matching Type. 
 
