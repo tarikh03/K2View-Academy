@@ -2,7 +2,7 @@
 
 Click the ![image](/articles/demo_project/DPM_Demo_Project/images/ICON_NewMatchingRule.jpg) button at the top-right of the screen in order to configure a new matching rule. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_12_Discovery_RulesTab.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/08_12_Discovery_RulesTab_Callout.jpg)
 
 The New Matching Rule dialog box displays. 
 
