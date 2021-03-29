@@ -18,36 +18,38 @@ The following example shows the New Matching Rule screen populated with sample i
 
 For this tutorial, select **CONTACT INFO**.
 
-<NewMatchingRule2>
+![image](/articles/demo_project/DPM_Demo_Project/images/08_4_Discovery_NewMatchingRule2.jpg)
 
 Select the **Field Type**. For this tutorial, select **SOCIAL_SECURITY_NUMBER**. 
 
-<NewMatchingRule3>
+![image](/articles/demo_project/DPM_Demo_Project/images/08_5_Discovery_NewMatchingRule3.jpg)
 
 Set the **Probability** percentage of the New Matching Rule. For example, when you validate a social security number, the 9-digit number could be an account number of the same format. Therefore, the Probability would be lower. For this tutorial, we will set the Probability to **80**%. 
 
-<NewMatchingRule4>
+![image](/articles/demo_project/DPM_Demo_Project/images/08_6_Discovery_NewMatchingRule4.jpg)
 
 Select the **Matching Type**. For this tutorial, we will select a **Column** Matching Type. 
 
+![image](/articles/demo_project/DPM_Demo_Project/images/08_7_Discovery_NewMatchingRule5.jpg)
+
 After you select a Matching Type, additional entry fields will display. The fields that display depend upon your selection. 
 
-<NewMatchingRule5>
+![image](/articles/demo_project/DPM_Demo_Project/images/08_8_Discovery_NewMatchingRule6.jpg)
 
 Enter a **Match Pattern**.
 
-<NewMatchingRule6>
+![image](/articles/demo_project/DPM_Demo_Project/images/008_9_Discovery_NewMatchingRule7.jpg)
 
 Enter an **Exclude Pattern**.
 
-<NewMatchingRule7>
+![image](/articles/demo_project/DPM_Demo_Project/images/08_11_Discovery_NewMatchingRule9.jpg)
 
-Review your entries as needed, and then click  <ICONSave>                               .
+Review your entries as needed, and then click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_Save.jpg).                             .
 
 The New Matching Rule displays in the Matching Rules table. If your table contains entries that span across multiple screen pages, you can distill the results by selecting the relevant Matching Type. Since we chose the “Column” Matching Type for the New Matching Rule, select Column from the Matching Type dropdown list.
 
-<NewMatchingRule10>
+![image](/articles/demo_project/DPM_Demo_Project/images/08_2_Discovery_NewMatchingRule10.jpg)
 
 The New Matching Rule displays in the table.
 
-<NewMatchingRule11>
+![image](/articles/demo_project/DPM_Demo_Project/images/08_3_Discovery_NewMatchingRule11.jpg)
