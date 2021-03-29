@@ -4,7 +4,6 @@ Enter your DPM application **Username** and **Password**.
 
 ![image](/articles/demo_project/images/08_01_Consent_AdminLogin.jpg)
 
-
 Click **Login**. 
 
 Once a user logs into the DPM system as an Administrator, the screen is updated with two frames (windows) of information. The left frame displays a list of menu options for this module. The right frame displays the interactive components of the selection. The Regulations List screen displays by default after logging into the system.
