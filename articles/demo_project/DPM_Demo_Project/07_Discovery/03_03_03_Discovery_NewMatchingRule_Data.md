@@ -30,19 +30,19 @@ Set the **Probability** percentage of the New Matching Rule. For example, when y
 
 Select the **Matching Type**. For this tutorial, we will select a **Data** Matching Type. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/07_7_Discovery_NewMatchingRule5.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule13_Data1.jpg)
 
 After you select a Matching Type, additional entry fields will display. The fields that display depend upon your selection. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/07_8_Discovery_NewMatchingRule6.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule13_Data2.jpg)
 
 Enter a **Match Pattern**.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/07_9_Discovery_NewMatchingRule7.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule13_Data2.jpg)
 
 Enter an **Exclude Pattern**.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/07_11_Discovery_NewMatchingRule9.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/07_3_Discovery_NewMatchingRule13_Data3.jpg)
 
 Review your entries as needed, and then click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_Save.jpg).
 
