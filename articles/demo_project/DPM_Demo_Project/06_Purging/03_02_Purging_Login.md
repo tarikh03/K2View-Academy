@@ -14,6 +14,6 @@ Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_1_Purging_Reque
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/06_1_Purging_Request_LeftPanel2.jpg)     
 
-The Requests screen displays.
+The New Request screen displays.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/06_2_Purging_Request1.jpg)      
