@@ -32,4 +32,9 @@ Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_OK.png) to
 
 The On/Off slider is turned to “Off”.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_8_Consent_RepConsent_Landing3.jpg) 
+![image](/articles/demo_project/DPM_Demo_Project/images/08_8_Consent_RepConsent_Landing3.jpg)
+
+
+
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/08_Consent/07_03_Representative_View_Consents.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/08_Consent/07_05_Representative_View_Consent_History.md)
+
