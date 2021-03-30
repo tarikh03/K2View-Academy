@@ -1,6 +1,6 @@
 ## View Purged Data in the Source Systems
 
-You can view any purged data in the environment we generated for you as a sandbox. This includes two separate applications that act as "Source Systems" to simulate a real-world company with multiple source systems.
+Any purged data is removed from the DPM System in a real-world environment; however, you can view purged data in the environment we generated for you as a sandbox. This includes two separate applications that act as "Source Systems" to simulate a company with multiple source systems.
 
 The two applications that we picked up to simulate source systems are:
 
