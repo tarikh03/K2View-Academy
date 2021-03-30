@@ -52,3 +52,8 @@ Review your entries as needed, and then click ![image](/articles/demo_project/DP
 The New Consent displays in the Consents table. The rows are separated by Category. Since we chose “Marketing” Category in the New Consent, it displays under the Marketing Category, along with all other Consents of the same Category.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_5_Consent_AdminConsent_Add10_Callout.jpg)     
+
+
+
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/08_Consent/03_02_Admin_Consent_Login.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/08_Consent/03_04_Admin_Consent_Logout.md)
+
