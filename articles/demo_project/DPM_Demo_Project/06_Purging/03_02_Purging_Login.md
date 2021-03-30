@@ -10,10 +10,10 @@ Once a user logs into the DPM system as an Customer, the screen is updated with 
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_4_Consent_CustConsent_Landing1.jpg)    
 
-Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_ConsentManagement.png) under the CUSTOMER menu options, located on the left side of the screen. 
+Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_1_Purging_Request_LeftPanel.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_5_Consent_CustConsent_LeftPanel.jpg)     
+![image](/articles/demo_project/DPM_Demo_Project/images/06_1_Purging_Request_LeftPanel2.jpg)     
 
-The Consent Management screen displays.
+The Requests screen displays.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_3_Consent_CustConsent_Landing.jpg)      
+![image](/articles/demo_project/DPM_Demo_Project/images/06_2_Purging_Request1.jpg)      
