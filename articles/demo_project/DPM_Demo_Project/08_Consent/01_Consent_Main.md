@@ -13,3 +13,7 @@ This demonstration will guide you through the process of a typical Consent Manag
 [Representative Consent Introduction](/articles/demo_project/DPM_Demo_Project/08_Consent/06_Representative_Consent_Introduction.md)
 
 [Representative Consent Tutorial](/articles/demo_project/DPM_Demo_Project/08_Consent/07_01_Representative_Consent_Tutorial.md)
+
+
+
+[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/08_Consent/02_Admin_Consent_Introduction.md)
