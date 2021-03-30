@@ -6,4 +6,4 @@ Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_SignOut.jp
 
 
 
-[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/08_Consent/03_03_Admin_Create_New_Consent.md)[<p align="right"> Return to Representative Consent Tutorial</p>](/articles/demo_project/DPM_Demo_Project/08_Consent/03_04_Admin_Consent_Logout.md)
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/08_Consent/07_05_Representative_View_Consent_History.md)[<p align="right"> Return to Representative Consent Tutorial</p>](/articles/demo_project/DPM_Demo_Project/08_Consent/06_Representative_Consent_Introduction.md)
