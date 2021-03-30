@@ -2,16 +2,24 @@
 
 After a Customer submits a new request to **Delete My Data**, you can ensure that the Request task list has cycled through to its completion. When the Request is marked Complete, the Customer data has been successfully purged from the system.
 
-Select a Regulation from the drop-down list. For this tutorial, we will select **CCPA**.
+Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_9_Purging_RequestList_LeftPanel.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/06_3_Purging_DeleteMyData_Reg.jpg)  
+![image](/articles/demo_project/DPM_Demo_Project/images/06_10_Purging_RequestList_LeftPanel2.jpg)     
 
-Select **Delete My Data** under the "Request Type" section.
+The Requests List screen displays.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/06_5_Purging_DeleteMyData_Req2.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/06_8_Purging_EnsureDeletion.jpg)
 
-Complete the field(s) on the right side of the form. The **Delete My Data** Request Type under the **CCPA** Regulation displays only an email address entry field. Enter the Customer email address. Confirmation of data deletion will be sent to the email address entered into this field. 
+If your table contains entries that span across multiple screen pages, you can sort the Request List by completion status. Select the up/down arrows to the right side of the **STATUS** column. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/06_7_Purging_DeleteMyData_Req4.jpg)     
+![image](/articles/demo_project/DPM_Demo_Project/images/06_8_Purging_EnsureDeletion5.jpg)
 
-Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Submit.jpg) to delete the Customer data.
+Locate and click your Request.
+
+![image](/articles/demo_project/DPM_Demo_Project/images/06_8_Purging_EnsureDeletion4.jpg)
+
+The Request Details dialog box displays. 
+
+![image](/articles/demo_project/DPM_Demo_Project/images/06_11_Purging_EnsureDeletion2.jpg)
+
+Click the ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Close.jpg) button to close the dialog box and return to the Requests List.
