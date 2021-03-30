@@ -17,3 +17,7 @@ Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_ConsentMan
 The Consent Management screen displays.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_21_Consent_AdminConsent_Main.jpg)
+
+
+
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/08_Consent/03_01_Admin_Consent_Tutorial.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/08_Consent/03_03_Admin_Create_New_Consent.md)
