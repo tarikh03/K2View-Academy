@@ -2,10 +2,10 @@
 
 The following simulation of working within DPM Requests will show you how to log in, submit a Request, ensure your Request was Marked Complete, and view your purged data in the demo "Source Systems".
 
-Login to the System
+[Login to the System](/articles/demo_project/DPM_Demo_Project/06_Purging/03_02_Purging_Login.md)
 
-Submit a Request to Purge Data
+[Submit a Request to Purge Data](/articles/demo_project/DPM_Demo_Project/06_Purging/03_03_Purging_Submit_a_Request_to_Purge.md)
 
-Ensure Your Request was Marked Complete
+[Ensure Purged Data is Marked Complete](/articles/demo_project/DPM_Demo_Project/06_Purging/03_04_Purging_Ensure_Marked_Complete.md)
 
-Viewing Your Purged Data
+[View Purged Data in Source Systems](/articles/demo_project/DPM_Demo_Project/06_Purging/03_05_Purging_View_Your_Data.md)
