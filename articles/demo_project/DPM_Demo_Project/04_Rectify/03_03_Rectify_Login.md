@@ -16,4 +16,4 @@ Once a user logs into the DPM system as an Customer, the screen is updated with 
 
 
 
-[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/05_Masking/03_02_Masking_Preview_Your_Data.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/05_Masking/03_04_Masking_Submit_a_Request_to_Mask.md)
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/04_Rectify/03_02_Rectify_Preview_Your_Data.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/04_Rectify/03_04_Rectify_Submit_a_Request_to_Rectify.md)
