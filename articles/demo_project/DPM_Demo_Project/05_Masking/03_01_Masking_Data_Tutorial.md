@@ -8,7 +8,7 @@ The following simulation of working within DPM Requests will show you how to pre
 
 [Submit a Request to Mask Data](/articles/demo_project/DPM_Demo_Project/05_Masking/03_04_Masking_Submit_a_Request_to_Mask.md)
 
-[Ensure Masked Data is Marked Complete](/articles/demo_project/DPM_Demo_Project/05_Masking/03_05_Masking_Ensure_Marked_Complete.md)
+[Ensure Your Request is Marked Complete](/articles/demo_project/DPM_Demo_Project/05_Masking/03_05_Masking_Ensure_Marked_Complete.md)
 
 [Review Masked Data in the Source Systems](/articles/demo_project/DPM_Demo_Project/05_Masking/03_06_Masking_Review_Your_Data.md)
 
