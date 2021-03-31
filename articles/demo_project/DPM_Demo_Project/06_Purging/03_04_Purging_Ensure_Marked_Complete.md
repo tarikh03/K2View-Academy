@@ -6,11 +6,13 @@ Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_9_Purging_Reque
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/06_10_Purging_RequestList_LeftPanel2.jpg)     
 
-The Requests List screen displays the progress of a submitted Requests. To more easily and quickly view the one submitted by Rick Jones in the previous tutorial, click the up/down arrows to the right side of the **CREATED** column. This sorts the list by submission time and date, and the most recent should display at or near the top row when sorted by descending order. 
+The Requests List screen displays the progress of a submitted Requests. To more easily and quickly view the one you submitted in the previous tutorial, click the up/down arrows to the right side of the **CREATED** column. This sorts the list by submission time and date, and the most recent should display at or near the top row when sorted by descending order. 
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/06_8_Purging_EnsureDeletion_Sort.jpg)
 
-Locate and click your Request.
+Locate click your Request.
+
+**Note**: It may take a few miutes for the system to purge the data. You can follow the progress by viewing the status bar directly underneath the **REQUEST ID** name.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/06_8_Purging_EnsureDeletion4.jpg)
 
