@@ -17,3 +17,7 @@ Complete the field(s) on the right side of the form. The **Delete My Data** Requ
 ![image](/articles/demo_project/DPM_Demo_Project/images/06_7_Purging_DeleteMyData_Req4.jpg)     
 
 Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Submit.jpg) to delete the Customer data.
+
+
+
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/06_Purging/03_02_Purging_Login.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/06_Purging/03_04_Purging_Ensure_Marked_Complete.md)
