@@ -1,4 +1,4 @@
-## Ensure Your Request was Marked Complete
+## Ensure Your Request is Marked Complete
 
 After a Customer submits a new request to **Anonymize My Data**, the next step in the data masking process takes place on the **Requests List** screen. This screen lets the Customer review the case progress while the system automatically masks data based upon masking policies configured for this activity. The Customer should wait for the activities to be completed, and they can follow that progress on the Requests List screen. When the Request is marked Complete, the Customer data has been successfully masked in the system.
 
