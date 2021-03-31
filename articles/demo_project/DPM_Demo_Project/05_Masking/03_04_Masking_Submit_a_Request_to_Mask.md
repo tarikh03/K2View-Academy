@@ -18,13 +18,13 @@ Select a Regulation from the drop-down list. For this tutorial, we will select *
 
 Select **Anonymize My Data** under the "Request Type" section.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/06_5_Purging_DeleteMyData_Req2.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/05_1_Masking_AnonMyData.jpg)
 
-Complete the field(s) on the right side of the form. The **Delete My Data** Request Type under the **CCPA** Regulation displays only an email address entry field. Enter the Customer email address. Confirmation of data deletion will be sent to the email address entered into this field. 
+Complete the field(s) on the right side of the form. The **Anonymize My Data** Request Type under the **CCPA** Regulation displays only an email address entry field. Enter the Customer email address. Confirmation of data masking will be sent to the email address entered into this field. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/06_7_Purging_DeleteMyData_Req4.jpg)     
+![image](/articles/demo_project/DPM_Demo_Project/images/05_2_Masking_AnonMyData.jpg)     
 
-Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Submit.jpg) to submit the request to delete the Customer data.
+Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Submit.jpg) to submit the request to mask the Customer data.
 
 
 
