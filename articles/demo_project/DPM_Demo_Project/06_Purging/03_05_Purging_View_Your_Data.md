@@ -1,6 +1,6 @@
 ## View Purged Data in the Source Systems
 
-When the status bar reaches the end of the **REQUEST ID** field and turns fully green, the status changes to **Complete**. In a real-world environment, any purged data is completely removed from the DPM System. For this tutorial, access the two source systems set up for simulation purposes. 
+When the status bar reaches the end of the **REQUEST ID** field and turns fully green, the status changes to **Complete**. In a real-world environment, a status marked **Complete** means that any purged data is completely removed from the DPM System. For this tutorial, access the two source systems we set up for simulation purposes. 
 
 The two applications that we use to simulate source systems are:
 
