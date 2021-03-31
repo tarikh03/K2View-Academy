@@ -1,4 +1,4 @@
-## Masking Data Introduction
+## Data Rectification Introduction
 
 When a Customer enters a New Request, the system displays the Request Details screen. The list of Request Types and the information provided for each is defined by implementation using the Admin module.
 
