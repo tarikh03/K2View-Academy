@@ -4,7 +4,7 @@ The following simulation of working within DPM Requests will show you how to pre
 
 [Preview Your Data in the Source Systems](/articles/demo_project/DPM_Demo_Project/04_Rectify/03_02_Rectify_Preview_Your_Data.md)
 
-[Login to the System](/articles/demo_project/DPM_Demo_Project/04_Rectify/03_03_Rectify_Login.md)
+[Login to the System as a Customer](/articles/demo_project/DPM_Demo_Project/04_Rectify/03_03_Rectify_Login.md)
 
 [Submit a Request to Rectify Data](/articles/demo_project/DPM_Demo_Project/04_Rectify/03_04_Rectify_Submit_a_Request_to_Rectify.md)
 
