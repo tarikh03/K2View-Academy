@@ -16,7 +16,7 @@ Select a Regulation from the drop-down list. For this tutorial, we will select *
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/06_3_Purging_DeleteMyData_Reg.jpg)  
 
-Select **Delete My Data** under the "Request Type" section.
+Select **Anonymize My Data** under the "Request Type" section.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/06_5_Purging_DeleteMyData_Req2.jpg)
 
