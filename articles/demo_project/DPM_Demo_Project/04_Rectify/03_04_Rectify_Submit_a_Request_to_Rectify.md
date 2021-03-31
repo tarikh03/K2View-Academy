@@ -28,4 +28,4 @@ Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Submit.jpg
 
 
 
-[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/05_Masking/03_03_Masking_Login.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/05_Masking/03_05_Masking_Ensure_Marked_Complete.md)
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/04_Rectify/03_03_Rectify_Login.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/04_Rectify/03_05_Rectify_Ensure_Marked_Complete.md)
