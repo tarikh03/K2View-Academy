@@ -1,4 +1,4 @@
-## Ensure Your Request was Marked Complete
+## Ensure Your Request is Marked Complete
 
 After a Customer submits a new request to **Delete My Data**, the next step in the data purging process takes place on the **Requests List** screen. This screen lets the Customer review the case progress while the system automatically deletes data based upon deletion policies configured for this activity. The Customer should wait for the activities to be completed, and they can follow that progress on the Requests List screen. When the Request is marked Complete, the Customer data has been successfully purged from the system.
 
