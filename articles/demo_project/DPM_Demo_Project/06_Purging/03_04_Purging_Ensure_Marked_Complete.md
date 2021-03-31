@@ -23,3 +23,7 @@ The Request Details dialog box displays.
 ![image](/articles/demo_project/DPM_Demo_Project/images/06_11_Purging_EnsureDeletion2.jpg)
 
 Click the ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Close.jpg) button to close the dialog box and return to the Requests List.
+
+
+
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/06_Purging/03_03_Purging_Submit_a_Request_to_Purge.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/06_Purging/03_05_Purging_View_Your_Data.md)
