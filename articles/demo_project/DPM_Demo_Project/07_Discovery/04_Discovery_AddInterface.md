@@ -49,3 +49,7 @@ Review your entries as needed, and then click ![image](/articles/demo_project/DP
 The New Discovery Interface displays in the Interfaces Configuration table. 
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/07_13_Discovery_InterfacesTab_CreateNew11.jpg)
+
+
+
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/07_Discovery/03_03_05_Discovery_NewMatchingRule_DataSample.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/07_Discovery/05_Discovery_SubmitDiscoveryRequest.md)
