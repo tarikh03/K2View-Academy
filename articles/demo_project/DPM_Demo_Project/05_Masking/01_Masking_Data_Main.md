@@ -1,6 +1,6 @@
 # Masking Data Overview
 
-This demonstration will guide you through the process of a typical data masking lifecycle. A lifecycle begins with a Customer request to anonymize their data at all source systems. It completes itself with the Customer verifying that the data was purged from the source.
+This demonstration will guide you through the process of a typical data masking lifecycle. A lifecycle begins with a Customer request to anonymize their data at all source systems. It completes itself with the Customer verifying that the data was masked in the source system.
 
 [Masking Data Introduction](/articles/demo_project/DPM_Demo_Project/06_Purging/02_Purging_Data_Introduction.md)
 
