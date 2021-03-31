@@ -1,6 +1,9 @@
 ## Login to the System as a Customer
 
-Enter your DPM application **Username** and **Password**.
+For this tutorial, enter the following credentials to access user information with a Customer role.
+
+**Username** - rickjones
+**Password** - k2view
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_6_Consent_CustConsent_Login.jpg)                                  
 
