@@ -14,4 +14,4 @@ The following simulation of working within DPM Requests will show you how to pre
 
 
 
-[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/05_Masking/02_Purging_Data_Introduction.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/05_Masking/03_02_Purging_Login.md)
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/05_Masking/02_Masking_Data_Introduction.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/05_Masking/03_02_Masking_Preview_Your_Data.md)
