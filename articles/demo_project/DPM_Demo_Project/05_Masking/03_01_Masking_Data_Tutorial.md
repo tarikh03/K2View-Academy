@@ -1,6 +1,6 @@
 ## Masking Data Tutorial
 
-The following simulation of working within DPM Requests will show you how to preview data the Customer intends to mask in the demo "Source Systems". After previewing the data, you will log in to DPM, submit a Request, ensure the Request is marked Complete, and return to the “Source Systems” to review the masked data.
+The following simulation of working within DPM Requests will show you how to preview data the Customer intends to mask in the demonstration source systems. After previewing the data, you will log in to DPM, submit a Request, ensure the Request is marked Complete, and return to the demonstration source systems to review the masked data.
 
 [Preview Masked Data in Source Systems](/articles/demo_project/DPM_Demo_Project/05_Masking/03_02_Masking_Preview_Your_Data.md)
 
