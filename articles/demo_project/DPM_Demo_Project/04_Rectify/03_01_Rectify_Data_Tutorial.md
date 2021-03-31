@@ -8,7 +8,7 @@ The following simulation of working within DPM Requests will show you how to pre
 
 [Submit a Request to Rectify Data](/articles/demo_project/DPM_Demo_Project/04_Rectify/03_04_Rectify_Submit_a_Request_to_Rectify.md)
 
-[Ensure Rectified Data is Marked Complete](/articles/demo_project/DPM_Demo_Project/04_Rectify/03_05_Rectify_Ensure_Marked_Complete.md)
+[Ensure Your Request is Marked Complete](/articles/demo_project/DPM_Demo_Project/04_Rectify/03_05_Rectify_Ensure_Marked_Complete.md)
 
 [Review Rectified Data in the Source Systems](/articles/demo_project/DPM_Demo_Project/04_Rectify/03_06_Rectify_Review_Your_Data.md)
 
