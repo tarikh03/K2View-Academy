@@ -1,12 +1,14 @@
 ## View Purged Data in the Source Systems
 
-Any purged data is removed from the DPM System in a real-world environment; however, you can view purged data in the environment we generated for you as a sandbox. This includes two separate applications to simulate a company with multiple source systems.
+When the status bar reaches the end of the **REQUEST ID** field and turns fully green, the status changes to **Complete**. In a real-world environment, any purged data is completely removed from the DPM System. For this tutorial, access the two source systems set up for simulation purposes. 
 
-The two applications that we picked up to simulate source systems are:
+The two applications that we use to simulate source systems are:
 
 - ![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_Odoo.PNG) - Odoo is an open source ERP and CRM application. You can view more details about this application at their site: https://www.odoo.com/
 
 - ![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_opensourcebilling_icon.png) - Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its site https://opensourcebilling.org/ for more information.
+
+Search these systems for the data that our Customer, Rick Jones, requested to be deleted. You should not be able to locate Mr. Jones's data because his data should no longer be in either system.
 
 
 
