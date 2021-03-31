@@ -1,6 +1,6 @@
 # Data Rectification Overview
 
-This demonstration will guide you through the process of a typical data rectification lifecycle. A lifecycle begins with a Customer request to anonymize their data at all source systems. It completes itself with the Customer verifying that the data was masked in the source system.
+This demonstration will guide you through the process of a typical data rectification lifecycle. A lifecycle begins with a Customer request to update their data within all source systems. It completes itself with the Customer verifying that the data was updated in the source system.
 
 [Data Rectification Introduction](/articles/demo_project/DPM_Demo_Project/04_Rectify/02_Rectify_Data_Introduction.md)
 
