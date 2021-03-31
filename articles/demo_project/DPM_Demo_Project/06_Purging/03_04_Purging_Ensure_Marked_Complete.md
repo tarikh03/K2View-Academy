@@ -12,7 +12,7 @@ The Requests List screen displays the progress of a submitted Requests. To more 
 
 Locate and click your Request.
 
-**Note**: It may take a few miutes for the system to purge the data. You can follow the progress by viewing the status bar directly underneath the **REQUEST ID** name.
+**Note**: It may take a few miutes for the system to purge the data. You can follow the progress by viewing the status bar directly underneath your **REQUEST ID**. When the status bar reaches the end of the **REQUEST ID** field and it turns green, the purge is complete.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/06_8_Purging_EnsureDeletion4.jpg)
 
