@@ -12,4 +12,4 @@ Search these systems for the data that our Customer, Rick Jones, requested to be
 
 
 
-[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/04_Rectify/03_05_Rectify_Ensure_Marked_Complete.md)[<p align="right"> Return to Rectify Data Tutorial</p>](/articles/demo_project/DPM_Demo_Project/04_Rectify/03_01_Rectify_Data_Tutorial.md)
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/04_Rectify/03_05_Rectify_Ensure_Marked_Complete.md)[<p align="right"> Return to Data Rectification Tutorial</p>](/articles/demo_project/DPM_Demo_Project/04_Rectify/03_01_Rectify_Data_Tutorial.md)
