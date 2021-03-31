@@ -6,7 +6,7 @@ The following simulation of working within DPM Requests will show you how to log
 
 [Submit a Request to Purge Data](/articles/demo_project/DPM_Demo_Project/06_Purging/03_03_Purging_Submit_a_Request_to_Purge.md)
 
-[Ensure Purged Data is Marked Complete](/articles/demo_project/DPM_Demo_Project/06_Purging/03_04_Purging_Ensure_Marked_Complete.md)
+[Ensure Your Request is Marked Complete](/articles/demo_project/DPM_Demo_Project/06_Purging/03_04_Purging_Ensure_Marked_Complete.md)
 
 [View Purged Data in the Source Systems](/articles/demo_project/DPM_Demo_Project/06_Purging/03_05_Purging_View_Your_Data.md)
 
