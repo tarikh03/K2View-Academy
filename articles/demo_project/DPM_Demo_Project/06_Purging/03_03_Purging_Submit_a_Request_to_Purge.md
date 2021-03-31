@@ -24,7 +24,7 @@ Complete the field(s) on the right side of the form. The **Delete My Data** Requ
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/06_7_Purging_DeleteMyData_Req4.jpg)     
 
-Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Submit.jpg) to delete the Customer data.
+Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Submit.jpg) to submit the request to delete the Customer data.
 
 
 
