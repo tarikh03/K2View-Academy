@@ -1,4 +1,4 @@
-## Masking Data Tutorial
+## Data Rectification Tutorial
 
 The following simulation of working within DPM Requests will show you how to preview data the Customer intends to mask in the demonstration source systems. After previewing the data, you will log in to DPM, submit a Request, ensure the Request is marked Complete, and return to the demonstration source systems to review the masked data.
 
