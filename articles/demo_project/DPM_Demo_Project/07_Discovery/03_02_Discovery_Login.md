@@ -18,3 +18,6 @@ The Discovery Matching Rules screen displays.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/08_12_Discovery_RulesTab.jpg)
 
+
+
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/07_Discovery/03_01_Discovery_Tutorial.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/07_Discovery/03_03_01_Discovery_NewMatchingRule_Landing.md)
