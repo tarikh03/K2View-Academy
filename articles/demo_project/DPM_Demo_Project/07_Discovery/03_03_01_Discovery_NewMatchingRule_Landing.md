@@ -18,3 +18,6 @@ The Data Function Matching Type lets you run a function on the content of a samp
 
 The Data Sample Matching Type lets you compare the column content with what a customer provided. You only need to load the function into the table.
 
+
+
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/07_Discovery/03_02_Discovery_Login.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/07_Discovery/03_03_02_Discovery_NewMatchingRule_Column.md)
