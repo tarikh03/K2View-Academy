@@ -4,7 +4,7 @@ The following simulation of working within DPM Requests will show you how to pre
 
 [Preview Your Data in the Source Systems](/articles/demo_project/DPM_Demo_Project/05_Masking/03_02_Masking_Preview_Your_Data.md)
 
-[Login to the System](/articles/demo_project/DPM_Demo_Project/05_Masking/03_03_Masking_Login.md)
+[Login to the System as a Customer](/articles/demo_project/DPM_Demo_Project/05_Masking/03_03_Masking_Login.md)
 
 [Submit a Request to Mask Data](/articles/demo_project/DPM_Demo_Project/05_Masking/03_04_Masking_Submit_a_Request_to_Mask.md)
 
