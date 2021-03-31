@@ -31,7 +31,7 @@ The sample Stages we will create include:
 
 ### File Generation
 
-1. add a new Create a new Stage called File Creation. 
+1. add a new Stage called File Creation. 
 
    <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_03_DSAR_File_Generation_Stage.png" width="30%" height="30%">
 
