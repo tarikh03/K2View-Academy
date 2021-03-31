@@ -8,7 +8,7 @@ The following simulation of working within DPM Requests will show you how to log
 
 [Ensure Purged Data is Marked Complete](/articles/demo_project/DPM_Demo_Project/06_Purging/03_04_Purging_Ensure_Marked_Complete.md)
 
-[View Purged Data in Source Systems](/articles/demo_project/DPM_Demo_Project/06_Purging/03_05_Purging_View_Your_Data.md)
+[View Purged Data in the Source Systems](/articles/demo_project/DPM_Demo_Project/06_Purging/03_05_Purging_View_Your_Data.md)
 
 
 
