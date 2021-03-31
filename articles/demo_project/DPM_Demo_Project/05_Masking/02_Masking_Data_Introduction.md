@@ -6,4 +6,4 @@ For this tutorial, we will assume that a Customer named Rick Jones wants to dele
 
 
 
-[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/06_Purging/01_Purging_Data_Main.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/06_Purging/03_01_Purging_Data_Tutorial.md)
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/05_Masking/01_Masking_Data_Main.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/05_Masking/03_01_Masking_Data_Tutorial.md)
