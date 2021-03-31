@@ -1,4 +1,4 @@
-## Submit a Request to Mask Data
+## Submit a Request to Rectify Data
 
 When submitting a new Request, the Customer first selects the relevant Regulation from the **Regulation** dropdown list. The list of Request Types presented at the bottom of the submission form changes according to the selected Regulation. Once the **Request Type** is selected, the right side of the form displays a list of fields to complete before submitting the request. This list is automatically built, in accordance with the Request Type.
 
