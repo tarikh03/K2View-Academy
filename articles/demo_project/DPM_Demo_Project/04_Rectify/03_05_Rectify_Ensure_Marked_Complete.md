@@ -8,13 +8,13 @@ Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_9_Purging_Reque
 
 The Requests List screen displays the progress of a submitted Requests. To more easily and quickly view the one you submitted in the previous tutorial, click the up/down arrows to the right side of the **CREATED** column. This sorts the list by submission time and date, and the most recent should display at or near the top row when sorted by descending order. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/05_3_Masking_RequestList_Main.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/04_3_Rectify_RequestList.jpg)
 
 Locate and click your Request.
 
 **Note**: It may take a few minutes for the system to rectify the data. You can follow the progress by viewing the status bar located directly underneath your **REQUEST ID**. When the status bar reaches the end of the **REQUEST ID** field and it turns green, the rectification is complete.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/05_3_Masking_RequestList_Sorted.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/04_4_Rectify_RequestList.jpg)
 
 The Request Details dialog box displays. 
 
