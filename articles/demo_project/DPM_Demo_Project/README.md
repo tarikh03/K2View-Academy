@@ -41,21 +41,21 @@ The first section of our demo takes you through the steps of implementing the au
 
 - [**Data Subject Access Request (DSAR)**](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_00_DSAR.md) - By demonstrating how to create a DSAR request we will lead you through the implementation steps that allow you to define the flow and automation of any type of Data Subject request that Data Privacy regulations may require. 
 
-- **Execute a DSAR** - In this demonstration, you will simulate the scenario of a customer who submitted a DSAR, and the flow this request goes through from submission to fulfillment. 
+- [**Execute a DSAR**](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_00_DSAR_Fulfillment_intro.md) - In this demonstration, you will simulate the scenario of a customer who submitted a DSAR, and the flow this request goes through from submission to fulfillment. 
 
-- **Seamless sync of source system changes** - By simulating a data change at one of the source systems and submitting a DSAR request for this customer, this section demonstrates the DPM seamless synchronization with the source systems.
-- **Data Rectification** - The steps in this section simulate the scenario of  a customer submitting a request to rectify its data. As a result, DPM automatically updates the data in all relevant source systems and confirm when the request fulfilment is completed.
-- **Anonymization Request** - Simulate a customer request to anonymize its data at all source systems, and follow this request to completion.
-- **Data Deletion Request** -  Simulate a customer request to delete its data at all source systems, and follow this request to completion.
+- [**Seamless sync of source system changes**](/articles/demo_project/DPM_Demo_Project/03_Sync/01_Sync_Main.md) - By simulating a data change at one of the source systems and submitting a DSAR request for this customer, this section demonstrates the DPM seamless synchronization with the source systems.
+- **[Data Rectification](/articles/demo_project/DPM_Demo_Project/04_Rectify/01_Rectify_Data_Main.md)** - The steps in this section simulate the scenario of  a customer submitting a request to rectify its data. As a result, DPM automatically updates the data in all relevant source systems and confirm when the request fulfilment is completed.
+- [**Anonymization Request**](/articles/demo_project/DPM_Demo_Project/05_Masking/01_Masking_Data_Main.md) - Simulate a customer request to anonymize its data at all source systems, and follow this request to completion.
+- **[Data Deletion Request](/articles/demo_project/DPM_Demo_Project/06_Purging/01_Purging_Data_Main.md)** -  Simulate a customer request to delete its data at all source systems, and follow this request to completion.
 
 ### Personally Identifiable Information (PII) Discovery
 
 DPM PII discovery feature provides you with a powerful tool to identify the location personal data is stored at your organization's systems, in order to take the appropriate measures to protect it.
 
-- **PII Discovery** - In this guided demo we take you through the steps of defining and executing the PII discovery process
+- [**PII Discovery**](/articles/demo_project/DPM_Demo_Project/07_Discovery/Purging/01_Discovery_Main.md) - In this guided demo we take you through the steps of defining and executing the PII discovery process
 
 ### Customer Consent Management
 
 Managing your customer's preferences and consents is made easy with DPM Consent Management capabilities
 
-- Consent Management - this interactive demo demonstrate how to define any consent topic and the way the system manage the consent preferences of each customer. 
+- [**Consent Management**](/articles/demo_project/DPM_Demo_Project/08_Consent/01_Consent_Main.md) - this interactive demo demonstrate how to define any consent topic and the way the system manage the consent preferences of each customer. 
