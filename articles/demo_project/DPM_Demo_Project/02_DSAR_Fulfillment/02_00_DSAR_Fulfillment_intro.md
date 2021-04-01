@@ -18,9 +18,9 @@ So far in this tutorial, we demonstrated the activities of a user that holds the
 To demonstrate how the DSAR fulfillment process is orchestrated by the DPM tool, we will guide you through the following steps:
 
 1. [**Customer submits a DSAR Request**](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_01_DSAR_Fulfillment_Customer_Request.md) - based on the Activity we created in the previous chapter
-2. **[Case Owner views the submitted request](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_02_DSAR_Fulfillment_Case_Owner_Viewmd)**  - this step is not needed from the request fulfilment process, but we will use it to show how the tasks that we created in the previous chapter are translated to a sequence of actions in the submitted request fulfillment process.
+2. **[Case Owner views the submitted request](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_02_DSAR_Fulfillment_Case_Owner_View.md)**  - this step is not needed from the request fulfilment process, but we will use it to show how the tasks that we created in the previous chapter are translated to a sequence of actions in the submitted request fulfillment process.
 3. **[Legal Data Steward reviews results](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_03_DSAR_Fulfillment_Steward_View.md)** - As we configured the fulfillment process to include a review of the results by the Legal team, once the automatic process collected all of the customer's data, a task is created for this team to perform the review.
-4. [**Case Owner reviews results**](02_DSAR_Fulfillment/02_04_DSAR_Fulfillment_Case_Owner_Perform_Task.md) - show how the Case Owner can view the results and confirm sending them to the customer. 
+4. [**Case Owner reviews results**](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_04_DSAR_Fulfillment_Case_Owner_Perform_Task.md) - show how the Case Owner can view the results and confirm sending them to the customer. 
 5. **[Customer views completed request](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_05_DSAR_Fulfillment_Customer_View_Completed_Request.md)** - The Request was completed and the results provided to the customer. Here we see how it looks from the customer side. 
 
 
