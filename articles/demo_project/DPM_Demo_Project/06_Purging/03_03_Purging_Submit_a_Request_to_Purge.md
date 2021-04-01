@@ -4,7 +4,7 @@ When submitting a new Request, the Customer first selects the relevant Regulatio
 
 In accordance with the selected Regulation, a Customer may have the option to purge or delete their data from the system.
 
-Click ![image](/articles/demo_project/DPM_Demo_Project/images/0Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
+Click ![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Request_LeftPanel.jpg)     
 
