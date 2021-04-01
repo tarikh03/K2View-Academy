@@ -44,7 +44,11 @@ Once the request is submitted, the customer can access the requests list using t
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/02_01_DSAR_Fulfillment_Submitted_Request_Customer.png) 
 
-and then click the request entry in the table in order to view additional details: 
+Copy the Request ID from leftmost filed of the table, so that you can search for it when performing the fulfillment steps described in the following sections of this tutorial. 
+
+Note the progress bar below the request ID - it indicates the progress of the fulfillment process as portion of the expected duration till the request is completed.  
+
+To view additional details - click the request entry in the table in order to view additional details: 
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/02_01_DSAR_Fulfillment_Request_Details.png" width="30%" height="30%">
 
