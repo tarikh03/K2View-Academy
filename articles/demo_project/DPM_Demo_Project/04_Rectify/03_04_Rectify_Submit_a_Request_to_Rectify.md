@@ -2,7 +2,7 @@
 
 When submitting a new Request, the Customer first selects the relevant Regulation from the **Regulation** dropdown list. The list of Request Types presented at the bottom of the submission form changes according to the selected Regulation. Once the **Request Type** is selected, the right side of the form displays a list of fields to complete before submitting the request. This list is automatically built, in accordance with the Request Type.
 
-In accordance with the selected Regulation, a Customer may have the option to mask their data in the system.
+In accordance with the selected Regulation, a Customer may have the option to rectify their data in the system.
 
 Click ![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
 
@@ -20,7 +20,9 @@ Select **Data Rectification** under the "Request Type" section.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/04_1_Rectify_Regulation.jpg)
 
-Complete the field(s) on the right side of the form. The **Data Rectification** Request Type under the **CCPA** Regulation displays only an email address entry field. Enter the Customer email address. Confirmation of data masking will be sent to the email address entered into this field. 
+The **Data Rectification** Request Type under the **CCPA** Regulation displays both phone number and email address entry fields. The information that the Customer can update depends on source systems and any options you designate for the Customer as modifiable data. 
+
+Complete the field(s) on the right side of the form.  
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/04_2_Rectify_FormFields.jpg)     
 
