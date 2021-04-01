@@ -20,13 +20,13 @@ Select **Data Rectification** under the "Request Type" section.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/04_1_Rectify_Regulation.jpg)
 
-The **Data Rectification** Request Type under the **CCPA** Regulation displays both phone number and email address entry fields. The information that the Customer can update depends on source systems and any options you designate for the Customer as modifiable data. 
+The **Data Rectification** Request Type under the **CCPA** Regulation displays both phone number and email address entry fields. The entry fields that display depend on source systems and any options you designate for the Customer as modifiable data. 
 
 Complete the field(s) on the right side of the form.  
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/04_2_Rectify_FormFields.jpg)     
 
-Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Submit.jpg) to submit the request to mask the Customer data.
+Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Submit.jpg) to submit the request to rectify the Customer data.
 
 
 
