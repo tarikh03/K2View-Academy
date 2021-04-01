@@ -46,6 +46,6 @@ Once the request is submitted, the customer can access the requests list using t
 
 and then click the request entry in the table in order to view additional details:
 
-![image](/articles/demo_project/DPM_Demo_Project/images/02_01_DSAR_Fulfillment_Request_Details.png) 
+<img src="/articles/demo_project/DPM_Demo_Project/images/02_01_DSAR_Fulfillment_Request_Details.png" width="30%" height="30%">
 
 [![Previous](/articles/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_00_DSAR_Fulfillment_intro.md)[<img align="right" width="60" height="54" src="/articles/images/Next.png">](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_02_DSAR_Fulfillment_Case_Owner_View.md)
