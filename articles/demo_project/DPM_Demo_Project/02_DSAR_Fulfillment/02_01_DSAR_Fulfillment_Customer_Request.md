@@ -34,7 +34,7 @@ Select a Regulation from the drop-down list. For this tutorial, we will select t
 
 Under the "Request Type", select **DSAR Tutorial Activity** which was created in the previous chapter. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/02_01_DSAR_Fulfillment_Submit_Request.jpg)  
+![image](/articles/demo_project/DPM_Demo_Project/images/02_01_DSAR_Fulfillment_Submit_Request.png)  
 
 Complete the field(s) on the right side of the form. The **DSAR Tutorial Activity** Request Type displays the email address entry field that you configured in the previous section. Enter the Customer email address. Confirmation of request completion will be sent to the email address entered into this field.    
 
