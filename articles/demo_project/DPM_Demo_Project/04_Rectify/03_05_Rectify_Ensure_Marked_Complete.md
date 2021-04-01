@@ -18,7 +18,7 @@ Locate and click your Request.
 
 The Request Details dialog box displays. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/05_3_Masking_RequestList_Details.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/04_5_Rectify_RequestList.jpg)
 
 Click the ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Close.jpg) button to close the dialog box and return to the Requests List.
 
