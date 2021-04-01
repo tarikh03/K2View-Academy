@@ -12,7 +12,7 @@ The Requests List screen displays the progress of a submitted Requests. To more 
 
 Locate and click your Request.
 
-**Note**: It may take a few minutes for the system to purge the data. You can follow the progress by viewing the status bar located directly underneath your **REQUEST ID**. When the status bar reaches the end of the **REQUEST ID** field and it turns green, the purge is complete.
+**Note**: It may take a few minutes for the system to rectify the data. You can follow the progress by viewing the status bar located directly underneath your **REQUEST ID**. When the status bar reaches the end of the **REQUEST ID** field and it turns green, the rectification is complete.
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/05_3_Masking_RequestList_Sorted.jpg)
 
