@@ -10,7 +10,7 @@ Click ![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Request.j
 
 The New Request screen displays.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/06_2_Purging_Request1.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Request_Landing.jpg)
 
 Select a Regulation from the drop-down list. For this tutorial, we will select **CCPA**.
 
