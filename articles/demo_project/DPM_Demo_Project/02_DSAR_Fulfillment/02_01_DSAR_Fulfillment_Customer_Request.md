@@ -36,8 +36,8 @@ Under the "Request Type", select **DSAR Tutorial Activity** which was created in
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/02_01_DSAR_Fulfillment_Submit_Request.jpg)  
 
-Complete the field(s) on the right side of the form. The **DSAR Tutorial Activity** Request Type displays the email address entry field that you configured in the previous section. Enter the Customer email address. Confirmation of request completion will be sent to the email address entered into this field. ![image](/articles/demo_project/DPM_Demo_Project/images/06_7_Purging_DeleteMyData_Req4.jpg)     
+Complete the field(s) on the right side of the form. The **DSAR Tutorial Activity** Request Type displays the email address entry field that you configured in the previous section. Enter the Customer email address. Confirmation of request completion will be sent to the email address entered into this field.    
 
-Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Submit.jpg) to submit the request to delete the Customer data.
+Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Submit.jpg) to submit the request.
 
 [![Previous](/articles/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_00_DSAR_Fulfillment_intro.md)[<img align="right" width="60" height="54" src="/articles/images/Next.png">](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_02_DSAR_Fulfillment_Case_Owner_View.md)
