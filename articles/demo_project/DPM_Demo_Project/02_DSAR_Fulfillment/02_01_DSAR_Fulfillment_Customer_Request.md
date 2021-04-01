@@ -44,7 +44,7 @@ Once the request is submitted, the customer can access the requests list using t
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/02_01_DSAR_Fulfillment_Submitted_Request_Customer.png) 
 
-and then click the request entry in the table in order to view additional details:
+and then click the request entry in the table in order to view additional details: 
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/02_01_DSAR_Fulfillment_Request_Details.png" width="30%" height="30%">
 
