@@ -6,13 +6,13 @@ For this tutorial, enter the following credentials to access user information wi
 
 **Password** - k2view
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_6_Consent_CustConsent_Login.jpg)                                  
+![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Login.jpg)                                  
 
 Click **Login**.
 
 Once a user logs into the DPM system as an Customer, the screen is updated with two frames (windows) of information. The left frame displays a list of menu options for this module. The right frame displays the interactive components of the selection. The Dashboard screen displays by default after logging into the system.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/08_4_Consent_CustConsent_Landing1.jpg)    
+![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Dashboard.jpg)    
 
 
 
