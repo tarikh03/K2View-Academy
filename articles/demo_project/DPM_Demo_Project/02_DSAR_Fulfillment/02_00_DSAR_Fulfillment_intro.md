@@ -15,3 +15,6 @@ So far in this tutorial, we demonstrated the activities of a user that holds the
 - **Data Steward** - This role can be associated with any user that performs back-office activities as part of the fulfillment process. In our example, we defined that the Legal team should review the data before sending it to the customer, so we defined the users of the legal team to a role that has data steward permission
 - **Case Owner** - The Case Owner is the overall responsible for the timely execution of all customer's requests and can review the status of all tasks. In the example we created, in addition to the overall responsibility over the request, we also allocated to the Case Owner the task of final review, to demonstrate this scenario as well.
 
+
+
+[![Previous](/articles/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/README.md)[<img align="right" width="60" height="54" src="/articles/images/Next.png">](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_00_DSAR_Fulfillment_intro.md)
