@@ -29,11 +29,11 @@ Click on the request line in the table in order to present the details for this 
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/02_03_DSAR_Fulfillment_Steward_Task_Details.png" width="100%" height="100%">
 
-This opens the task that includes the information the data steward should review. Use the <img src="/articles/demo_project/DPM_Demo_Project/images/02_03_DSAR_Fulfillment_Steward_Get_Task.png" width="10%" height="10%"> button at the top right of this screen in order to take ownership on the task. Review the information that was provided. 
+This opens the task that includes the information the data steward should review. Use the <img src="/articles/demo_project/DPM_Demo_Project/images/02_03_DSAR_Fulfillment_Steward_Get_Task.png" width="3%" height="3%"> button at the top right of this screen in order to take ownership on the task. Review the information that was provided. 
 
 Compare the data that was collected by the DPM with the data in the source systems for the requesting customer. 
 
-Once you confirmed the data correctness, click on the <img src="/articles/demo_project/DPM_Demo_Project/images/02_03_DSAR_Fulfillment_Complete_Task.png" width="3%" height="3%"> in order to signal the system to move the request to the next task in the fulfillment process
+Once you confirmed the data correctness, click on the <img src="/articles/demo_project/DPM_Demo_Project/images/02_03_DSAR_Fulfillment_Complete_Task.png" width="10%" height="10%"> in order to signal the system to move the request to the next task in the fulfillment process
 
 Close the Task Details screen and logout from the DPM. 
 
