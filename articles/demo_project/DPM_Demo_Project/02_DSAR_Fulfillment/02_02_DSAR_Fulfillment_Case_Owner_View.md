@@ -33,7 +33,7 @@ If you click any of the lines representing the tasks, you reach to the  screen o
 
 To experience this functionality, click on the task called "Legal Review" - add a note from the case owner to the data steward - as shown in the image below:
 
-<img src="/articles/demo_project/DPM_Demo_Project/images/02_02_DSAR_Fulfillment_Case_Owner_Task_Note.png" width="100%" height="100%">
+<img src="/articles/demo_project/DPM_Demo_Project/images/02_02_DSAR_Fulfillment_Case_Owner_Task_Notes.png" width="100%" height="100%">
 
 For automatic tasks, if some error occurred during the process, the system presents the error as a message  similarly to  the notes between the case owner and the data steward, but marked in red. 
 
