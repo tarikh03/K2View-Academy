@@ -16,6 +16,4 @@ To streamline the execution of the two DSARs in this section, we will use a full
 
 
 
-
-
-[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/05_Masking/01_Masking_Data_Main.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/05_Masking/03_01_Masking_Data_Tutorial.md)
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/03_Auto_Sync/01_Auto_Sync_Data_Main.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/03_Auto_Sync/03_01_Auto_Sync_Data_Tutorial.md)
