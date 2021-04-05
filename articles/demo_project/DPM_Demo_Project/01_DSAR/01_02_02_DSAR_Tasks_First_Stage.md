@@ -12,7 +12,7 @@ The Tasks we will create are:
 
   **Note**: This section assumes you are now looking at the screen showing the new DSAR Tutorial Flow created in the previous section.
 
-  ### Check Case Duplication
+### Check Case Duplication
 
 This task is automatic and verifies whether the customer already has another Request of the same type in process. 
 
