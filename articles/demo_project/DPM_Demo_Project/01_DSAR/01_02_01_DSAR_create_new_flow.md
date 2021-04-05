@@ -2,7 +2,7 @@
 
 Create a new Flow using the following steps:
 
-1.  From the Admin menu, located on the upper-left corner of the DPM screen, select the **Flows List** menu option:
+1.  From the Admin menu, located on the upper-left corner of the DPM screen, select the **Flows List** menu option.
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Menu_flow.png" width="30%" height="30%">
 
