@@ -7,8 +7,8 @@ A Task can:
 - Be configured to run in parallel or sequential to another Task
 - Be manual or automatic
 - Be conditional to the results of another Task
-- Utilize inputs from previous Task
-- Receive input from the customer at the request submission moment 
+- Use inputs from a previous Task
+- Receive input from the Customer at the moment of Request submission
 
 The creation of Flows using the K2View DPM System provides limitless flexibility. The DSAR Flow we will create in this section includes several Tasks as an example of Flow configuration; however, when you configure the Flows as part of your own project, you can implement any number of Tasks and sequence according to your needs.  
 
