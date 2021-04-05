@@ -6,13 +6,13 @@ Create a new Flow using the following steps:
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Menu_flow.png" width="30%" height="30%">
 
-		The Flows List screen displays.  
+The Flows List screen displays.  
 
 2. Select **New Flow**, located in the upper-right corner of the screen.
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Flow_List_screen.png" width="100%" height="100%">
 
-		The New Flow dislog box displays. 
+The New Flow dialog box displays. 
 
 3. Define the **Flow Name**, **Flow Version number**, and add a **Flow Description**. Confirm the creation of the flow by saving it. We entered **DSAR Tutorial** as the Flow Name, and we will refer to it by this name in the tutorial steps:
 
