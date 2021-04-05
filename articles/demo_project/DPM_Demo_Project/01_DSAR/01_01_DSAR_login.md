@@ -1,16 +1,17 @@
 # Login to the DPM System as an Administrator
 
-Access the DPM login screen by the URL: http://<your ip address>:3213/app/login
+Access the DPM login screen by using the URL: http://<your ip address>:3213/app/login
 
-Use the credentials 
+For this tutorial, enter the following credentials to access user information with an Administrator role.
 
-- user: demoAdmin 
-- password: k2view
+**Username** - demoAdmin
 
-This user  is defined as an administrator user. 
+**Password** - k2view
+
+This user is defined as an Administrator user. 
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_DSAR_Login_Admin.png" width="30%" height="30%">
 
-As a result, the initial screen of the Admin module is presented. 
+As a result, the initial screen of the Admin module displays. 
  
 ![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_Regulation_list_screen.png)
