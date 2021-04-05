@@ -68,7 +68,7 @@ This third task is the last one we will configure within the first Stage. It wil
 
 Use the example below to select a parameter type from the drop-down list. The additional dropdowns for each line will display as you select the input type for each parameter.
 
-​			<img src="/articles/demo_project/DPM_Demo_Project/images/01_02_02_DSAR_Send_notification_mail_operations.png" width="80%" height="80%">
+<img src="/articles/demo_project/DPM_Demo_Project/images/01_02_02_DSAR_Send_notification_mail_operations.png" width="80%" height="80%">
 
 4. Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_Save.jpg) to save the new task. 
 
