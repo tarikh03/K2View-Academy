@@ -14,17 +14,19 @@ The Flows List screen displays.
 
 The New Flow dialog box displays. 
 
-3. Define the **Flow Name**, **Flow Version number**, and add a **Flow Description**. Confirm the creation of the flow by clicking ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_Save.jpg). We entered **DSAR Tutorial** as the Flow Name, and we will refer to it by this name in the tutorial steps:
+3. Define the **Flow Name**, **Flow Version number**, and add a **Flow Description**. We entered **DSAR Tutorial** as the Flow Name, and we will refer to it by this name in the tutorial steps:
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_New_Flow_popup.png" width="30%" height="30%">
+
+4. Confirm the creation of the Flow by clicking ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_Save.jpg). 
 
 You can now begin adding Stages to this new Flow, and under each Stage, add Tasks that build the sequence of events to fulfil the Request. 
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Empty_Flow.png" width="100%" height="100%">
 
-4. Click the  <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Add_Stage_icon.png" width="5%" height="5%">  button to add the first Stage. The Add a Stage dialog box displays.
+5. Click the  <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Add_Stage_icon.png" width="5%" height="5%">  button to add the first Stage. The Add a Stage dialog box displays.
 
-5. Enter the **Stage Name** and **Stage Description**. The first Stage we create in this tutorial is called **Case Opening**, where we will add Tasks that validate the Request, get the customer identification, and notify the customer about the case opening. 
+6. Enter the **Stage Name** and **Stage Description**. The first Stage we create in this tutorial is called **Case Opening**, where we will add Tasks that validate the Request, get the customer identification, and notify the customer about the case opening. 
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Add_Stage.png" width="30%" height="30%">
 
