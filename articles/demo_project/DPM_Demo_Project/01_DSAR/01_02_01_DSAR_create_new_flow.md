@@ -14,7 +14,7 @@ The Flows List screen displays.
 
 The New Flow dialog box displays. 
 
-3. Define the **Flow Name**, **Flow Version number**, and add a **Flow Description**. Confirm the creation of the flow by saving it. We entered **DSAR Tutorial** as the Flow Name, and we will refer to it by this name in the tutorial steps:
+3. Define the **Flow Name**, **Flow Version number**, and add a **Flow Description**. Confirm the creation of the flow by clicking ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_Save.jpg). We entered **DSAR Tutorial** as the Flow Name, and we will refer to it by this name in the tutorial steps:
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_New_Flow_popup.png" width="30%" height="30%">
 
