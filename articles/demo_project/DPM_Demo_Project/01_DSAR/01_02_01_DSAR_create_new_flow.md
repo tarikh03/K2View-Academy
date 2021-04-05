@@ -1,35 +1,35 @@
-# Create new Flow and Stage
+# Create a New Flow and Stage
 
-Create a new Flow by following the next steps:
+Create a new Flow using the following steps:
 
-1.  From the Admin menu at the upper left corner, select the Flows menu option:
+1.  From the Admin menu, located on the upper-left corner of the DPM screen, select the **Flows List** menu option:
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Menu_flow.png" width="30%" height="30%">
 
-​		The Flows List screen is presented.  
+		The Flows List screen displays.  
 
-2. Select the option of New Flow at the upper-right corner
+2. Select **New Flow**, located in the upper-right corner of the screen.
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Flow_List_screen.png" width="100%" height="100%">
 
-​		The New Flow popup is presented. 
+		The New Flow dislog box displays. 
 
-3. Define the flow name, version number and add description. Confirm the creation of the flow by saving it. We called the Flow "DSAR Tutorial" and will refer to it by this name along the tutorial steps:
+3. Define the **Flow Name**, **Flow Version number**, and add a **Flow Description**. Confirm the creation of the flow by saving it. We entered **DSAR Tutorial** as the Flow Name, and we will refer to it by this name in the tutorial steps:
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_New_Flow_popup.png" width="30%" height="30%">
 
-You can now start adding Stages to this new Flow, and under each Stage, the Tasks that build the sequence of events to fulfil the request. 
+You can now begin adding Stages to this new Flow, and under each Stage, add Tasks that build the sequence of events to fulfil the Request. 
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Empty_Flow.png" width="100%" height="100%">
 
-4. Select the  <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Add_Stage_icon.png" width="5%" height="5%">  in order to add the first Stage. The Add Stage popup is presented
+4. Click the  <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Add_Stage_icon.png" width="5%" height="5%">  button to add the first Stage. The Add a Stage dialog box displays.
 
-5. fill the stage name and description. The first stage we create in this tutorial is called "Case Opening", where we will add tasks that validate the request, get the customer identification and notify the customer on the case opening. 
+5. Enter the **Stage Name** and **Stage Description**. The first Stage we create in this tutorial is called **Case Opening**, where we will add Tasks that validate the Request, get the customer identification, and notify the customer about the case opening. 
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Add_Stage.png" width="30%" height="30%">
 
-Once you save the information, the Flow screen is updated to present the new Stage:
+Once you save the information, the Flow screen is updated to display the new Stage:
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Flow_With_New_Stage.png" width="100%" height="100%">
 
-In the next steps you will create the Tasks that perform the actual fulfilment flow for a specific DSAR request.
+In the next steps, you will create the Tasks that perform the actual fulfilment Flow for a specific DSAR Request.
