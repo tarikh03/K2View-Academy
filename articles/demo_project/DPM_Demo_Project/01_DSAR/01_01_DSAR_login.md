@@ -1,4 +1,4 @@
-# Login to DPM with an Admin User
+# Login to the DPM System as an Administrator
 
 Access the DPM login screen by the URL: http://<your ip address>:3213/app/login
 
