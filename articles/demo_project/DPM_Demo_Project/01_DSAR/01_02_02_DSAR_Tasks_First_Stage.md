@@ -1,4 +1,4 @@
-# Create Tasks in the First Stage
+# Case Opening and Customer Notification Tasks
 
 In this tutorial, we will create Tasks within the new Stage you created in the previous step. This exemplifies how a Flow is constructed. When configuring a Flow for your company, the Tasks you create will naturally vary.
 
