@@ -27,7 +27,7 @@ Click on the line of the "Case Owner Review" task. The Task Details screen is pr
 
 The Case Owner actions in this screen are the same actions as described for the Legal Data Steward Task handling:
 
-Use the <img src="/articles/demo_project/DPM_Demo_Project/images/02_03_DSAR_Fulfillment_Steward_Get_Task.png" width="5%" height="5%"> button at the top right of this screen in order to take ownership on the task. Review the information that was provided. 
+Use the <img src="/articles/demo_project/DPM_Demo_Project/images/02_03_DSAR_Fulfillment_Steward_Get_Task.png" width="3%" height="3%"> button at the top right of this screen in order to take ownership on the task. Review the information that was provided. 
 
 Compare the data that was collected by the DPM with the data in the source systems for the requesting customer. 
 
