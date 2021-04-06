@@ -29,7 +29,7 @@ Click the Request line in the table to display the details for this Task.
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/02_03_DSAR_Fulfillment_Steward_Task_Details.png" width="100%" height="100%">
 
-This opens the Task that includes information that the Data Steward should review. UClick the <img src="/articles/demo_project/DPM_Demo_Project/images/02_03_DSAR_Fulfillment_Steward_Get_Task.png" width="3%" height="3%"> button at the top-right of this screen to take ownership of the Task. Review the information that was provided. 
+This opens the Task that includes information that the Data Steward should review. Click the <img src="/articles/demo_project/DPM_Demo_Project/images/02_03_DSAR_Fulfillment_Steward_Get_Task.png" width="3%" height="3%"> button at the top-right of this screen to take ownership of the Task. Review the information that was provided. 
 
 Compare the data that was collected by the DPM system with the data in the source systems for the requesting customer. 
 
