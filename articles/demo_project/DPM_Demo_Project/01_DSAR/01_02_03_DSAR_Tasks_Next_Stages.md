@@ -90,3 +90,7 @@ The sample Stages we will create include:
 Your DSAR Flow is now complete. The final result should look similar to the following image.
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_03_DSAR_Final_Flow.png" width="100%" height="100%">
+
+
+
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_02_02_DSAR_Tasks_First_Stage.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_02_04_DSAR_Finalize_Flow.md)
