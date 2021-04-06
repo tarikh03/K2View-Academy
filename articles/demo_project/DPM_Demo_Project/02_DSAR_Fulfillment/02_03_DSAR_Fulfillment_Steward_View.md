@@ -4,7 +4,7 @@ In this tutorial, we will guide you through the activities that a data steward p
 
 Data Stewards are resources from different company departments, each with its area of responsibility and tasks. In the flow we have created for this tutorial, we have defined that a data steward from the legal department should review the DSAR response before it can be communicated to the customer. 
 
-Login as a user with a Case Owner role using the following credentials: 
+Login as a user with a Case Owner role using the following credentials.
 
 - **Username**: legal
 - **Password**: k2view
