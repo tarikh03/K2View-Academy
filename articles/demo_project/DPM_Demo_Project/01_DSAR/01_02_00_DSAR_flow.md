@@ -19,3 +19,7 @@ The creation of Flows using the K2View DPM System provides limitless flexibility
 3.  [Data Gathering and Task Review](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_02_03_DSAR_Tasks_Next_Stages.md)
 4.  [Mark the Flow as Complete](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_02_04_DSAR_Finalize_Flow.md)
 5.  [Associate the DSAR Flow with a Regulation and Activity](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_03_DSAR_associate_to_activity.md)
+
+
+
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/01_DSAR/01_01_DSAR_login.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_02_01_DSAR_create_new_flow.md)
