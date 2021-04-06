@@ -31,7 +31,7 @@ You can view the list of Tasks that comprise this Request, along with the status
 
 If you click any of the Task lines, a detail screen for that Task displays. In the Task details, the case owner can perform different activities such as taking ownership of the Task ("Get"), completing the task manually, or adding comments which can be later viewed by the data steward allocated to this Task.
 
-To experience this functionality, click the Task called **Legal Review**. Add a note from the case owner to the data steward as shown in the image below.
+To view this functionality, click the Task called **Legal Review**. Add a note from the case owner to the data steward as shown in the image below.
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/02_02_DSAR_Fulfillment_Case_Owner_Task_Notes.png" width="100%" height="100%">
 
