@@ -15,7 +15,7 @@ To access the DPM as a customer, login with the user information that was used f
 ![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Login.jpg)                                  
 Click **Login**.
 
-The Customer landing page displays, and the user can access the Requests List by clicking the **View Requests** button or by selecting **Requests List** from the menu on the left. 
+The Customer landing page displays, and the user can access the Requests List by clicking the **View Requests** button or by selecting **Requests List** from the menu on the left side of the screen. 
 
 ![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Dashboard.jpg)    
 
