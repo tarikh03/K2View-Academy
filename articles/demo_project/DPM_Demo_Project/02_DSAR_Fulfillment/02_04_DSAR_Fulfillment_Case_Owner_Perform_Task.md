@@ -13,13 +13,11 @@ From the left menu, select the Requests List option
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/02_04_DSAR_Fulfillment_Case_Owner_Review_Menu.png" width="30%" height="30%">
 
-The table with the submitted requests is presented. Select the request created in the previous steps: 
+The table with the submitted requests is presented. Select the request created in the previous steps. In the example below, it is the top request in the table. The red circle next to the request status indicates that this request includes at least on task which is overdue: 
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/02_04_DSAR_Fulfillment_Case_Owner_Review_Requests_List.png" width="100%" height="100%">
 
-Select the request that you previously created. In our example, the request includes a task that is overdue, and therefore it is marked with a red circle at the screenshot above. 
-
-The request details screen is presented. This view provides the Case Owner the overall view of the Requests progress. For example, here you can see which tasks contain notes - marked with a "notes" icon in the Notes column. In this screen you can identify that the task that is overdue is precisely the Task of "Case Owner Review", marked in red.
+Once you clicked the selected request line, the request details screen is presented. This view provides the Case Owner the overall view of the Request progress, as well as additional information such as  which tasks contain notes - marked with a "notes" icon in the Notes column. 
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/02_04_DSAR_Fulfillment_Case_Owner_Review_Request_Details.png" width="100%" height="100%">
 
