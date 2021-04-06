@@ -35,3 +35,7 @@ Once you save the information, the Flow screen is updated to display the new Sta
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_01_DSAR_Flow_With_New_Stage.png" width="100%" height="100%">
 
 In the next steps, you will create the Tasks that perform the actual fulfilment Flow for a specific DSAR Request.
+
+
+
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_02_00_DSAR_flow.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_02_02_DSAR_Tasks_First_Stage.md)
