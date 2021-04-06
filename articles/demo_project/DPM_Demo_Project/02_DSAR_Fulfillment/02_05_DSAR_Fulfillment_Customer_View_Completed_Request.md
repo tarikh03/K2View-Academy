@@ -1,3 +1,5 @@
+## Customer Views Completed Request
+
 With the last review by the Case Owner done, the DSAR is ready to be completed and the result sent automatically to the customer. The last step in our DSAR Tutorial is demonstrating how the completed request can be viewed by the customer. 
 
 There are two ways for the customer to be informed on the request completion: 
