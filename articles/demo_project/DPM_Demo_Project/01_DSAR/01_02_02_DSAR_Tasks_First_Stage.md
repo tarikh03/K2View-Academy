@@ -73,3 +73,7 @@ Use the example below to select a parameter type from the drop-down list. The ad
 4. Click ![image](/articles/demo_project/DPM_Demo_Project/images/08_ICON_Save.jpg) to save the new task. 
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_02_DSAR_first_stage_complete.png" width="100%" height="100%">
+
+
+
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_02_01_DSAR_create_new_flow.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_02_03_DSAR_Tasks_Next_Stages.md)
