@@ -21,7 +21,7 @@ Once you clicked the selected request line, the request details screen is presen
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/02_04_DSAR_Fulfillment_Case_Owner_Review_Request_Details.png" width="100%" height="100%">
 
-Click on the line of this task. The Task Details screen is presented. This screen is the same as the Task Details screen of the Data Steward. 
+Click on the line of the "Case Owner Review" task. The Task Details screen is presented. This screen is the same as the Task Details screen of the Data Steward. 
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/02_04_DSAR_Fulfillment_Case_Owner_Review_Task.png" width="100%" height="100%">
 
