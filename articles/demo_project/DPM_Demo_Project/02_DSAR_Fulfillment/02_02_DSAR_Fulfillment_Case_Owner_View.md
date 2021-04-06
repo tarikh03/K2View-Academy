@@ -1,8 +1,8 @@
 ## Case Owner Views Submitted Request
 
-In this step, you will login to the DPM system as a Case Owner and view the request that was just submitted by the customer. The Case Owner can view the full list of Tasks that compose the Request, and they can communicate with data stewards by adding notes to the Task details. 
+In this tutorial, you will login to the DPM system as a Case Owner and view the request that was just submitted by the customer. The Case Owner can view the full list of Tasks that compose the Request, and they can communicate with data stewards by adding notes to the Task details. 
 
-This step is not required as part of the fulfillment process. The purpose of including it here is to present a high-level view of the Request. 
+This process is not required as part of the fulfillment process. The purpose of including it here is to present a high-level view of the Request. 
 
 Login as a user with a Case Owner role using the following credentials.
 
