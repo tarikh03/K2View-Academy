@@ -43,7 +43,7 @@ The first section of our demo takes you through the steps of implementing the au
 
 - [**Execute a DSAR**](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_00_DSAR_Fulfillment_intro.md) - In this demonstration, you will simulate the scenario of a customer who submitted a DSAR, and the flow this request goes through from submission to fulfillment. 
 
-- [**Seamless sync of source system changes**](/articles/demo_project/DPM_Demo_Project/03_Sync/01_Sync_Main.md) - By simulating a data change at one of the source systems and submitting a DSAR request for this customer, this section demonstrates the DPM seamless synchronization with the source systems.
+- [**Seamless sync of source system changes**](/articles/demo_project/DPM_Demo_Project/03_Auto_Sync/01_Auto_Sync_Data_Main.md) - By simulating a data change at one of the source systems and submitting a DSAR request for this customer, this section demonstrates the DPM seamless synchronization with the source systems.
 - **[Data Rectification](/articles/demo_project/DPM_Demo_Project/04_Rectify/01_Rectify_Data_Main.md)** - The steps in this section simulate the scenario of  a customer submitting a request to rectify its data. As a result, DPM automatically updates the data in all relevant source systems and confirm when the request fulfilment is completed.
 - [**Anonymization Request**](/articles/demo_project/DPM_Demo_Project/05_Masking/01_Masking_Data_Main.md) - Simulate a customer request to anonymize its data at all source systems, and follow this request to completion.
 - **[Data Deletion Request](/articles/demo_project/DPM_Demo_Project/06_Purging/01_Purging_Data_Main.md)** -  Simulate a customer request to delete its data at all source systems, and follow this request to completion.
