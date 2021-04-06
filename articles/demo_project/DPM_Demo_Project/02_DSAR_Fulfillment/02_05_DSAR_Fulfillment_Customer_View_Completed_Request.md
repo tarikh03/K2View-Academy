@@ -7,4 +7,20 @@ There are two ways for the customer to be informed on the request completion:
 1. At the time of the request, the customer was prompted to provide an email address to which the DPM sends the confirmation on the request completion. 
 2. The customer can login to the DPM system and view the status of the request by accessing the menu option of Requests List. 
 
+To access the DPM as a customer, login with the user that was used for submitting the request:
+
+- **Username** - rickjones
+
+- **Password** - k2view
+
+![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Login.jpg)                                  
+
+Click **Login**.
+
+The Customer landing page is presented, and the user can access the requests list from the menu option. 
+
+![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Dashboard.jpg)    
+
+
+
 [![Previous](/articles/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_04_DSAR_Fulfillment_Case_Owner_Perform_Task.md)[<img align="right" width="60" height="54" src="/articles/images/Next.png">](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_00_DSAR_Fulfillment_intro.md)
