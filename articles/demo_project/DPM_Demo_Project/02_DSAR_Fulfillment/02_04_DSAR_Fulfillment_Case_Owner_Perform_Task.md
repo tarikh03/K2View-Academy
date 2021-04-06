@@ -17,7 +17,7 @@ The table with the submitted requests is presented. Select the request created i
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/02_04_DSAR_Fulfillment_Case_Owner_Review_Requests_List.png" width="100%" height="100%">
 
-Once you clicked the selected request line, the request details screen is presented. This view provides the Case Owner the overall view of the Request progress, as well as additional information such as  which tasks contain notes - marked with a "notes" icon in the Notes column. 
+Once you clicked the selected request line, the request details screen is presented. This view provides the Case Owner the overall view of the Request progress, as well as additional information such as  which tasks contain notes - marked with a <img src="/articles/demo_project/DPM_Demo_Project/images/02_04_DSAR_Fulfillment_Case_Owner_Review_Notes_icon.png" width="5%" height="5%"> icon in the Notes column. 
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/02_04_DSAR_Fulfillment_Case_Owner_Review_Request_Details.png" width="100%" height="100%">
 
