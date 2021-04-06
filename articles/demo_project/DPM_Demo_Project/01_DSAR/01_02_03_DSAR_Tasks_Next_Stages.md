@@ -81,7 +81,7 @@ The sample Stages we will create include:
 
    The input parameter **recipients** is configured here to be obtained from the customer at the moment of request submission. The customer will be prompted to provide the address due to the entry in the **Label** field: **Provide the address for sending the results** as we will see in the tutorial section of the customer request submission.
 
-The input parameter **subject** was set to a fixed value: **Your DSAR was Completed**.
+   The input parameter **subject** was set to a fixed value: **Your DSAR was Completed**.
 
 <img src="/articles/demo_project/DPM_Demo_Project/images/01_02_03_DSAR_Customer_Notification_Operations.png" width="80%" height="80%">
 
