@@ -1,4 +1,4 @@
-# DSAR Flow Creation
+# Create a DSAR Flow
 
 In this section, we will configure the DSAR Flow. As described at the DPM User Guide [Flows](/articles/DPM/02_Admin_Module/03_Flows.md) chapter, each Flow is composed of one or more sequential Stages, and each Stage is composed of one or more Tasks. Those Tasks are the bricks that create the DSAR fulfilment process. The following lists some of the multiple ways that Tasks can be configured.
 
