@@ -1,4 +1,4 @@
-# Create DSAR Following Stages
+# Data Gathering and Task Review
 
 In this tutorial, additional Stages and Tasks are created in order to complete the configuration of our DSAR Tutorial Flow. 
 
