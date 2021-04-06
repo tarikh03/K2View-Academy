@@ -1,4 +1,4 @@
-# Finalize the DSAR Flow
+# Mark the Flow as Complete
 
 The Flow you created in the previous steps can be modified as long as it is in "Draft" status. However, in order to use this Flow in an Activity that can be requested by a customer, the Flow should first be "Marked as complete". 
 
