@@ -1,7 +1,5 @@
 ## Submit a First Request
 
-When submitting a new Request, the Customer first selects the relevant Regulation from the **Regulation** dropdown list. The list of Request Types presented at the bottom of the submission form changes according to the selected Regulation. Once the **Request Type** is selected, the right side of the form displays a list of fields to complete before submitting the request. This list is automatically built, in accordance with the Request Type.
-
 For this tutorial, we will submit a Request to rectify Customer data. This will ensure that data is not masked or removed from the system, making it easier to view in the source systems.
 
 Click ![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
