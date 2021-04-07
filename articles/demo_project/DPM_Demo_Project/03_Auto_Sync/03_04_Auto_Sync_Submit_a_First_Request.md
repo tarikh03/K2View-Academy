@@ -32,9 +32,9 @@ Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Submit.jpg
 
 Once the Request is submitted, the customer can access the **Requests List** using the menu option on the left of the screen and view the request progress.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/02_01_DSAR_Fulfillment_Submitted_Request_Customer.png) 
+**Note**: It may take a few minutes for the Request to be marked as Complete. You can follow the progress by viewing the status bar located directly underneath your **REQUEST ID**. When the status bar reaches the end of the **REQUEST ID** field and it turns green, the Request is complete.  
 
-Note the progress bar below the **Request ID**. It indicates the progress of the fulfillment process as part of the expected duration until the request is completed.  
+![image](/articles/demo_project/DPM_Demo_Project/images/02_01_DSAR_Fulfillment_Submitted_Request_Customer.png) 
 
 
 
