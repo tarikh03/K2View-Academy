@@ -8,4 +8,4 @@ This demonstration will guide you through the process of a typical data purge li
 
 
 
-[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/06_Purging/02_Purging_Data_Introduction.md)
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/README.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/06_Purging/02_Purging_Data_Introduction.md)
