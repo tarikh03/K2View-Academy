@@ -8,7 +8,7 @@ The two applications that we use to simulate source systems are:
 
 - ![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_opensourcebilling_icon.png) - Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its site https://opensourcebilling.org/ for more information.
 
-Search these systems for the data that our Customer, Rick Jones, requested to be rectified.
+Search these systems for the data that our Customer, Rick Jones, entered in his Request.
 
 
 
