@@ -30,5 +30,14 @@ Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Submit.jpg
 
 ### Ensure Your Request was Marked Complete
 
+Once the Request is submitted, the customer can access the **Requests List** using the menu option on the left of the screen and view the request progress.
+
+![image](/articles/demo_project/DPM_Demo_Project/images/02_01_DSAR_Fulfillment_Submitted_Request_Customer.png) 
+
+Copy the Request ID from left-most filed of the table, so you can search for it when performing the fulfillment steps described in the following sections of this tutorial. 
+
+Note the progress bar below the **Request ID**. It indicates the progress of the fulfillment process as part of the expected duration until the request is completed.  
+
+
 
 [![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/03_Auto_Sync/03_03_Auto_Sync_Login.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/03_Auto_Sync/03_05_Auto_Sync_View_Your_Data.md)
