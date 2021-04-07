@@ -34,7 +34,7 @@ Once the Request is submitted, the customer can access the **Requests List** usi
 
 **Note**: It may take a few minutes for the Request to be marked as Complete. You can follow the progress by viewing the status bar located directly underneath your **REQUEST ID**. When the status bar reaches the end of the **REQUEST ID** field and it turns green, the Request is complete.  
 
-![image](/articles/demo_project/DPM_Demo_Project/images/02_01_DSAR_Fulfillment_Submitted_Request_Customer.png) 
+![image](/articles/demo_project/DPM_Demo_Project/images/03_4_02_Auto_Sync_First_Request.jpg) 
 
 
 
