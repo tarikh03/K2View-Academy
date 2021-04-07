@@ -2,11 +2,11 @@
 
 K2View's DPM System is based on a powerful data integration platform, providing you with versatile integration capabilities with any source system. It seamlessly orchestrates the synchronization (Auto Sync) process so that you can perform data collection, rectification, anonymization, or purging based on the latest data, eliminating the need for separate synchronization processes or manual activities. 
 
-Using a Customer we created named Rick Jones, you will perform the following activities:
+Using a Customer we created named Rick Jones, you will perform the following activities.
 
 1. Submit an automatic Data Subject Access Request (DSAR) for Mr. Jones.
 
-2. Once the DSAR fulfillment is completed, view the data that was collected in source systems we set up for simulation purposes (Odoo and OpenSourceBilling) to ensure that it reflects the source data
+2. Once the DSAR fulfillment is completed, view the data that was collected in source systems we set up for simulation purposes (Odoo and OpenSourceBilling) to ensure that it reflects the source data.
 
 3. Perform a data change for Mr. Jones in the source systems.
 
