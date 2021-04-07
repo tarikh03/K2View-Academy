@@ -14,21 +14,33 @@ In order to demonstrate the implementation of our DPM application, we created an
 
 The two applications that represent the source systems in this tutorial were selected for the purpose of demonstrating concepts. In a real-world implementation, you will of course connect to whichever and as many source applications your company uses. 
 
-### Meet the Tutorial “Source Systems”
-
-The two systems that we picked up to simulate source systems are:
-
-- ![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_Odoo.PNG) - Odoo is an open source ERP and CRM application. You can view more details about this application at their Website: https://www.odoo.com/
-
-- ![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_opensourcebilling_icon.png) - Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its Website https://opensourcebilling.org/ for more information.
-
-When you set up the tutorial environment, we automatically generate for you not only a running instance of each of those applications, but we also populate it with the data of imaginary customers. This data will be used throughout the tutorial to demonstrate DPM features and functionality, such as customer matching between applications, fulfilment of data access requests, keeping up with data change scenarios, and more.  
-
 ## Environment Setup 
 
 Follow the link below to access the step-by-step instructions that will generate your dedicated sandbox environment:
 
-Environment Setup 
+[Environment Setup]() 
+
+### Meet the Tutorial “Source Systems”
+
+The two systems that we picked up to simulate source systems are:
+
+![image](/articles/demo_project/DPM_Demo_Project/images/00_Odoo.PNG)
+
+Odoo is an open source ERP and CRM application. You can view more details about this application at their Website: https://www.odoo.com/
+
+![image](/articles/demo_project/DPM_Demo_Project/images/00_opensourcebilling_icon.png)
+
+Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its Website https://opensourcebilling.org/ for more information.
+
+When you set up the tutorial environment, we automatically generate for you not only a running instance of each of those applications, but we also generate in each of those systems an imaginary customer using the name an e-mail address you provided when initiating the tutorial. This imaginary customer will be used throughout the tutorial to demonstrate DPM features and functionality, such as customer matching between applications, fulfilment of data access requests, keeping up with data change scenarios, and more.  
+
+### Accessing and Using the "Source Systems"
+
+As part of our tutorial, we will walk you through demonstration of how K2View's DPM automates Data Subject Requests (DSR) of different types, such as Data Subject Access Request, data rectification, data anonymization and purging. For that,  as a starting point for the different demo scenarios, you will be requested to access the "Source Systems" in order to confirm that the activities were indeed executed as expected. For example: When a DSAR is completed - verify that the data collected by the DPM are indeed "your data" as it is reflected in the source systems, or that when a request for data anonymization was completed, "your data" were anonymized at the "source systems".  
+
+The following link includes the instructions to login and navigate in those two "source systems". We will direct you to this link in each point in the tutorial where you are asked to view or use the "source systems".
+
+[Login and use of the "source environments"]()
 
 ## Demo Scenarios
 
