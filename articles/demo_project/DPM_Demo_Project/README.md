@@ -1,61 +1,61 @@
-# DPM DEMO PROJECT 
+# DPM APPLICATION TUTORIAL 
 
 ## Introduction
 
-We invite you to acquire a firsthand experience of our DPM application, by following the step-by-step demo guide we present below. 
+We invite you to acquire a firsthand experience of our DPM application by following this step-by-step tutorial. 
 
-This demo will take you through the main activities of implementing and using our DPM application, such as implementing a Data Subject Access Request flow, defining consents, executing PII discovery and more. 
+This tutorial will take you through the main activities of implementing and using our DPM application, such as implementing a Data Subject Access Request (DSAR) Flow, defining Consents, executing PII Discovery, and more. 
 
 This guide takes you through the set-up activities required to create your dedicated sandbox environment and the detailed steps of implementation and execution of various DPM features.
 
-## Demo Project Presentation
+## Tutorial Project Presentation
 
-In order to demonstrate the implementation of our DPM application, we first create an environment that simulate a real-world company, having multiple source systems which should be integrated with the DPM platform. To represent those source systems, the sandbox we generate for you includes two separate applications, each holding different information about the company customers. 
+In order to demonstrate the implementation of our DPM application, we created an environment that simulates a real-world company with multiple source systems that should be integrated with the DPM platform. To represent those source systems, the sandbox we generated for you includes two separate applications, each holding different information about the company customers. 
 
-The two applications that represent the source systems in this demo were selected for the mare purpose of demonstrating concepts. In real-life implementation you will of course connect to whichever and as many source applications your company utilizes. 
+The two applications that represent the source systems in this tutorial were selected for the purpose of demonstrating concepts. In a real-world implementation, you will of course connect to whichever and as many source applications your company uses. 
 
-Meet the demo “Source Systems”:
+### Meet the Tutorial “Source Systems”
 
 The two systems that we picked up to simulate source systems are:
 
-- ![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_Odoo.PNG) - Odoo is an open source ERP and CRM application. You can view more details about this application at their site: https://www.odoo.com/
+- ![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_Odoo.PNG) - Odoo is an open source ERP and CRM application. You can view more details about this application at their Website: https://www.odoo.com/
 
-- ![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_opensourcebilling_icon.png) - Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its site https://opensourcebilling.org/ for more information.
+- ![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_opensourcebilling_icon.png) - Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its Website https://opensourcebilling.org/ for more information.
 
-
-When you set up the demo environment, we automatically generate for you not only a running instance of each of those applications, but also populate it with the data of imaginary customers. This data will be used along the demo to demonstrate DPM features and functionality, such as customer matching between applications, fulfilment of data access requests, keeping up with data change scenarios and more.  
+When you set up the tutorial environment, we automatically generate for you not only a running instance of each of those applications, but we also populate it with the data of imaginary customers. This data will be used throughout the tutorial to demonstrate DPM features and functionality, such as customer matching between applications, fulfilment of data access requests, keeping up with data change scenarios, and more.  
 
 ## Environment Setup 
 
-Follow the link below in order to access the step-by-step instruction that will generate your dedicated sandbox environment:
+Follow the link below to access the step-by-step instructions that will generate your dedicated sandbox environment:
 
 Environment Setup 
 
 ## Demo Scenarios
 
-Follow the links below in order to access the step-by-step instruction for the generation of  your dedicated sandbox environment
+Follow the links below to access the step-by-step instruction for the generation of your dedicated sandbox environment
 
 ### Data Subject Requests
 
-The first section of our demo takes you through the steps of implementing the automation and streamlining the fulfilment process of data access requests.
+The first section of our tutorial guides you through the steps of implementing the automation and streamlining the fulfilment process of data access requests.
 
-- [**Data Subject Access Request (DSAR)**](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_00_DSAR.md) - By demonstrating how to create a DSAR request we will lead you through the implementation steps that allow you to define the flow and automation of any type of Data Subject request that Data Privacy regulations may require. 
+- [**Data Subject Access Request (DSAR)**](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_00_DSAR.md) - By demonstrating how to create a DSAR Request, we will lead you through the implementation steps that allow you to define the Flow and automation of any type of Data Subject Request that Data Privacy regulations may require. 
 
-- [**Execute a DSAR**](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_00_DSAR_Fulfillment_intro.md) - In this demonstration, you will simulate the scenario of a customer who submitted a DSAR, and the flow this request goes through from submission to fulfillment. 
+- [**Execute a DSAR**](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_00_DSAR_Fulfillment_intro.md) - In this tutorial, you will simulate the scenario of a customer who submitted a DSAR, and the Flow this Request goes through from submission to fulfillment. 
 
-- [**Seamless Sync of Source System Changes**](/articles/demo_project/DPM_Demo_Project/03_Auto_Sync/01_Auto_Sync_Data_Main.md) - By simulating a data change at one of the source systems and submitting a DSAR request for this customer, this section demonstrates the DPM seamless synchronization with the source systems.
-- **[Data Rectification](/articles/demo_project/DPM_Demo_Project/04_Rectify/01_Rectify_Data_Main.md)** - The steps in this section simulate the scenario of  a customer submitting a request to rectify its data. As a result, DPM automatically updates the data in all relevant source systems and confirm when the request fulfilment is completed.
-- [**Anonymization Request**](/articles/demo_project/DPM_Demo_Project/05_Masking/01_Masking_Data_Main.md) - Simulate a customer request to anonymize its data at all source systems, and follow this request to completion.
-- **[Data Deletion Request](/articles/demo_project/DPM_Demo_Project/06_Purging/01_Purging_Data_Main.md)** -  Simulate a customer request to delete its data at all source systems, and follow this request to completion.
+- [**Seamless Sync of Source System Changes**](/articles/demo_project/DPM_Demo_Project/03_Auto_Sync/01_Auto_Sync_Data_Main.md) - This tutorial demonstrates the DPM seamless synchronization with the source systems by simulating a data change at one of the source systems, and  then submitting a DSAR Request for the customer.
+- **[Data Rectification](/articles/demo_project/DPM_Demo_Project/04_Rectify/01_Rectify_Data_Main.md)** - The steps in this section simulate the scenario of a customer submitting a Request to rectify its data. As a result, the DPM application automatically updates the data in all relevant source systems and confirm when the request fulfilment is completed.
+- [**Anonymization Request**](/articles/demo_project/DPM_Demo_Project/05_Masking/01_Masking_Data_Main.md) - This tutorial will simulate a customer Request to anonymize their data in all source systems, and follow this Request to its completion.
+- **[Data Deletion Request](/articles/demo_project/DPM_Demo_Project/06_Purging/01_Purging_Data_Main.md)** -  In this tutorial, you will simulate a customer Request to delete their data in all source systems, and follow this Request to its completion.
 
 ### Personally Identifiable Information (PII) Discovery
 
-DPM PII discovery feature provides you with a powerful tool to identify the location personal data is stored at your organization's systems, in order to take the appropriate measures to protect it.
+The DPM PII discovery feature provides you with a powerful tool to identify the location where personal data is stored in your organization's systems, and then take the appropriate measures to protect it.
 
-- [**PII Discovery**](/articles/demo_project/DPM_Demo_Project/07_Discovery/Purging/01_Discovery_Main.md) - In this guided demo we take you through the steps of defining and executing the PII discovery process
+- [**PII Discovery**](/articles/demo_project/DPM_Demo_Project/07_Discovery/Purging/01_Discovery_Main.md) - In this guided tutorial, we take you through the steps of defining and executing the PII discovery process.
 
 ### Customer Consent Management
 
-Managing your customer's preferences and consents is made easy with DPM Consent Management capabilities
+Managing your customer's preferences and consents is easy with DPM Consent Management capabilities.
 
-- [**Consent Management**](/articles/demo_project/DPM_Demo_Project/08_Consent/01_Consent_Main.md) - this interactive demo demonstrate how to define any consent topic and the way the system manage the consent preferences of each customer. 
+- [**Consent Management**](/articles/demo_project/DPM_Demo_Project/08_Consent/01_Consent_Main.md) - This interactive tutorial demonstrates how to define any consent topic and the way the DPM system manages the consent preferences of each customer. 
+
