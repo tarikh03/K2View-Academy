@@ -4,17 +4,21 @@ In the previous tutorial, we asked you to locate the customer Request informatio
 
 Access Open Source Billing at https://opensourcebilling.org/ and enter the user credentials provided by your company. Click the line in the **Clients** table that contains information for Rick Jones.
 
-<image>
+![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Login.jpg)
 
 You can see that the customer email address was updated as per the completed Request submitted earlier. 
 
+![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Login.jpg)
+
 Update the **Email** address.
 
-<image>
+![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Login.jpg)
 
-Click <ICON_OSB_Save.jpg> to save the changes. 
+Click ![image](/articles/demo_project/DPM_Demo_Project/images/ICON_OSB_Save.jpg) in the upper-right corner of the screen to save the changes. 
 
 Locate the customer in the **Clients** table and observe that the change was updated in the source system.
+
+![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Login.jpg)
 
 
 
