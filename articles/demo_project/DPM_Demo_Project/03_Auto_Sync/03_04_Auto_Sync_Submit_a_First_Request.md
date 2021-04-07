@@ -8,15 +8,15 @@ Click ![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Request.j
 
 The New Request screen displays.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Request_Landing.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/03_1_Auto_Sync_First_Request.jpg)
 
 Select a Regulation from the drop-down list. For this tutorial, we will select **Tutorial Automated Activities**.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/06_3_Purging_DeleteMyData_Reg.jpg)  
+![image](/articles/demo_project/DPM_Demo_Project/images/03_2_Auto_Sync_First_Request.jpg)  
 
 Select **Automated DSAR** under the "Request Type" section.
 
-![image](/articles/demo_project/DPM_Demo_Project/images/04_1_Rectify_Regulation.jpg)
+![image](/articles/demo_project/DPM_Demo_Project/images/03_3_Auto_Sync_First_Request.jpg)
 
 The **Automated DSAR** Request Type under the **Tutorial Automated Activities** Regulation displays an email address entry field. 
 
@@ -24,7 +24,7 @@ The **Automated DSAR** Request Type under the **Tutorial Automated Activities** 
 
 Complete the field(s) on the right side of the form.  
 
-![image](/articles/demo_project/DPM_Demo_Project/images/04_2_Rectify_FormFields.jpg)     
+![image](/articles/demo_project/DPM_Demo_Project/images/03_4_Auto_Sync_First_Request.jpg)     
 
 Click ![image](/articles/demo_project/DPM_Demo_Project/images/06_ICON_Submit.jpg) to submit the Request.
 
