@@ -1,6 +1,6 @@
 ## Change Your Data in the Source Systems
 
-For this tutorial, we will change data associated with our Customer, Rick Jones. You can access either of the two simulation source systems, but we will use Odoo for this demonstration.
+For this tutorial, we will change data associated with our Customer, Rick Jones. You can access either of the two simulation source systems, but we will use Open Source Billing for this demonstration.
 
 
 
