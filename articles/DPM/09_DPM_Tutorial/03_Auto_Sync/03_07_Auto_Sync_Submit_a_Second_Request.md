@@ -36,7 +36,7 @@ Once the Request is submitted, the customer can access the **Requests List** usi
 
 **Note**: It may take a few minutes for the Request to be marked as Complete. You can follow the progress by viewing the status bar. When the status bar turns green, the Request is complete.  
 
-![image](../images/03_4_02_Auto_Sync_First_Request.jpg)
+![image](../images/03_16_Auto_Sync_SecondRequest.jpg)
 
 
 [![Previous](../images/Previous.png)]( 03_06_Auto_Sync_Change_Your_Data.md)[<p align="right"> Return to Auto Sync Tutorial</p>](03_01_Auto_Sync_Data_Tutorial.md)
