@@ -28,7 +28,7 @@ Complete the field(s) on the right side of the form.
 
 ![image](../images/03_4_Auto_Sync_First_Request.jpg)     
 
-Click ![image](../images/06_ICON_Submit.jpg) to submit the Request.
+Click ![image](../images/06_ICON_Submit.jpg) to submit the second Request.
 
 ### Ensure Your Request was Marked Complete
 
