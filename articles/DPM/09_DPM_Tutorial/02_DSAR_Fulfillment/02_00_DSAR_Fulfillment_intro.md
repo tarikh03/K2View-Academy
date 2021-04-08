@@ -25,4 +25,4 @@ To demonstrate how the DSAR fulfillment process is orchestrated by the DPM tool,
 
 
 
-[![Previous](/articles/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/README.md)[<img align="right" width="60" height="54" src="/articles/images/Next.png">](02_01_DSAR_Fulfillment_Customer_Request.md)
+[![Previous](/articles/images/Previous.png)](../README.md)[<img align="right" width="60" height="54" src="/articles/images/Next.png">](02_01_DSAR_Fulfillment_Customer_Request.md)
