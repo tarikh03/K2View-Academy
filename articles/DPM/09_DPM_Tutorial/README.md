@@ -24,7 +24,7 @@ Follow the link below to access the step-by-step instructions that will generate
 
 The two systems that we picked up to simulate source systems are:
 
-![image](images/00_Odoo.png)
+![image](images/00_odoo.png)
 
 Odoo is an open source ERP and CRM application. You can view more details about this application at their Website: https://www.odoo.com/
 
