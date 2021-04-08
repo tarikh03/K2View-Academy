@@ -46,7 +46,7 @@ Use the **search** option in order to find the customer that was generated for y
 
 <img src="../images/00_odoo_contact_screen.png" width="50%" height="50%">
 
-In this screen you can review the details as well as use the <img src="../images/00_odoo_edit.png" width="5%" height="5%">and then <img src="../images/00_odoo_save.png" width="6%" height="%">option in order to edit the data when requested by the tutorial. 
+In this screen you can review the details as well as use the <img src="../images/00_odoo_edit.png" width="5%" height="5%"> and then <img src="../images/00_odoo_save.png" width="6%" height="%"> option in order to edit the data when requested by the tutorial. 
 
 ## Open Source Billing
 
