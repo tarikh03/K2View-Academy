@@ -4,4 +4,4 @@ The Discovery Matching Rules function of the DPM system lets you search database
 
 
 
-[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/07_Discovery/01_Discovery_Main.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/07_Discovery/03_01_Discovery_Tutorial.md)
+[![Previous](../images/Previous.png)]( 01_Discovery_Main.md)[<img align="right" width="60" height="54" src="../images/Next.png">](03_01_Discovery_Tutorial.md)

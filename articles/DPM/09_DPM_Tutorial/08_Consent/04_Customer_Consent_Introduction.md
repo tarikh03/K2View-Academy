@@ -6,4 +6,4 @@ When accessing this menu option, the customer can review the list of consents, d
 
 
 
-[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/08_Consent/01_Consent_Main.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/08_Consent/05_01_Customer_Consent_Tutorial.md)
+[![Previous](../images/Previous.png)]( 01_Consent_Main.md)[<img align="right" width="60" height="54" src="../images/Next.png">](05_01_Customer_Consent_Tutorial.md)
