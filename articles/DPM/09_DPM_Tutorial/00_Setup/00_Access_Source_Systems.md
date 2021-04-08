@@ -24,7 +24,7 @@ The two systems that we picked up to simulate source systems are:
      </div></a>
 </td>
 <td width="300"> 
-<a href="00_Odoo_instructions">
+<a href="00_Odoo_instructions.md">
     <div style="height:100%;width:100%">
         <p>Access and Use Instructions</p>
     </div> </a>
@@ -39,7 +39,7 @@ The two systems that we picked up to simulate source systems are:
         </div></a>
 </td>
 <td width="300"> 
-    <a href="00_OSB_instructions">
+    <a href="00_OSB_instructions.md">
     <div style="height:100%;width:100%">
 		<p>Access and Use Instructions</p>
     </div></a>
