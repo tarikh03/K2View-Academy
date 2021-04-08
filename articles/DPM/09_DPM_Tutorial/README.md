@@ -34,8 +34,7 @@ The two systems that we picked up to simulate source systems are:
 </td>
 </tr>
 <tr>
-<td width="100">
-<p><img src="/images/00_opensourcebilling_icon.png" alt=""/>![image](/images/00_opensourcebilling_icon.png)</p>
+<td width="100"> <img src="/images/00_opensourcebilling_icon.png" alt=""/>
 </td>
 <td width="800">
 <p>Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its Website https://opensourcebilling.org/ for more information.</p>
