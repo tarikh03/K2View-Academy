@@ -18,7 +18,7 @@ The two applications that represent the source systems in this tutorial were sel
 
 Follow the link below to access the step-by-step instructions that will generate your dedicated sandbox environment:
 
-[Environment Setup]() 
+[Environment Setup](/articles/demo_project/DPM_Demo_Project/00_Setup/00_Environment_Setup.md) 
 
 ### Meet the Tutorial “Source Systems”
 
@@ -42,7 +42,7 @@ The following link includes the instructions to login and navigate in those two 
 
 [Login and use of the "source environments"]()
 
-## Demo Scenarios
+## Tutorial Scenarios
 
 Follow the links below to access the step-by-step instruction for the generation of your dedicated sandbox environment
 
