@@ -23,14 +23,26 @@ Follow the link below to access the step-by-step instructions that will generate
 ### Meet the Tutorial “Source Systems”
 
 The two systems that we picked up to simulate source systems are:
-
-![image](images/00_odoo.png)
-
-Odoo is an open source ERP and CRM application. You can view more details about this application at their Website: https://www.odoo.com/
-
-![image](images/00_opensourcebilling_icon.png)
-
-Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its Website https://opensourcebilling.org/ for more information.
+<table>
+<tbody>
+<tr>
+<td width="100">
+<p>![image](images/00_odoo.png)</p>
+</td>
+<td width="800">
+<p>Odoo is an open source ERP and CRM application. You can view more details about this application at their Website: https://www.odoo.com/.</p>
+</td>
+</tr>
+<tr>
+<td width="100">
+<p>![image](images/00_opensourcebilling_icon.png)</p>
+</td>
+<td width="800">
+<p>Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its Website https://opensourcebilling.org/ for more information.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 When you set up the tutorial environment, we automatically generate for you not only a running instance of each of those applications, but we also generate in each of those systems an imaginary customer using the name an e-mail address you provided when initiating the tutorial. 
 
