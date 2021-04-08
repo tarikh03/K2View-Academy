@@ -1,4 +1,4 @@
-# Auto Sync Data Overview
+# Auto Sync of Source System Changes
 
 This demonstration will guide you through the automatic synchronization between the DPM System and the source systems.
 
