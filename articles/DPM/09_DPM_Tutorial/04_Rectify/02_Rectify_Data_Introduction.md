@@ -8,4 +8,4 @@ For this tutorial, we will assume that a Customer named Rick Jones wants to upda
 
 
 
-[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/04_Rectify/01_Rectify_Data_Main.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/demo_project/DPM_Demo_Project/04_Rectify/03_01_Rectify_Data_Tutorial.md)
+[![Previous](../images/Previous.png)](01_Rectify_Data_Main.md)[<img align="right" width="60" height="54" src="../images/Next.png">](03_01_Rectify_Data_Tutorial.md)

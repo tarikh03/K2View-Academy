@@ -4,10 +4,10 @@ When the status bar reaches the end of the **REQUEST ID** field and turns fully 
 
 The two applications that we use to simulate source systems are:
 
-- ![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_Odoo.PNG) - Odoo is an open source ERP and CRM application. You can view more details about this application at their site: https://www.odoo.com/
+- ![image](../images/01_DSAR_Odoo.PNG) - Odoo is an open source ERP and CRM application. You can view more details about this application at their site: https://www.odoo.com/
 
-- ![image](/articles/demo_project/DPM_Demo_Project/images/01_DSAR_opensourcebilling_icon.png) - Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its site https://opensourcebilling.org/ for more information.
+- ![image](../images/01_DSAR_opensourcebilling_icon.png) - Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its site https://opensourcebilling.org/ for more information.
 
 
 
-[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/04_Rectify/03_05_Rectify_Ensure_Marked_Complete.md)[<p align="right"> Return to Data Rectification Tutorial</p>](/articles/demo_project/DPM_Demo_Project/04_Rectify/03_01_Rectify_Data_Tutorial.md)
+[![Previous](../images/Previous.png)]( 03_05_Rectify_Ensure_Marked_Complete.md)[<p align="right"> Return to Data Rectification Tutorial</p>](03_01_Rectify_Data_Tutorial.md)
