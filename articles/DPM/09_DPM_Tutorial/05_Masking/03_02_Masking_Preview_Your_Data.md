@@ -4,7 +4,7 @@ For this tutorial, preview the data you intend to mask by accessing the two sour
 
 The two applications that we use to simulate source systems are:
 
-- ![image](../images/00_README_Odoo.png) - Odoo is an open source ERP and CRM application. You can view more details about this application at their site: https://www.odoo.com/
+- ![image](../images/00_README_odoo.png) - Odoo is an open source ERP and CRM application. You can view more details about this application at their site: https://www.odoo.com/
 
 - ![image](../images/00_README_opensourcebilling_icon.png) - Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its site https://opensourcebilling.org/ for more information.
 
