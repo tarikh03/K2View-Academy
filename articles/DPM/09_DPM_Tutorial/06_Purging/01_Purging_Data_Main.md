@@ -1,4 +1,4 @@
-# Purging Data Overview
+# Purging Data
 
 This demonstration will guide you through the process of a typical data purge lifecycle. A lifecycle begins with a Customer request to delete their data at all source systems. It completes itself with the Customer verifying that the data was purged from the source.
 
