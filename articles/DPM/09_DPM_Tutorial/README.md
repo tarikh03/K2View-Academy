@@ -24,11 +24,11 @@ Follow the link below to access the step-by-step instructions that will generate
 
 The two systems that we picked up to simulate source systems are:
 
-![image](images/00_Odoo.png)
+![image](/images/00_Odoo.png)
 
 Odoo is an open source ERP and CRM application. You can view more details about this application at their Website: https://www.odoo.com/
 
-![image](images/00_opensourcebilling_icon.png)
+![image](/images/00_opensourcebilling_icon.png)
 
 Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its Website https://opensourcebilling.org/ for more information.
 
