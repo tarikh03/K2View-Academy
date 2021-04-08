@@ -4,6 +4,6 @@ When the status bar reaches its end and turns fully green, the status changes to
 
 Search these systems for the data that our Customer, Rick Jones, requested to be deleted. You should not be able to locate Mr. Jones's data because his data should no longer be in either system.
 
-To access the two "source applications" that we use to simulate source systems follow the instructions provided at: [Access Source Systems](../00_Setup/00_Access_Source_Systems.md).
+[Access Source Systems](../00_Setup/00_Access_Source_Systems.md) provides details on the access to the tutorial "source systems".
 
 [![Previous](../images/Previous.png)]( 03_04_Purging_Ensure_Marked_Complete.md)[<p align="right"> Return to Purging Data Tutorial</p>](03_01_Purging_Data_Tutorial.md)
