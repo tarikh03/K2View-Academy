@@ -4,7 +4,7 @@ At your internet navigator, type  http://localhost:8069/ to access the Odoo appl
 
 <img src="../images/00_odoo_login.png" width="30%" height="30%">
 
-Once logged-in, select the <img src="../images/00_odoo_menu_access.png" width="4%" height="4%"> icon at the upper left corner, and select the option **Contacts** from the menu options that are presented: 
+Once logged-in, select the <img src="../images/00_odoo_menu_access.png" width="3%" height="3%"> icon at the upper left corner, and select the option **Contacts** from the menu options that are presented: 
 
 <img src="../images/00_odoo_contacts_menu_option.png" width="10%" height="10%">
 
