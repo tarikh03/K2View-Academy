@@ -54,7 +54,7 @@ For example: When a DSAR is completed we will request you to verify that the dat
 
 The following link includes the instructions to login and navigate in those two "source systems". We will direct you to this link in each point in the tutorial where you are asked to view or use the "source systems".
 
-[Login and use of the "source environments"](00_Setup/00_Access_Source_Systems)
+[Login and use of the "source environments"](00_Setup/00_Access_Source_Systems.md)
 
 # Tutorial Scenarios
 
