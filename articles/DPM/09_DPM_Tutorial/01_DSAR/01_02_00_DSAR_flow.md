@@ -14,11 +14,11 @@ The creation of Flows using the K2View DPM System provides limitless flexibility
 
 **Note**: This section assumes you followed the login steps in the previous section of this tutorial, and you are now looking at the DPM Admin main screen. The menu on the left side of the screen is the Admin menu.
 
-1.  [Create a New Flow and Stage](/01_DSAR/01_02_01_DSAR_create_new_flow.md)
-2.  [Case Opening and Customer Notification Tasks](/01_DSAR/01_02_02_DSAR_Tasks_First_Stage.md)
-3.  [Data Gathering and Task Review](/01_DSAR/01_02_03_DSAR_Tasks_Next_Stages.md)
-4.  [Mark the Flow as Complete/01_DSAR/01_02_04_DSAR_Finalize_Flow.md)
+1.  [Create a New Flow and Stage](01_02_01_DSAR_create_new_flow.md)
+2.  [Case Opening and Customer Notification Tasks](01_02_02_DSAR_Tasks_First_Stage.md)
+3.  [Data Gathering and Task Review](01_02_03_DSAR_Tasks_Next_Stages.md)
+4.  [Mark the Flow as Complete](01_02_04_DSAR_Finalize_Flow.md)
 
 
 
-[![Previous](../images/Previous.png)](/01_DSAR/01_01_DSAR_login.md)[<img align="right" width="60" height="54" src="../images/Next.png">](/01_DSAR/01_02_01_DSAR_create_new_flow.md)
+[![Previous](../images/Previous.png)](01_01_DSAR_login.md)[<img align="right" width="60" height="54" src="../images/Next.png">](01_02_01_DSAR_create_new_flow.md)
