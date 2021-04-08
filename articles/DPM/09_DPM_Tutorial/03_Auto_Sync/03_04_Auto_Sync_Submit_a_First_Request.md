@@ -32,7 +32,7 @@ Click ![image](../images/06_ICON_Submit.jpg) to submit the Request.
 
 Once the Request is submitted, the customer can access the **Requests List** using the menu option on the left of the screen and view the request progress.
 
-**Note**: It may take a few minutes for the Request to be marked as Complete. You can follow the progress by viewing the status bar. When the status bar turns green, the Request is complete.
+**Note**: It may take a few minutes for the Request to be marked as Complete. You can follow the progress by viewing the status bar. When the status bar reaches the end and turns fully green, the Request is complete.
 
 ![image](../images/03_4_02_Auto_Sync_First_Request.jpg) 
 
