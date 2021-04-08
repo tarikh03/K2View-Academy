@@ -1,6 +1,6 @@
 ## Review Masked Data in the Source Systems
 
-When the status bar reaches the end of the **REQUEST ID** field and turns fully green, the status changes to **Complete**. In a real-world environment, a status marked **Complete** means that data relating to the Customer is now masked in the DPM System. For this tutorial, access the two source systems we set up for simulation purposes. 
+When the status bar reaches the end and turns fully green, the status changes to **Complete**. In a real-world environment, a status marked **Complete** means that data relating to the Customer is now masked in the DPM System. For this tutorial, access the two source systems we set up for simulation purposes. 
 
 The two applications that we use to simulate source systems are:
 
