@@ -39,4 +39,4 @@ Once the Request is submitted, the customer can access the **Requests List** usi
 ![image](../images/03_4_02_Auto_Sync_First_Request.jpg)
 
 
-[![Previous](../images/Previous.png)]( 03_06_Auto_Sync_Change_Your_Data.md)[<p align="right"> Return to Auto Sync Tutorial</p>]( 03_01_Auto_Sync_Data_Tutorial.md)
+[![Previous](../images/Previous.png)]( 03_06_Auto_Sync_Change_Your_Data.md)[<p align="right"> Return to Auto Sync Tutorial</p>](03_01_Auto_Sync_Data_Tutorial.md)
