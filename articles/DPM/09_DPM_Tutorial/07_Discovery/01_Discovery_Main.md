@@ -8,4 +8,4 @@ This demonstration will guide you through the process of a typical Discovery lif
 
 
 
-[![Previous](../images/Previous.png)](/articles/demo_project/DPM_Demo_Project/README.md)[<img align="right" width="60" height="54" src="../images/Next.png">](02_Discovery_Intro.md)
+[![Previous](../images/Previous.png)](../README.md)[<img align="right" width="60" height="54" src="../images/Next.png">](02_Discovery_Intro.md)
