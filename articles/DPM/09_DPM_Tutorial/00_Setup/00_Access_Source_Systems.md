@@ -45,7 +45,6 @@ The two systems that we picked up to simulate source systems are:
     </div></a>
 </td>
 </tr>
-    </center>
 </tbody>
 </table>
 
