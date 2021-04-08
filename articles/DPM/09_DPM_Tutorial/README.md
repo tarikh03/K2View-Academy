@@ -26,17 +26,14 @@ The two systems that we picked up to simulate source systems are:
 <table>
 <tbody>
 <tr>
-<td width="100">
-<p>![image](/images/00_odoo.png)</p>
-</td>
+<td width="100"; style="text-align: center;"><img src="images/00_odoo.png" alt=""/></td>
 <td width="800">
 <p>Odoo is an open source ERP and CRM application. You can view more details about this application at their Website: https://www.odoo.com/.</p>
 </td>
 </tr>
 <tr>
-<td width="100"> <img src="/images/00_opensourcebilling_icon.png" alt=""/>
-</td>
-<td width="800">
+<td width="100" ; style="text-align: center;"><img src="images/00_opensourcebilling_icon.png" width="100%" height="100%" alt=""/></td>
+<td width="800"> 
 <p>Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its Website https://opensourcebilling.org/ for more information.</p>
 </td>
 </tr>
@@ -59,11 +56,11 @@ The following link includes the instructions to login and navigate in those two 
 
 [Login and use of the "source environments"]()
 
-## Tutorial Scenarios
+# Tutorial Scenarios
 
 Follow the links below to access the step-by-step instruction for the generation of your dedicated sandbox environment
 
-### Data Subject Requests
+## Data Subject Requests
 
 The first section of our tutorial guides you through the steps of implementing the automation and streamlining the fulfilment process of data access requests.
 
@@ -76,13 +73,13 @@ The first section of our tutorial guides you through the steps of implementing t
 - [**Anonymization Request**]( 05_Masking/01_Masking_Data_Main.md) - This tutorial will simulate a customer Request to anonymize their data in all source systems, and follow this Request to its completion.
 - **[Data Deletion Request]( 06_Purging/01_Purging_Data_Main.md)** -  In this tutorial, you will simulate a customer Request to delete their data in all source systems, and follow this Request to its completion.
 
-### Personally Identifiable Information (PII) Discovery
+## Personally Identifiable Information (PII) Discovery
 
 The DPM PII discovery feature provides you with a powerful tool to identify the location where personal data is stored in your organization's systems, and then take the appropriate measures to protect it.
 
 - [**PII Discovery**]( 07_Discovery/01_Discovery_Main.md) - In this guided tutorial, we take you through the steps of defining and executing the PII discovery process.
 
-### Customer Consent Management
+## Customer Consent Management
 
 Managing your customer's preferences and consents is easy with DPM Consent Management capabilities.
 
