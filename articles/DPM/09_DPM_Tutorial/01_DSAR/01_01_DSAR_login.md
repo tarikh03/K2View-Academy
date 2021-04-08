@@ -20,4 +20,4 @@ As a result, the initial screen of the Admin module displays.
 
 
 
-[![Previous](../images/Previous.png)](01_DSAR/01_00_DSAR.md)[<img align="right" width="60" height="54" src="../images/Next.png">](01_DSAR/01_02_00_DSAR_flow.md)
+[![Previous](../images/Previous.png)](01_00_DSAR.md)[<img align="right" width="60" height="54" src="../images/Next.png">](01_02_00_DSAR_flow.md)
