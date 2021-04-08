@@ -12,13 +12,13 @@ To access the DPM as a customer, login with the user information that was used f
 - **Username** - rickjones
 - **Password** - k2view
 
-![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Login.jpg)                                  
+![image](../images/Customer_Login.jpg)                                  
 Click **Login**.
 
 The Customer Dashboard displays. The user can access the Requests List by clicking the **View Requests** button, or by selecting **Requests List** from the menu on the left side of the screen. 
 
-![image](/articles/demo_project/DPM_Demo_Project/images/Customer_Dashboard.jpg)    
+![image](../images/Customer_Dashboard.jpg)    
 
 
 
-[![Previous](/articles/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_04_DSAR_Fulfillment_Case_Owner_Perform_Task.md)[<img align="right" width="60" height="54" src="/articles/images/Next.png">](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_00_DSAR_Fulfillment_intro.md)
+[![Previous](/articles/images/Previous.png)]( 02_04_DSAR_Fulfillment_Case_Owner_Perform_Task.md)[<img align="right" width="60" height="54" src="/articles/images/Next.png">]( 02_00_DSAR_Fulfillment_intro.md)

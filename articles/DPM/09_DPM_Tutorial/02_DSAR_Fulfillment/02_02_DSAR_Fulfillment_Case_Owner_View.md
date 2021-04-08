@@ -11,21 +11,21 @@ Login as a user with a Case Owner role using the following credentials.
 
 The DPM system displays the Case Owner Dashboard. The Dashboard should be mostly empty, because the only Request submitted so far is the DSAR Request you submitted in the first tutorial section.  
 
-<img src="/articles/demo_project/DPM_Demo_Project/images/02_02_DSAR_Fulfillment_Case_Owner_Dashboard.png" width="100%" height="100%">
+<img src="../images/02_02_DSAR_Fulfillment_Case_Owner_Dashboard.png" width="100%" height="100%">
 
 On the left side of the screen, the Case Owner menu options display.
 
-<img src="/articles/demo_project/DPM_Demo_Project/images/02_02_DSAR_Fulfillment_Case_Owner_Menu.png" width="30%" height="30%">
+<img src="../images/02_02_DSAR_Fulfillment_Case_Owner_Menu.png" width="30%" height="30%">
 
 Select **Requests List**. The list of Requests that are under the responsibility of this Case Owner displays.
 
-<img src="/articles/demo_project/DPM_Demo_Project/images/02_02_DSAR_Fulfillment_Case_Owner_Request_List.png" width="100%" height="100%">
+<img src="../images/02_02_DSAR_Fulfillment_Case_Owner_Request_List.png" width="100%" height="100%">
 
 Only the Request we previously submitted displays in the table. Observe that the Request **Risk/Status** is "In Progress".
 
 Click the Request line in the table to display the Request details.
 
-<img src="/articles/demo_project/DPM_Demo_Project/images/02_02_DSAR_Fulfillment_Case_Owner_Request_Details.png" width="100%" height="100%">
+<img src="../images/02_02_DSAR_Fulfillment_Case_Owner_Request_Details.png" width="100%" height="100%">
 
 You can view the list of Tasks that comprise this Request, along with the status of each Task. Depending on how much time passed between the submission of the Request and this step, the automatic Tasks may have already been completed, as depicted in the image above. 
 
@@ -33,7 +33,7 @@ If you click any of the Task lines, a detail screen for that Task displays. In t
 
 To view this functionality, click the Task called **Legal Review**. Add a note from the case owner to the data steward as shown in the image below.
 
-<img src="/articles/demo_project/DPM_Demo_Project/images/02_02_DSAR_Fulfillment_Case_Owner_Task_Notes.png" width="100%" height="100%">
+<img src="../images/02_02_DSAR_Fulfillment_Case_Owner_Task_Notes.png" width="100%" height="100%">
 
 For automatic Tasks, if an error occurred during the process, the system displays the error as a message. This is similar to the notes between the case owner and the data steward, but it is marked in red. 
 
@@ -41,4 +41,4 @@ Close the Task details screen and logout from the DPM system.
 
 
 
-[![Previous](/articles/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_01_DSAR_Fulfillment_Customer_Request.md)[<img align="right" width="60" height="54" src="/articles/images/Next.png">](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_03_DSAR_Fulfillment_Steward_View.md)
+[![Previous](/articles/images/Previous.png)]( 02_01_DSAR_Fulfillment_Customer_Request.md)[<img align="right" width="60" height="54" src="/articles/images/Next.png">]( 02_03_DSAR_Fulfillment_Steward_View.md)

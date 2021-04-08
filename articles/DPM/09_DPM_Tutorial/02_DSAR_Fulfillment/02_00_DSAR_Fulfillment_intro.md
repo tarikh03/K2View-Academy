@@ -17,12 +17,12 @@ So far in this tutorial, we demonstrated the activities of a user that holds the
 
 To demonstrate how the DSAR fulfillment process is orchestrated by the DPM tool, we will guide you through the following steps:
 
-1. [**Customer Submits a DSAR Request**](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_01_DSAR_Fulfillment_Customer_Request.md) - This is based on the Activity we created in the previous chapter.
-2. **[Case Owner Views the Submitted Request](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_02_DSAR_Fulfillment_Case_Owner_View.md)**  - This step is not necessary during the Request fulfilment process, but we will use it to show how the Tasks we created in the previous chapter are translated to a sequence of actions in the submitted Request fulfillment process.
-3. **[Legal Data Steward Reviews the Results](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_03_DSAR_Fulfillment_Steward_View.md)** - As we configured the fulfillment process to include a review of the results by the Legal team, once the automatic process collected all of the customer's data, a task is created for this team to perform the review.
-4. [**Case Owner Reviews the Results**](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_04_DSAR_Fulfillment_Case_Owner_Perform_Task.md) - This will show how the Case Owner can view the results and confirm sending them to the customer. 
-5. **[Customer Views the Completed Request](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_05_DSAR_Fulfillment_Customer_View_Completed_Request.md)** - The Request was completed and the Results were provided to the customer. Here we see how it looks from the customer side. 
+1. [**Customer Submits a DSAR Request**](02_01_DSAR_Fulfillment_Customer_Request.md) - This is based on the Activity we created in the previous chapter.
+2. **[Case Owner Views the Submitted Request](02_02_DSAR_Fulfillment_Case_Owner_View.md)**  - This step is not necessary during the Request fulfilment process, but we will use it to show how the Tasks we created in the previous chapter are translated to a sequence of actions in the submitted Request fulfillment process.
+3. **[Legal Data Steward Reviews the Results](02_03_DSAR_Fulfillment_Steward_View.md)** - As we configured the fulfillment process to include a review of the results by the Legal team, once the automatic process collected all of the customer's data, a task is created for this team to perform the review.
+4. [**Case Owner Reviews the Results**](02_04_DSAR_Fulfillment_Case_Owner_Perform_Task.md) - This will show how the Case Owner can view the results and confirm sending them to the customer. 
+5. **[Customer Views the Completed Request](02_05_DSAR_Fulfillment_Customer_View_Completed_Request.md)** - The Request was completed and the Results were provided to the customer. Here we see how it looks from the customer side. 
 
 
 
-[![Previous](/articles/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/README.md)[<img align="right" width="60" height="54" src="/articles/images/Next.png">](/articles/demo_project/DPM_Demo_Project/02_DSAR_Fulfillment/02_01_DSAR_Fulfillment_Customer_Request.md)
+[![Previous](/articles/images/Previous.png)](/articles/demo_project/DPM_Demo_Project/README.md)[<img align="right" width="60" height="54" src="/articles/images/Next.png">](02_01_DSAR_Fulfillment_Customer_Request.md)
