@@ -5,16 +5,32 @@ In this page you will find the instructions on how to access the two application
 The two systems that we picked up to simulate source systems are:
 <table>
 <tbody>
+<td width="120"> 
+<p>Source Application</p>
+</td>
+<td width="400"> 
+<p>Access URL</p>
+</td>
+<td width="400"> 
+<p>Instructions</p>
+</td>
+</tr>
 <tr>
 <td width="100"><img src="../images/00_odoo.png" alt=""/></td>
-<td width="800">
-<p>Access URL: http://localhost:8069</p>
+<td width="400">
+<p>http://localhost:8069</p>
+</td>
+<td width="400"> 
+<p>instructions</p>
 </td>
 </tr>
 <tr>
 <td width="100"><img src="../images/00_opensourcebilling_icon.png" width="120%" height="120%" alt=""/></td>
-<td width="800"> 
-<p>Access URL: http://localhost:3000</p>
+<td width="400"> 
+<p>http://localhost:3000</p>
+</td>
+<td width="400"> 
+<p>instructions</p>
 </td>
 </tr>
 </tbody>
