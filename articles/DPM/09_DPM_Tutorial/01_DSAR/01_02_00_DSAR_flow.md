@@ -21,4 +21,4 @@ The creation of Flows using the K2View DPM System provides limitless flexibility
 
 
 
-[![Previous](/images/Previous.png)]( /01_DSAR/01_01_DSAR_login.md)[<img align="right" width="60" height="54" src="/images/Next.png">](/01_DSAR/01_02_01_DSAR_create_new_flow.md)
+[![Previous](../images/Previous.png)](/01_DSAR/01_01_DSAR_login.md)[<img align="right" width="60" height="54" src="../images/Next.png">](/01_DSAR/01_02_01_DSAR_create_new_flow.md)
