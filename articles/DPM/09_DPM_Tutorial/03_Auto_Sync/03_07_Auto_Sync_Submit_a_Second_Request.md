@@ -12,7 +12,7 @@ The New Request screen displays.
 
 ![image](../images/03_1_Auto_Sync_First_Request.jpg)
 
-Select a Regulation from the drop-down list. For this tutorial, we will select **Tutorial Automated Activities**.
+Select a Regulation from the drop-down list. As with our first Request, we will select **Tutorial Automated Activities**.
 
 ![image](../images/03_2_Auto_Sync_First_Request.jpg)  
 
@@ -34,7 +34,7 @@ Click ![image](../images/06_ICON_Submit.jpg) to submit the Request.
 
 Once the Request is submitted, the customer can access the **Requests List** using the menu option on the left of the screen and view the request progress.
 
-**Note**: It may take a few minutes for the Request to be marked as Complete. You can follow the progress by viewing the status bar located directly underneath your **REQUEST ID**. When the status bar reaches the end of the **REQUEST ID** field and it turns green, the Request is complete.  
+**Note**: It may take a few minutes for the Request to be marked as Complete. You can follow the progress by viewing the status bar. When the status bar turns green, the Request is complete.  
 
 ![image](../images/03_4_02_Auto_Sync_First_Request.jpg)
 
