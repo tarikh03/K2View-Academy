@@ -1,4 +1,4 @@
-# Data Rectification Overview
+# Data Rectification
 
 This demonstration will guide you through the process of a typical data rectification lifecycle. A lifecycle begins with a Customer request to update their data within all source systems. It completes itself with a confirmation sent to the customer that the data was updated in the source system.
 
