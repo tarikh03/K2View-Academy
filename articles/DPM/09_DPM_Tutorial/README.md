@@ -56,7 +56,7 @@ Follow the links below to access the step-by-step instruction for the generation
 
 The first section of our tutorial guides you through the steps of implementing the automation and streamlining the fulfilment process of data access requests.
 
-- [**Data Subject Access Request (DSAR)**]( /01_DSAR/01_00_DSAR.md) - By demonstrating how to create a DSAR Request, we will lead you through the implementation steps that allow you to define the Flow and automation of any type of Data Subject Request that Data Privacy regulations may require. 
+- [**Data Subject Access Request (DSAR)**]( ../01_DSAR/01_00_DSAR.md) - By demonstrating how to create a DSAR Request, we will lead you through the implementation steps that allow you to define the Flow and automation of any type of Data Subject Request that Data Privacy regulations may require. 
 
 - [**Execute a DSAR**]( /02_DSAR_Fulfillment/02_00_DSAR_Fulfillment_intro.md) - In this tutorial, you will simulate the scenario of a customer who submitted a DSAR, and the Flow this Request goes through from submission to fulfillment. 
 
