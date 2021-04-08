@@ -66,10 +66,10 @@ The list of clients is presented:
 
  <img src="../images/00_OSB_clients_screen.png" width="80%" height="80%">
 
- Use the **Search** option to search for the client that was generated for you, and click the  <img src="../images/00_OSB_edit_icon.png" width="5%" height="5%"> at the right side of the client's line in order to open its details:
+ Use the **Search** option to search for the client that was generated for you, and click the  <img src="../images/00_OSB_edit_icon.png" width="4%" height="4%"> at the right side of the client's line in order to open its details:
 
  <img src="../images/00_OSB_edit_client.png" width="60%" height="60%">
 
 
 
-Review the client information and when called by the tutorial, alter the client's information and click the  <img src="../images/00_OSB_save_icon.png" width="5%" height="5%"> at the top right corner to save the changes.
+Review the client information and when called by the tutorial, alter the client's information and click the  <img src="../images/00_OSB_save_icon.png" width="4%" height="4%"> at the top right corner to save the changes.
