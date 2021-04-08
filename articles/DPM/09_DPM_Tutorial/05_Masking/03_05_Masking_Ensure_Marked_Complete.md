@@ -12,7 +12,7 @@ The Requests List screen displays the progress of a submitted Requests. To more 
 
 Locate and click your Request.
 
-**Note**: It may take a few minutes for the system to mask the data. You can follow the progress by viewing the status bar. When the status bar reaches the end and turns fully green, the data masking is complete.
+**Note**: It may take a few minutes for the system to mask the data. You can follow the progress by viewing the status bar. When the status bar reaches its end and turns fully green, the data masking is complete.
 
 ![image](../images/05_3_Masking_RequestList_Sorted.jpg)
 
