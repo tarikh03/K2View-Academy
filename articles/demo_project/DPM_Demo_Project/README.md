@@ -32,11 +32,17 @@ Odoo is an open source ERP and CRM application. You can view more details about 
 
 Open Source Billing (OSB), as its name indicates, is an open source billing system. Access its Website https://opensourcebilling.org/ for more information.
 
-When you set up the tutorial environment, we automatically generate for you not only a running instance of each of those applications, but we also generate in each of those systems an imaginary customer using the name an e-mail address you provided when initiating the tutorial. This imaginary customer will be used throughout the tutorial to demonstrate DPM features and functionality, such as customer matching between applications, fulfilment of data access requests, keeping up with data change scenarios, and more.  
+When you set up the tutorial environment, we automatically generate for you not only a running instance of each of those applications, but we also generate in each of those systems an imaginary customer using the name an e-mail address you provided when initiating the tutorial. 
+
+This imaginary customer will be used throughout the tutorial to demonstrate DPM features and functionality, such as customer matching between applications, fulfilment of data access requests, keeping up with data change scenarios, and more.  
 
 ### Accessing and Using the "Source Systems"
 
-As part of our tutorial, we will walk you through demonstration of how K2View's DPM automates Data Subject Requests (DSR) of different types, such as Data Subject Access Request, data rectification, data anonymization and purging. For that,  as a starting point for the different demo scenarios, you will be requested to access the "Source Systems" in order to confirm that the activities were indeed executed as expected. For example: When a DSAR is completed - verify that the data collected by the DPM are indeed "your data" as it is reflected in the source systems, or that when a request for data anonymization was completed, "your data" were anonymized at the "source systems".  
+As part of our tutorial, we will walk you through demonstration of how K2View's DPM automates Data Subject Requests (DSR) of different types, such as Data Subject Access Request, data rectification, data anonymization and purging. 
+
+For that purpose, as a starting point for the different demo scenarios you will be requested to access the "Source Systems" in order to confirm that the activities were indeed executed as expected. 
+
+For example: When a DSAR is completed we will request you to verify that the data collected by the DPM are indeed "your data" as it is reflected in the source systems, or that when a request for data anonymization was completed, "your data" were anonymized at the "source systems".  
 
 The following link includes the instructions to login and navigate in those two "source systems". We will direct you to this link in each point in the tutorial where you are asked to view or use the "source systems".
 
