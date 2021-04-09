@@ -4,13 +4,13 @@ Personally Identifiable Information (PII) data is information that could be used
 
 Breaches in a company’s PII data can ultimately result in a multitude of losses, including customer trust and loyalty. Understanding where this information resides in your systems and preventing its unauthorized release are important measures that every business should conduct to keep a customer's personal data secure.
 
-PII discovery, or sensitive data discovery, is a process that detects patterns by applying various analytical methods, or by visually navigating through the data. A company may have many different systems, and each system has its own database. For each database, you can analyze the data and column names to find out which database table or column holds data that can identify the customer or reveal information that should remain private. 
+PII discovery is a process that detects patterns by applying various analytical methods. A company can have multiple source systems, each one using its own database. For each of these databases, the DPM system can analyze the data and column names at a granular level to discover which database table or column holds data that could identify a customer, or potentially reveal additional information that should remain private. 
 
-The Discovery Matching Rules function of the DPM system lets you search databases of all systems within the company for personal data that may be protected by privacy legislation. You can create rules to either match or exclude data during a database search, configure regular expression (RegEx) schema and table patterns to match or exclude, and view the discovery results using an array of filters.
+The Discovery Matching Rules function of the DPM system lets you search databases of all systems within the company for personal data that may be protected by privacy legislation. You can create rules to either match or exclude data during a database search, configure regular expression (RegEx) schemas and table patterns, and view the discovery results using an array of filters.
 
 ## Discovery Matching Rules Overview
 
-There are three phases within the Discovery Matching Rules function.
+There are three phases in the Discovery Matching Rules function.
 
 - Define a set of rules to be used for the PII discovery process.
 - Define interfaces – systems and databases you can connect to search for PII data.
