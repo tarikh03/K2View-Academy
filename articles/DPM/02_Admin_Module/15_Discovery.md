@@ -1,4 +1,5 @@
 # PII Discovery
+
 Personally Identifiable Information (PII) data is information that could be criminally used to conduct identity theft or other crimes against a person. This data could be healthcare information, social security numbers, bank account numbers, or credit card data. Understanding where this information resides and preventing an unauthorized release of PII data are important measures that every business should use to keep customers’ personal data secure.
 
 PII data represents an attractive target to criminals because it can be sold and later used for an array of criminal activities from basic fraud to identity theft. Loss of a company’s PII can result in many issues, including customer trust and loyalty.
@@ -8,7 +9,9 @@ PII discovery, or sensitive data discovery, is a process that detects patterns b
 The Discovery Matching Rules function of the DPM system lets you search databases of all systems within the company for personal data that may be protected by privacy legislation. You can create rules to either match or exclude data during a database search, configure regular expression (RegEx) schema and table patterns to match or exclude, and view the discovery results using an array of filters.
 
 ## Discovery Matching Rules Overview
+
 There are 3 phases within the Discovery Matching Rules function.
+
 •	Define a set of rules to be used for the PII discovery process.
 •	Define interfaces – systems and databases you can connect to search for PII data.
 •	Execute the discovery and review the results to decide what to do on each of the fields indicated by the discovery process.
