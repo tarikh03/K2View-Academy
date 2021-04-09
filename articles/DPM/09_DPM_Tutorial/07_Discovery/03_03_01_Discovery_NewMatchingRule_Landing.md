@@ -1,6 +1,16 @@
 ## Create a New Matching Rule
 
-When you create a New Matching Rule for the Discovery process, you need to specify a Matching Type. There are four Matching Types: Column, Data, Data Function, and Data Sample. Each of those types allows you to configure the process to search PII fields in the database based on a different aspect:
+Click the ![image](../images/ICON_NewMatchingRule.jpg) button at the top-right of the screen in order to configure a new matching rule. 
+
+![image](../images/07_12_Discovery_RulesTab_Callout.jpg)
+
+The New Matching Rule dialog box displays. 
+
+![image](../images/07_1_Discovery_NewMatchingRule.jpg)
+
+Before guiding you through the creation of new discovery rules, we would like to describe the different types of rules that can be created. Those types are defined by the Matching Type field. 
+
+There are four Matching Types: Column, Data, Data Function, and Data Sample. Each of those types allows you to configure the process to search PII fields in the database based on a different aspect:
 
 [Column Matching Type](03_03_02_Discovery_NewMatchingRule_Column.md)
 
