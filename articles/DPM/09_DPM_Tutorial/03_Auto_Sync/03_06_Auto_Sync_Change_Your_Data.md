@@ -1,6 +1,6 @@
 ## Change Your Data in the Source Systems
 
-We will now ask you to edit the customer data in one of the simulation source environments in order to demonstrate the seamless automatic synchronization provided by the DPM system. 
+We will now ask you to edit the customer data in one of the simulation source systems in order to demonstrate the seamless automatic synchronization provided by the DPM system. 
 
 We will use Open Source Billing (OSB) for this demonstration. 
 
