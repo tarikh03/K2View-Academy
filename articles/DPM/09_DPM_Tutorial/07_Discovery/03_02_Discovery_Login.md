@@ -1,10 +1,20 @@
 ### Login to the System
 
-Enter your DPM application **Username** and **Password**.
+To configure the Discovery Rules, you should enter the DPM using the credentials of a User that has the Admin priviliges. 
 
-![image](/articles/demo_project/images/08_01_Consent_AdminLogin.jpg)
+For this tutorial, enter the following credentials to access user information with an Administrator role.
+
+**Username** - demoAdmin
+
+**Password** - k2view
+
+This user is defined as an Administrator user. 
+
+<img src="../images/01_DSAR_Login_Admin.png" width="30%" height="30%">
 
 Click **Login**. 
+
+As a result, the initial screen of the Admin module displays. 
 
 Once a user logs into the DPM system as an Administrator, the screen is updated with two frames (windows) of information. The left frame displays a list of menu options for this module. The right frame displays the interactive components of the selection. The Regulations List screen displays by default after logging into the system.
 
