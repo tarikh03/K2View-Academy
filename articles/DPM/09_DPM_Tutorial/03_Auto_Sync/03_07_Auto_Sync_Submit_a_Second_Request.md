@@ -10,15 +10,15 @@ The New Request screen displays.
 
 ![image](../images/03_1_Auto_Sync_First_Request.jpg)
 
-Select a Regulation from the drop-down list. As with our first Request, we will select **Tutorial Automated Activities**.
+Select a Regulation from the drop-down list. As with our first Request, we will select **CCPA**.
 
 ![image](../images/03_2_Auto_Sync_First_Request.jpg)  
 
-Select **Automated DSAR** under the "Request Type" section.
+Select **What Do You Collect on Me?** under the "Request Type" section.
 
 ![image](../images/03_3_Auto_Sync_First_Request.jpg)
 
-The **Automated DSAR** Request Type under the **Tutorial Automated Activities** Regulation displays an email address entry field. 
+The **What Do You Collect on Me?** Request Type under the **CCPA** Regulation displays an email address entry field. 
 
 **Note**: Both the type and number of fields that display under the **Request Form Fields** section of the screen depend on source system information and any options you designate for the Customer as modifiable data.
 
