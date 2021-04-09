@@ -8,10 +8,11 @@ Access Open Source Billing (OSB) application. Click the line in the **Clients** 
 
 ![image](../images/03_11_Auto_Sync_First_OSB.jpg)
 
+This will open the customer details screen:
 
 ![image](../images/03_12_Auto_Sync_First_OSB.jpg)
 
-Update the **Email** address. Use the change made below in your own source system because you will see it in the next tutorial.
+Update the **Email** address of your customer.
 
 ![image](../images/03_13_Auto_Sync_First_OSB.jpg)
 
