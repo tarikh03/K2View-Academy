@@ -10,13 +10,13 @@ The Requests List screen displays the progress of a submitted Requests. To more 
 
 ![image](../images/04_3_Rectify_RequestList.jpg)
 
-Locate and click your Request.
+Locate your Request.
 
-**Note**: It may take a few minutes for the system to rectify the data. You can follow the progress by viewing the status bar. When the status bar reaches its end and turns fully green, the data rectification is complete.
+**Note**: It may take a few moments for the system to rectify the data. You can follow the progress by viewing the status bar. When the status bar reaches its end and turns fully green, the data rectification is complete.
 
 ![image](../images/04_4_Rectify_RequestList.jpg)
 
-The Request Details dialog box displays. 
+Click the line of your request to display the Request Details screen containing additional information about your request. 
 
 ![image](../images/04_5_Rectify_RequestList.jpg)
 
