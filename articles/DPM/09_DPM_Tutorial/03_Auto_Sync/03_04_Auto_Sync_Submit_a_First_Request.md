@@ -10,11 +10,11 @@ The New Request screen displays.
 
 ![image](../images/03_1_Auto_Sync_First_Request.jpg)
 
-Select a Regulation from the drop-down list. For this tutorial, we will select **Tutorial Automated Activities**.
+Select a Regulation from the drop-down list. For this tutorial, we will select **CCPA**.
 
 ![image](../images/03_2_Auto_Sync_First_Request.jpg)  
 
-Select **Automated DSAR** under the "Request Type" section.
+Select **What Do You Collect on Me?** under the "Request Type" section.
 
 ![image](../images/03_3_Auto_Sync_First_Request.jpg)
 
