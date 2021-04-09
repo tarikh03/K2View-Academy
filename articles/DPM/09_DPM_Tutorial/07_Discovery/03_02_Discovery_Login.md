@@ -28,9 +28,11 @@ The Discovery Matching Rules screen displays.
 
 ![image](../images/08_12_Discovery_RulesTab.jpg)
 
-You can observe that the DPM already includes a set of built-in discovery rules covering the discovery of many of the common PII data fields.
+The Discovery screen is composed of three tabs: Matching Rules, Interface Configuration and Results. 
+**Matching rules** tab is where the rules that govern the discovery process are defined. You can observe that the DPM already includes a set of built-in discovery rules covering the discovery of many of the common PII data fields. New rules can be added by configuration as described in the next steps of this tutorial.
+**Interface Configuration** tab is where the databases on which the discovery process should be executed are defined. It is also in this tab where requests for this process execution are submitted. 
+**Results** tab presents the results of the discovery process. It is in this tab that the user can review the list of fields that the discovery processes had flagged to be probably containing PII data.  
 
-The [DPM User Guide Admin Chapter](/articles/DPM/02_Admin_Module) provides detailed description of the way such rules are configured. 
 
 
 [![Previous](../images/Previous.png)]( 03_01_Discovery_Tutorial.md)[<img align="right" width="60" height="54" src="../images/Next.png">](03_03_01_Discovery_NewMatchingRule_Landing.md)
