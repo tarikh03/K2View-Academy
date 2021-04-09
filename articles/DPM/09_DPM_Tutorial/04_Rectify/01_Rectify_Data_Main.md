@@ -1,6 +1,6 @@
 # Data Rectification
 
-This demonstration will guide you through the process of a typical data rectification lifecycle. A lifecycle begins with a Customer request to update their data within all source systems. It completes itself with a confirmation sent to the customer that the data was updated in the source system.
+This demonstration will guide you through the process of a typical data rectification lifecycle. This lifecycle begins with a Customer using DPM to submit a request to update their data within all source systems. It completes itself with a confirmation sent to the customer that the data was updated in the source systems.
 
 [Data Rectification Introduction](02_Rectify_Data_Introduction.md)
 
