@@ -1,6 +1,6 @@
 # Auto Sync of Source System Changes
 
-This demonstration will guide you through the automatic synchronization of data between the DPM System and the source systems.
+This demonstration will demonstrate the automatic synchronization of data between the DPM System and the source systems.
 
 [Auto Sync Data Introduction]( 02_Auto_Sync_Data_Introduction.md)
 
