@@ -1,8 +1,6 @@
 ## Data Rectification Introduction
 
-When a Customer enters a New Request, the system displays the Request Details screen. The list of Request Types and the information provided for each is defined by implementation using the Admin module.
-
-Data rectification lets the Customer update or correct their information in the system at a detailed level. For example, the Customer may not want to simply update their "address", but rather update their "mailing address" while leaving their "shipping address" unchanged. The information that the Customer can update depends on source systems and any options you designate for the Customer as modifiable data. After submitting their Request, the Customer receives an email notification of the change completion. They can also view the source systems for any updated data and run the process of a Data Subject Access Request (DSAR).
+Data rectification request lets the Customer update or correct their information in the source systems at a detailed level. For example, the Customer may want to update their "mailing address" while leaving their "shipping address" unchanged. The information that the Customer can update depends on source systems and any options you designate for the Customer as modifiable data. After submitting their Request, the Customer receives an email notification of the change completion. 
 
 For this tutorial, we will assume that a Customer named Rick Jones wants to update the phone number and email address data your company holds for him. You can search for this Customer and view his data by accessing our two "source systems". 
 
