@@ -1,6 +1,6 @@
 ## Review Rectified Data in the Source Systems
 
-When the status bar reaches its end and turns fully green, the status changes to **Complete**. In a real-world environment, a status marked **Complete** means that data relating to the Customer is now rectified in all the Source Systems that were integrated with DPM. For this tutorial, access the two source systems we set up for simulation purposes. Search these systems for the data that our Customer, Rick Jones, requested to be rectified.
+Once your rectification request status was marked **Complete**, it means that data relating to the Customer is now rectified in all the Source Systems that were integrated with DPM. For this tutorial, access the two source systems we set up for simulation purposes. Search these systems to view your customer's data and confirm that requested information was rectified.
 
 [Access Source Systems](../00_Setup/00_Access_Source_Systems.md) provides details on the access to the tutorial "source systems".
 
