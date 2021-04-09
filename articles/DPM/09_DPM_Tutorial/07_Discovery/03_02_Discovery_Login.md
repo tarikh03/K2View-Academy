@@ -28,6 +28,9 @@ The Discovery Matching Rules screen displays.
 
 ![image](../images/08_12_Discovery_RulesTab.jpg)
 
+You can observe that the DPM already includes a set of built-in discovery rules covering the discovery of many of the common PII data fields.
+
+The [DPM User Guide Admin Chapter](/articles/DPM/02_Admin_Module) provides detailed description of the way such rules are configured. 
 
 
 [![Previous](../images/Previous.png)]( 03_01_Discovery_Tutorial.md)[<img align="right" width="60" height="54" src="../images/Next.png">](03_03_01_Discovery_NewMatchingRule_Landing.md)
