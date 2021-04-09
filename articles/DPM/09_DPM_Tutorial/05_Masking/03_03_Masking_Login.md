@@ -1,6 +1,8 @@
 ## Login to the System as a Customer
 
-For this tutorial, enter the following credentials to access user information with a Customer role.
+To submit the DPM Data masking request, login to the DPM using the user and password provided to you.
+
+Our user credentials are:
 
 **Username** - rickjones
 
