@@ -1,6 +1,8 @@
 ## Login to the System as a Customer
 
-For this tutorial, enter the following credentials to access user information with a Customer role.
+For this tutorial, enter the user credentials that were provided to you upon registration, to access the DPM system with a Customer role.
+
+In our example: 
 
 **Username** - rickjones
 
@@ -10,7 +12,7 @@ For this tutorial, enter the following credentials to access user information wi
 
 Click **Login**.
 
-Once a user logs into the DPM system as an Customer, the screen is updated with two frames (windows) of information. The left frame displays a list of menu options for this module. The right frame displays the interactive components of the selection. The Dashboard screen displays by default after logging into the system.
+Once a user logs into the DPM system as an Customer, the Customer landing page displays by default.
 
 ![image](../images/04_6_Rectify_Dashboard.jpg)    
 
