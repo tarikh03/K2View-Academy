@@ -1,9 +1,5 @@
 ## Submit a Request to Mask Data
 
-When submitting a new Request, the Customer first selects the relevant Regulation from the **Regulation** dropdown list. The list of Request Types presented at the bottom of the submission form changes according to the selected Regulation. Once the **Request Type** is selected, the right side of the form displays a list of fields to complete before submitting the request. This list is automatically built, in accordance with the Request Type.
-
-In accordance with the selected Regulation, a Customer may have the option to mask their data in the system.
-
 Click ![image](../images/Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
 
 ![image](../images/Customer_Request_LeftPanel.jpg)     
