@@ -1,6 +1,6 @@
 ## Submit a First Request
 
-For this tutorial, we will submit an initial Request.
+The first action is to submit an initial DSAR Request. The data collected by this request are used to demonstrate the information DPM would collect about your customer prior to any change. 
 
 Click ![image](../images/Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
 
