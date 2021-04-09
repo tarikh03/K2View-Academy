@@ -13,7 +13,7 @@ Following the steps below we will demonstrate the capability of seamless integra
 
 [Submit a Second Request]( 03_07_Auto_Sync_Submit_a_Second_Request.md)
 
-[Confirm Changes Reflected at Second Request Results]( 03_08_Auto_Sync_Confirm_changes_in_second_Request.md)
+[Confirm Change Captured in Second Request]( 03_08_Auto_Sync_Confirm_changes_in_second_Request.md)
 
 
 [![Previous](../images/Previous.png)]( 02_Auto_Sync_Data_Introduction.md)[<img align="right" width="60" height="54" src="../images/Next.png">]( 03_03_Auto_Sync_Login.md)
