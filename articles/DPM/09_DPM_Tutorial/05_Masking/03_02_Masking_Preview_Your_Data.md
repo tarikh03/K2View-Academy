@@ -1,6 +1,6 @@
 ## Preview Your Data in the Source Systems
 
-For this tutorial, preview the data you intend to mask by accessing the two source systems we set up for simulation purposes. 
+Before submitting a data anonyimization request, preview the data you intend to mask by accessing the two source systems we set up for simulation purposes, and search for your customer's record to review the data the system currently holds for this customer. 
 
 [Access Source Systems](../00_Setup/00_Access_Source_Systems.md) provides details on the access to the tutorial "source systems".
 
