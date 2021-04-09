@@ -1,4 +1,4 @@
-## Confirm Change Captured in Second Request
+## Confirm Change Captured in the Second Request
 
 Review the information provided to you by DPM in the results of the second DSAR Request. The updated e-mail address you had entered in the OSB system should appear in the new DSAR results. 
 
