@@ -12,16 +12,9 @@ The Requests List screen displays the progress of a submitted Requests. To more 
 
 Locate and click your Request.
 
-**Note**: It may take a few minutes for the system to mask the data. You can follow the progress by viewing the status bar. When the status bar reaches its end and turns fully green, the data masking is complete.
+**Note**: It may take a few moments for the system to mask the data. You can follow the progress by viewing the status bar. When the status bar reaches its end and turns fully green, the data masking is complete.
 
 ![image](../images/05_3_Masking_RequestList_Sorted.jpg)
-
-The Request Details dialog box displays. 
-
-![image](../images/05_3_Masking_RequestList_Details.jpg)
-
-Click the ![image](../images/06_ICON_Close.jpg) button to close the dialog box and return to the Requests List.
-
 
 
 [![Previous](../images/Previous.png)]( 03_04_Masking_Submit_a_Request_to_Mask.md)[<img align="right" width="60" height="54" src="../images/Next.png">](03_06_Masking_Review_Your_Data.md)
