@@ -1,22 +1,22 @@
 ## Create a New Matching Rule
 
-When you create a New Matching Rule for the Discovery process, you need to specify a Matching Type. Your selection determines additional fields that display during the creation process, allowing you to further narrow the scope of the rule. There are four Matching Types: Column, Data, Data Function, and Data Sample.
+When you create a New Matching Rule for the Discovery process, you need to specify a Matching Type. There are four Matching Types: Column, Data, Data Function, and Data Sample. Each of those types allows you to configure the process to search PII fields in the database based on a different aspect:
 
 [Column Matching Type](03_03_02_Discovery_NewMatchingRule_Column.md)
 
-The Column Matching Type lets you configure rules that inspect the column names in the databases that are scanned, and then compare them with an expression you define in the Match Pattern field. Using this option, you can see if the column contains PII data.
+The Column Matching Type lets you configure rules that inspect the column names in the databases that are scanned, and then compare them with an expression you define in the Match Pattern field. Using this option, you can identify if the column contains PII data based on the column name.
 
 [Data Matching Type](03_03_03_Discovery_NewMatchingRule_Data.md)
 
-The Data Matching Type lets you narrow your view to the data inside a column. This rule compares data in the database within a column using a set of predefined values.
+The Data Matching Type lets you narrow your view to the data themselves under each column. This rule compares data in the database for each column using a set of predefined values.
 
 [Data Function Matching Type](03_03_04_Discovery_NewMatchingRule_DataFunction.md)
 
-The Data Function Matching Type lets you run a function on the content of a sample population from a table. The function verifies the content of the table or column is a valid format. You can set the Probability (percentage) that the function will return content that is PII data.
+The Data Function Matching Type lets you run a function on the content of a sample population from a table. The function logic is used to predict if the content of the column is likely to be PII data.
 
 [Data Sample Matching Type](03_03_05_Discovery_NewMatchingRule_DataSample.md)
 
-The Data Sample Matching Type lets you compare the column content with what a customer provided. You only need to load the function into the table.
+The Data Sample Matching Type lets you compare the column content with a set of sample data that were previously loaded into a reference table.
 
 
 
