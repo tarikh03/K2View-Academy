@@ -4,7 +4,7 @@ We will now ask you to edit the customer data in one of the simulation source sy
 
 We will use Open Source Billing (OSB) for this demonstration. 
 
-Access Open Source Billing (OSB) application. Click the **Edit** icon in the **Clients** table that refers to the line showing your customer.
+Access Open Source Billing (OSB) application. Click the ![image](../images/ICON_OSB_Edit.jpg) icon in the **Clients** table that refers to the line showing your customer.
 
 ![image](../images/03_11_Auto_Sync_First_OSB.jpg)
 
