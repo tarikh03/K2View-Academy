@@ -1,6 +1,6 @@
 ## Create a New Matching Rule
 
-Click the ![image](../images/ICON_NewMatchingRule.jpg) button at the top-right of the screen in order to configure a new matching rule. 
+At the first tab of the Discovery screen, click the ![image](../images/ICON_NewMatchingRule.jpg) button at the top-right of this tab in order to configure a new matching rule. 
 
 ![image](../images/07_12_Discovery_RulesTab_Callout.jpg)
 
