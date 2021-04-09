@@ -1,10 +1,8 @@
 ## Submit a Second Request
 
-In this tutorial, we will submit a second customer Request. After submitting this Request, you will see that the changes made in the source system are synchronized with the DPM system.  
+We will now ask you to submit a second customer Request. After submitting this Request, you will see that the changes made in the source system are synchronized with the DPM system and are included in the data collected for the second DSAR request.  
 
-When a customer submits a Request, the DPM system collects their data from all the source systems and generates a PDF containing all of their collected data. After the Request is marked complete, the PDF is sent to the customer's email address. The change we made in the source system during the last tutorial will display in the PDF the customer receives after submitting the second Request.  
-
-Click ![image](../images/Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
+At the DPM system, click ![image](../images/Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
 
 ![image](../images/Customer_Request_LeftPanel.jpg)     
 
