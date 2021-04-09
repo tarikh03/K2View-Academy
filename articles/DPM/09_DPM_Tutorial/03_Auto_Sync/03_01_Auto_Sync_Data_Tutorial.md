@@ -1,6 +1,6 @@
 ## Auto Sync Data Tutorial
 
-For this tutorial, we will demonstrate the capability of seamless integration and how it facilitates the Data Subject Access Request (DSAR) activities. 
+Following the steps below we will demonstrate the capability of seamless integration and how it facilitates the Data Subject Access Request (DSAR) activities. 
 
 
 [Login to the System]( 03_03_Auto_Sync_Login.md)
