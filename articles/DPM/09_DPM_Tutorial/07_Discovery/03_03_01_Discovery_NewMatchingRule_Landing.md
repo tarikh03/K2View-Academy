@@ -8,7 +8,7 @@ The New Matching Rule dialog box displays.
 
 ![image](../images/07_1_Discovery_NewMatchingRule.jpg)
 
-Before guiding you through the creation of new discovery rules, we would like to describe the different types of rules that can be created. Those types are defined by the Matching Type field. 
+Before guiding you through the creation of new discovery rules, we would like to describe the different types of rules that can be created. Those types are defined by the **Matching Type** field. 
 
 There are four Matching Types: Column, Data, Data Function, and Data Sample. Each of those types allows you to configure the process to search PII fields in the database based on a different aspect:
 
