@@ -16,9 +16,11 @@ Select **Data Rectification** under the "Request Type" section.
 
 ![image](../images/04_1_Rectify_Regulation.jpg)
 
-The **Data Rectification** Request Type under the **CCPA** Regulation displays both phone number and email address entry fields. The entry fields that display depend on source systems and any options you designate for the Customer as modifiable data. 
+The **Data Rectification** Request Type under the **CCPA** Regulation displays both phone number and email address entry fields. The entry fields that display depend on source systems and any options you designate for the Customer as modifiable data. In our example, we have selected to configure the following fields as editable:
+At the Odoo application: The fields labeled Phone and Email.
+At the OSB application: The fields labeled Mobile and Email.
 
-Complete the field(s) on the right side of the form.  
+Complete the field(s) on the right side of the form with the values you want to be updated for those fields.  
 
 ![image](../images/04_2_Rectify_FormFields.jpg)     
 
