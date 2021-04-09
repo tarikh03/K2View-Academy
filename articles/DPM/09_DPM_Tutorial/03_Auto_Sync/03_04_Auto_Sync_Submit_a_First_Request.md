@@ -20,9 +20,7 @@ Select **Automated DSAR** under the "Request Type" section.
 
 The **Automated DSAR** Request Type under the **Tutorial Automated Activities** Regulation displays an email address entry field. 
 
-**Note**: Both the type and number of fields that display under the **Request Form Fields** section of the screen depend on source system information and any options you designate for the Customer as modifiable data.
-
-Complete the field(s) on the right side of the form.  
+Complete the e-mail address requested on the right side of the form.  
 
 ![image](../images/03_4_Auto_Sync_First_Request.jpg)     
 
