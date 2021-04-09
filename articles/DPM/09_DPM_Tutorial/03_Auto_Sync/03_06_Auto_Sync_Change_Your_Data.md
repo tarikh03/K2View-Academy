@@ -8,7 +8,7 @@ Access Open Source Billing (OSB) application. Click the ![image](../images/ICON_
 
 ![image](../images/03_11_Auto_Sync_First_OSB.jpg)
 
-Edit Client screen is presented as result:
+The Edit Client screen displays as result.
 
 ![image](../images/03_12_Auto_Sync_First_OSB.jpg)
 
