@@ -32,7 +32,7 @@ Enter a **Match Pattern**.
 
 Review your entries as needed, and then click ![image](../images/08_ICON_Save.jpg).
 
-The New Matching Rule displays in the Matching Rules table. If your table contains entries that span across multiple screen pages, you can distill the results by selecting the relevant Matching Type. Since we chose the “Column” Matching Type for the New Matching Rule, select Column from the Matching Type dropdown list.
+The New Matching Rule displays in the Matching Rules table. If your table contains entries that span across multiple screen pages, you can distill the results by selecting the relevant Matching Type, or by using the Search option at the upper-right side of the table.
 
 ![image](../images/07_2_Discovery_NewMatchingRule10.jpg)
 
