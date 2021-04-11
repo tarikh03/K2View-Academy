@@ -1,6 +1,6 @@
 ### Create a New Matching Rule - Column Type
 
-In this example we will describe how to configure a matching rule that inspects the column names at the database in order to identify which fields might contain social security number. This is a rule that already exists in the built-in rules of the discovery functionality and the description below is used only for the purpose of exemplifying this option. 
+In this example we will describe how to configure a matching rule that inspects the column names at the database in order to identify which fields might contain PII data. The specific rule we will configure in this example is one that looks for column containing social security number. This is a rule that already exists in the built-in rules of the discovery functionality and the description below is used only for the purpose of exemplifying this option. 
 
 Click the ![image](../images/ICON_NewMatchingRule.jpg) button at the top-right of the screen in order to configure a new matching rule. 
 
@@ -10,7 +10,7 @@ The New Matching Rule dialog box displays.
 
 ![image](../images/07_1_Discovery_NewMatchingRule.jpg)
 
-Select a **Matching** **Category**. Categories are used for grouping New Matching Rule topics. This field lets the user classify the new rule under an existing Category or select **New Category** to manually enter a new one.
+Select a **Matching** **Category**. Categories are used for grouping Matching Rule topics. This field lets the user classify the new rule under an existing Category or select **New Category** to manually enter a new one.
 
 ![image](../images/07_4_Discovery_NewMatchingRule2.jpg)
 
