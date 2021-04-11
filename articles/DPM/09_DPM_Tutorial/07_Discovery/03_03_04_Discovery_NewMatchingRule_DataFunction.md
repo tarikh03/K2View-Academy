@@ -2,7 +2,7 @@
 
 The Data Function matching type allows you to indicate a function that should be executed for each field that the discovery process evaluates.
 
-It is defined in the same way as the previous matching types. When you select the matching Type to be **function**, the list of available functions is presented in the dropdown. Additional functions can be added as part of your project implementation. 
+It is defined in the same way as the previous matching types. When you select the matching Type to be **Data function**, the list of available functions is presented in the dropdown. Additional functions can be added as part of your project implementation. 
 
 Create a new rule and Select the **Matching Type** to be  **Data Function**. 
 
