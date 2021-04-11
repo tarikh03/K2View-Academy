@@ -1,4 +1,12 @@
-## Create a New Matching Rule
+## First Tab: Matching Rules
+
+The first tab of the Discovery configuration presents the list of discovery rules that are already configured, and allows the user to configure additional rules. 
+
+Each line in the table is a rule, represesnting a specific validation that evaluates if a field may contain PII data.  
+
+When launching the discovery process, the system inspects each field in the databases that are scanned and compare the column name or the content of the field with each one of the rules. 
+
+### To configure a new rule:
 
 At the first tab of the Discovery screen, click the ![image](../images/ICON_NewMatchingRule.jpg) button at the top-right of this tab in order to configure a new matching rule. 
 
