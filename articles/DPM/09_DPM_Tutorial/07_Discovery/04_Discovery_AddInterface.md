@@ -1,4 +1,4 @@
-## Second tab: Interfaces CConfiguration
+## Second tab: Interfaces Configuration
 
 The second tab in the Discovery functionality allows you to define on which data source interfaces you would like the discovery process to run. 
 
