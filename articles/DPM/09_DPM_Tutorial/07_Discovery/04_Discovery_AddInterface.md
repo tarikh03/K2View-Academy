@@ -1,12 +1,8 @@
 ## Second tab: Interfaces Configuration
 
-The second tab in the Discovery functionality allows you to define on which data source interfaces you would like the discovery process to run. 
-
-Once you defined on which interface to run, you can submit a discovery process request in this same tab. 
+The Interfaces Configuration tab contains options for telling the system the location of databases you want to scan. The Interface tab has two main functions. You can tell system where the databases are that you want to scan, and you can run a scan of the databases using criteria set in the Interfaces tab.
 
 ### Add an Interface
-
-The Interfaces Configuration tab contains options for telling the system the location of databases you want to scan. The Interface tab has two main functions. You can tell system where the databases are that you want to scan, and you can run a scan of the databases using criteria set in the Interfaces tab.
 
 Click the ![image](../images/07_13_Discovery_InterfacesTab2.jpg) tab. 
 
