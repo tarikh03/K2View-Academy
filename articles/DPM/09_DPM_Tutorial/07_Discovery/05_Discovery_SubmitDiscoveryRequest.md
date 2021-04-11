@@ -1,6 +1,6 @@
 ### Submit a Discovery Request
 
-When you Submit a Discovery Request, the system will check which Interfaces have been written and that are Active. It will run all the matching rules.
+When you Submit a Discovery Request, the system will check which Interfaces have been listed and are marked as Active. On each of the active interfaces it will run all the matching rules that were defined in the first tab.
 
 Click the ![image](../images/07_13_Discovery_InterfacesTab2.jpg) tab. The Interfaces Configuration screen displays.
 
