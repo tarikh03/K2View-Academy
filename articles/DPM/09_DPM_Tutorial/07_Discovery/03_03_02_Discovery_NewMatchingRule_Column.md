@@ -10,31 +10,21 @@ The New Matching Rule dialog box displays.
 
 ![image](../images/07_1_Discovery_NewMatchingRule.jpg)
 
-Select a **Matching** **Category**. Categories are used for grouping Matching Rule topics. This field lets the user classify the new rule under an existing Category or select **New Category** to manually enter a new one.
+Select a **Matching** **Category**. Categories are used for grouping Matching Rule topics. This field lets the user classify the new rule under an existing Category or select **New Category** to manually enter a new one. In the image below we chose "Contact Info", but you can use any category name.
 
-![image](../images/07_4_Discovery_NewMatchingRule2.jpg)
+In the **Field Type** we specify what is the nature of the field we are looking for. It can be one of the built-in options or a new type. We selected **SOCIAL_SECURITY_NUMBER**. 
 
-The following example shows the New Matching Rule screen populated with sample information.
+Set the **Probability** percentage of the New Matching Rule. This describes the level of confidence you attribute to the finding of the discovery process for a field that matches the rule. For this tutorial, we will set the Probability to **80**%. 
 
-![image](../images/07_11_Discovery_NewMatchingRule9.jpg)
-
-For this tutorial, select **CONTACT INFO**.
-
-![image](../images/07_4_Discovery_NewMatchingRule2.jpg)
-
-Select the **Field Type**. For this tutorial, select **SOCIAL_SECURITY_NUMBER**. 
-
-![image](../images/07_5_Discovery_NewMatchingRule3.jpg)
-
-Set the **Probability** percentage of the New Matching Rule. For example, when you validate a social security number, the 9-digit number could be an account number of the same format. Therefore, the Probability would be lower. For this tutorial, we will set the Probability to **80**%. 
-
-![image](../images/07_6_Discovery_NewMatchingRule4.jpg)
-
-Select the **Matching Type**. For this tutorial, we will select a **Column** Matching Type. 
+Select the **Matching Type**. As here we want to demonstrate the discovery based on column name, we will select a **Column** Matching Type. 
 
 ![image](../images/07_7_Discovery_NewMatchingRule5.jpg)
 
-After you select a Matching Type, additional entry fields will display. The fields that display depend upon your selection. 
+After you select a Matching Type, additional entry fields will display depending upon your selection. When you chose the **Column** matching type the fields that are displayed are  **Match Pattern** and **Exclude Pattern**.
+
+The **Match Pattern** defines the pattern of the column name that you are searching form. You can type any valid Regular expression (regex) in this field. 
+The **Exclude Pattern** defines the pattern that you would like to ignore. 
+The discovery process will list in its results all the columns that both matched the **Include Pattern** and didn't match the **Exclude Pattern**.
 
 ![image](../images/07_8_Discovery_NewMatchingRule6.jpg)
 
