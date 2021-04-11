@@ -18,7 +18,7 @@ Select an **Interface**. This list will include all the systems with which the D
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew3.jpg)
 
-The following example shows the **New Interface definition** screen populated with sample information.
+The following example shows the **New Discovery Interface** screen populated with sample information.
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew9.jpg)
 
