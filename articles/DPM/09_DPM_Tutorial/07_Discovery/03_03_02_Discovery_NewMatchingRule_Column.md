@@ -26,15 +26,9 @@ The **Match Pattern** defines the pattern of the column name that you are search
 The **Exclude Pattern** defines the pattern that you would like to ignore. 
 The discovery process will list in its results all the columns that both matched the **Include Pattern** and didn't match the **Exclude Pattern**.
 
-![image](../images/07_8_Discovery_NewMatchingRule6.jpg)
-
 Enter a **Match Pattern**.
 
 ![image](../images/07_9_Discovery_NewMatchingRule7.jpg)
-
-Enter an **Exclude Pattern**.
-
-![image](../images/07_11_Discovery_NewMatchingRule9.jpg)
 
 Review your entries as needed, and then click ![image](../images/08_ICON_Save.jpg).
 
