@@ -14,11 +14,7 @@ This user is defined as an Administrator user.
 
 Click **Login**. 
 
-As a result, the initial screen of the Admin module displays. 
-
-Once a user logs into the DPM system as an Administrator, the screen is updated with two frames (windows) of information. The left frame displays a list of menu options for this module. The right frame displays the interactive components of the selection. The Regulations List screen displays by default after logging into the system.
-
-![image](../images/08_22_Consent_AdminLanding.jpg)   
+As a result, the initial screen of the Admin module displays. By default, the Regulation List screen is displayed. 
 
 Click ![image](../images/ICON_Discovery2.jpg) under the ADMIN menu options, located on the left side of the screen. 
 
