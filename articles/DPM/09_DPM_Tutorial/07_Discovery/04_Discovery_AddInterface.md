@@ -14,11 +14,11 @@ Click the ![image](../images/07_13_Discovery_InterfacesTab_CreateNew.jpg) button
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew2.jpg)
 
-Select an **Interface**. This list is populated by options configured in the DPM fabric software.
+Select an **Interface**. This list will include all the systems with which the DPM is integrated in your company and is configured in the DPM fabric studio, as part of your project configuration.
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew3.jpg)
 
-The following example shows the New Matching Rule screen populated with sample information.
+The following example shows the **New Interface definition** screen populated with sample information.
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew9.jpg)
 
@@ -30,19 +30,19 @@ Enter a **Catalog Pattern**. For this tutorial, enter **/^Phone**.
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew5.jpg)
 
-Enter a **Schema Name Inclusion Pattern**. 
+Enter a **Schema Name Inclusion Pattern** if you want the discovery process to scan only tables under specific schemas. 
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew6.jpg)
 
-Enter a **Schema Name Exclusion Pattern**.  
+Enter a **Schema Name Exclusion Pattern** if you want the discovery process to ignore specific schemas.  
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew7.jpg)
 
-Enter a **Table Name Inclusion Pattern**.
+Enter a **Table Name Inclusion Pattern** if you want the discovery process to scan only tables with specific name pattern.
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew8.jpg)
 
-Enter a **Table Name Exclusion Pattern**.
+Enter a **Table Name Exclusion Pattern** if you want the discovery process to ignore tables with specific name pattern.
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew9.jpg)
 
