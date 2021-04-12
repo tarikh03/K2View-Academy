@@ -23,7 +23,7 @@ The sample Stages we will create include:
 
 <img src="../images/01_02_03_DSAR_Data_Collection_Task.png" width="80%" height="80%">
 
-3. Click the **Operations** tab and select the **CollectCaseCustomerData** operation. This automatic operation retrieves the customer data from any integrated system. 
+3. Click the **Operations** tab and select the **CollectCaseCustomerData** operation. This automatic operation retrieves the customer data from any integrated system. Populate the information for the customer ID field as presented in the image below.
 
 <img src="../images/01_02_03_DSAR_Data_Collection_operations.png" width="80%" height="80%">
 
