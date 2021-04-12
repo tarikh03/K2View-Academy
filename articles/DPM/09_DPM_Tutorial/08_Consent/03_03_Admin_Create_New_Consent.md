@@ -2,41 +2,21 @@
 
 The first step in consent management is to configure what are the consent topics that should be obtained from your customers.
 
-To configure a new Consent Topic, click the <img src="../images/08_Consent_new_Icon.png" width="8%" height="8%"> button at the top-right of the Consent Management screen. 
+To configure a new Consent Topic, click the <img src="../images/08_Consent_new_Icon.png" width="10%" height="10%"> button at the top-right of the Consent Management screen. 
 
 The New Consent dialog box displays.
 
-![image](../images/08_3_Consent_AdminConsent_Add.jpg)     
+<img src="../images/08_3_Consent_AdminConsent_Add.jpg" width="60%" height="60%">     
 
 In the New Consent Topic popup, populate the following fields:
 
-1. Select a **Category**. Categories are used for grouping consent topics. This field lets the user classify the new consent under an existing Category or select **New Category** to configure a new one. For this demonstration, select **Marketing**.
-
-Enter the **Topic** name. 
-
-![image](../images/08_10_Consent_AdminConsent_Add2.jpg)    
-
-Enter the new consent Topic **Description**.
-
-![image](../images/08_11_Consent_AdminConsent_Add3.jpg)    
-
-Enter the **Opt-In Text**. This is the text that displays to the customer, explaining the benefits of opting in to this consent.
-
-![image](../images/08_12_Consent_AdminConsent_Add4.jpg)     
-
-Enter the **Opt-Out Text**. This is the text that displays to the customer if they decline their consent. It could explain how they may be impacted by opting-out, as well beneficial information that they won’t see as a result. 
-
-![image](../images/08_13_Consent_AdminConsent_Add5.jpg)     
-
-Define the **Duration** that the consent is considered valid at the customer level. For every customer, the consent takes effect the moment of opting-in, and then for the duration that is specified in this field. The number you enter represents the number of months the consent is valid. In this example, we entered “3” to represent 3 months.
-
-![image](../images/08_14_Consent_AdminConsent_Add6.jpg) 
-
-Define the list of **Regulations** that this consent is linked to by selecting the relevant regulations from the dropdown list. The list of regulations that displays in this dropdown is defined in the Regulation List option on the Admin menu. 
-
-![image](../images/08_15_Consent_AdminConsent_Add7.jpg)    
-
-For this example, we selected the “CCPA” and “LGPD” Regulations.
+1. Select a **Category**. Categories are used for grouping consent topics. This field lets the user classify the new consent under an existing Category or select **New Category** to configure a new one. For this demonstration, select **Marketing**. 
+2. Enter the **Topic** name.     
+3. Enter the new consent Topic **Description**.    
+4. Enter the **Opt-In Text**. This is the text that displays to the customer, explaining the benefits of opting in to this consent.     
+5. Enter the **Opt-Out Text**. This is the text that displays to the customer if they decline their consent. It could explain how they may be impacted by opting-out, as well beneficial information that they won’t see as a result.      
+6. Define the **Duration** that the consent is considered valid at the customer level. For every customer, the consent takes effect the moment of opting-in, and then for the duration that is specified in this field. The number you enter represents the number of months the consent is valid. In this example, we entered “3” to represent 3 months. 
+7. Define the list of **Regulations** that this consent is linked to by selecting the relevant regulations from the dropdown list. The list of regulations that displays in this dropdown is defined in the Regulation List option on the Admin menu. Multiple regulations can be selected. For this example, we selected the “CCPA” and “LGPD” Regulations.
 
 ![image](../images/08_18_Consent_AdminConsent_Add_All.jpg)    
 
