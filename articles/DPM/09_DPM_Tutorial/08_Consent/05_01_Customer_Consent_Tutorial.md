@@ -1,4 +1,4 @@
-## Customer Consent Tutorial
+## Customer Consent Management Tutorial
 
 Each customer can set consent preferences by accessing the Consent Management menu option from the Customer menu.
 
@@ -11,9 +11,6 @@ The following simulation of working within DPM Consent Management will show you 
 [Opt-In or Opt-Out of Consents](05_03_Customer_OptIn_or_OptOut.md)
 
 [View and Search the Consent History](05_04_Customer_View_Consent_History.md)
-
-[Logout of the System](05_05_Customer_Logout.md)
-
 
 
 [![Previous](../images/Previous.png)]( 01_Consent_Main.md)[<img align="right" width="60" height="54" src="../images/Next.png">](05_02_Customer_Login.md)
