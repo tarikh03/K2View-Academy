@@ -1,10 +1,10 @@
 ### Create a New Matching Rule - Data Function Type
 
-The Data Function matching type allows you to indicate a function that should be executed for each field that the discovery process evaluates.
+The Data Function matching type lets you indicate a function that should be executed for each field that the discovery process evaluates.
 
-It is defined in the same way as the previous matching types. When you select the matching Type to be **Data function**, the list of available functions is presented in the dropdown.
+It is defined in the same way as the previous matching types. When you select the matching type to be **Data function**, the list of available functions is presented in the dropdown.
 
-Create a new rule and Select the **Matching Type** to be  **Data Function**. 
+Create a new rule and select the **Matching Type** to be **Data Function**. 
 
 ![image](../images/07_3_Discovery_NewMatchingRule13_DataFunction1.jpg)
 
