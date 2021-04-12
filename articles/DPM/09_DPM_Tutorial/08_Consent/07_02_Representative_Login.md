@@ -2,7 +2,8 @@
 
 Enter the DPM application using a user that has Representative credentials.
 
-For the purpose of the tutorial we have created a user called "rep"
+For the purpose of the tutorial we have created a user called "rep".
+
 <img src="../images/rep_login.png" width="30%" height="30%">                         
 
 Click **Login**.
