@@ -24,7 +24,7 @@ The “Discovery Matching Rules” screen displays.
 
 ## Matching Rules Tab Overview
 
-![image](/articles/DPM/images/image.jpg)
+![image](/articles/DPM/images/Figure_76_Discovery_MatchingRulesTab.jpg)
 
 In this screen, you can define rules of how to identify where in your system the data may be Personally Identifiable Information (PII) data. 
 
@@ -34,7 +34,7 @@ This functionality provides multiple possibilities for the data inspection. For 
 
 The Matching Type drop-down list lets you filter according to matching type. The purpose of filtering by Matching Type is to find ways to define columns that hold PII data. For example, in order to identify columns that hold address data, you can search by looking at the Column name or Column content. The DPM system provides 4 different Matching Types, which are defined below. To observe how the different Matching Types are used to formulate rules for the discovery process, click the Matching Type drop-down list. The following options display.
 
-![image](/articles/DPM/images/image.jpg)
+![image](/articles/DPM/images/Figure_77_Discovery_MatchingType.jpg)
 
 - **Column** – Use the Column Matching Type to configure rules that inspect the column names in the databases that are scanned, and then compare them with an expression you define in the Match Pattern field. Using this option, you can see if the column contains PII data. For example, if a column name is “bank account number”, then it holds a bank account number and should be protected. 
 - **Data** – The Data Matching Type lets you narrow your view to the data inside a column. This rule compares data in the database within a column using a set of predefined values. 
