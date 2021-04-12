@@ -1,6 +1,6 @@
 ## Second tab: Interfaces Configuration
 
-The Interfaces Configuration tab contains options for telling the system the location of databases you want to scan. The Interface tab has two main functions. You can tell system where the databases are that you want to scan, and you can run a scan of the databases using criteria set in the Interfaces tab.
+The Interfaces Configuration tab contains options for telling the system the location of databases you want to scan. This tab has two main functions. You can tell system where the databases are that you want to scan, and you can run a scan of the databases using criteria set in the **Interfaces Configuration** tab.
 
 ### Add an Interface
 
@@ -38,11 +38,11 @@ Enter a **Schema Name Exclusion Pattern** if you want the discovery process to i
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew7.jpg)
 
-Enter a **Table Name Inclusion Pattern** if you want the discovery process to scan only tables with specific name pattern.
+Enter a **Table Name Inclusion Pattern** if you want the discovery process to scan only tables with a specific name pattern.
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew8.jpg)
 
-Enter a **Table Name Exclusion Pattern** if you want the discovery process to ignore tables with specific name pattern.
+Enter a **Table Name Exclusion Pattern** if you want the discovery process to ignore tables with a specific name pattern.
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew9.jpg)
 
