@@ -1,12 +1,10 @@
 ## Results Tab Overview
 
-The Results tab displays the results of clicking ![image](/articles/DPM/images/Figure_84_Discovery_SubmitDiscRequest.jpg) in the Interfaces Configuration tab.
+When you Submit a Discovery Request, the system will check which Interfaces have been written and that are Active. It will run all the matching rules. The Results tab displays a list of results, letting you narrow down the list by a number of filters. 
 
-Click the Results tab.
+Each of the fields that appear in this list was identified by the discovery process as potentially including PII data. 
 
-![image](/articles/DPM/images/Image.jpg)
-
-The Results screen displays.
+Click the ![image](../images/Figure_90_Discovery_ResultsTab.jpg) tab. The Results screen displays the results of clicking <Submit Discovery Request button image> in the Interfaces tab.
 
 ![image](/articles/DPM/images/Figure_88_Discovery_ResultsTab.jpg)
 
