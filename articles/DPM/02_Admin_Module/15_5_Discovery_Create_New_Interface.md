@@ -95,4 +95,4 @@ Click the ![image](/articles/DPM/images/ICON_Edit.jpg) button to edit the Interf
 
 
 
-[![Previous](/articles/DPM/images/Previous.png)]( /articles/DPM/02_Admin_Module/15_4_Discovery_Interfaces_Overview.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/DPM/02_Admin_Module/15_6_Discovery_Submit_Discovery_Request.md)
+[![Previous](/articles/DPM/images/Previous.png)]( /articles/DPM/02_Admin_Module/15_4_Discovery_Interfaces_Overview.md)[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_6_Discovery_Submit_Discovery_Request.md)
