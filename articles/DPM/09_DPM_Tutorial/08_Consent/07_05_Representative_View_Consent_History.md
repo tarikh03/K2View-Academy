@@ -23,5 +23,8 @@ Enter a keyword to display all Consent histories where the keyword appears. For 
 ![image](../images/08_16_Consent_RepConsent_HistorySearch2.jpg)
 
 
+### Logout of the System
 
-[![Previous](../images/Previous.png)]( 07_04_Representative_OptIn_or_OptOut.md)[<img align="right" width="60" height="54" src="../images/Next.png">](07_06_Representative_Logout.md)
+Click ![image](../images/08_ICON_SignOut.jpg), located at the top-right corner of the screen.
+
+[![Previous](../images/Previous.png)]( 07_04_Representative_OptIn_or_OptOut.md)[<p align="right"> Return to Representative Consent Tutorial</p>](06_Representative_Consent_Introduction.md)
