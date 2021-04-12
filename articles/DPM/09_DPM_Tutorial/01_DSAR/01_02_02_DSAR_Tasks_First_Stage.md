@@ -58,9 +58,9 @@ This third task is the last one we will configure within the first Stage. It wil
 
    - The **CustomerID**, which can be obtained from the previous "Get Customer ID" Task output
 
-   - The customer **Email** to which the mail should be sent. We will configure the Task so that this information will be collected from the customer at the request submission moment
+   - The customer **Email** - to which the case opening confirmation mail should be sent. We will configure the Task so that this information will be collected from the customer at the request submission moment
 
-   - Select whether the case is a duplicate, in order to inform the customer that the Request is rejected for this reason. We will get this information from the previous "Check Case Duplication" Task output
+   - Indicator whether the case is a duplicate, in order to inform the customer that the Request is rejected for this reason. We will get this information from the previous "Check Case Duplication" Task output
 
    - If the request was identified as a duplicate, then what is the ID of the request that is already open? We get this information from the previous Task output.
 
