@@ -26,6 +26,8 @@ The New Consent displays in the Consents table. The rows are separated by Catego
 
 ![image](../images/08_5_Consent_AdminConsent_Add10_Callout.jpg)     
 
+Click ![image](../images/08_ICON_SignOut.jpg), located at the top-right corner of the screen.
+
 
 
 [![Previous](../images/Previous.png)]( 03_02_Admin_Consent_Login.md)[<img align="right" width="60" height="54" src="../images/Next.png">](03_04_Admin_Consent_Logout.md)
