@@ -228,7 +228,7 @@ Click the ![image](/articles/DPM/images/Figure_x_image.jpg) button to edit the I
 
 ### Submit a Discovery Request
 
-Click the ![image](/articles/DPM/images/Figure_x_image.jpg) button. 
+Click the ![image](/articles/DPM/images/Figure_84_Discovery_SubmitDiscRequest.jpg) button. 
 
 ![image](/articles/DPM/images/Figure_x_image.jpg)
 
@@ -236,7 +236,7 @@ The system will check which Interfaces have been written and that are Active. It
 
 ## Results Tab Overview
 
-The Results tab displays the results of clicking ![image (/articles/DPM/images/Figure_x_image.jpg) in the Interfaces tab.
+The Results tab displays the results of clicking ![image](/articles/DPM/images/Figure_84_Discovery_SubmitDiscRequest.jpg) in the Interfaces Configuration tab.
 
 ![image](/articles/DPM/images/Figure_x_image.jpg)
 
