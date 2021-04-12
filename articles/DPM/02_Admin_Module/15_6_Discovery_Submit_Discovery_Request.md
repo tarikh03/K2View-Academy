@@ -8,4 +8,4 @@ The system will check which Interfaces have been written and that are Active. It
 
 
 
-[![Previous](/articles/DPM/images/Previous.png)]( /articles/DPM/02_Admin_Module/15_5_Discovery_Create_New_Interface.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/DPM/02_Admin_Module/15_7_Discovery_Results_Tab_Overview.md)
+[![Previous](/articles/DPM/images/Previous.png)]( /articles/DPM/02_Admin_Module/15_5_Discovery_Create_New_Interface.md)[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_7_Discovery_Results_Tab_Overview.md)
