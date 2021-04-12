@@ -47,7 +47,7 @@ The Matching Type drop-down list lets you filter according to matching type. The
 
 Click the ![image](/articles/DPM/images/Figure_82_Discovery_NewMatchingRule.jpg) button at the top-right of the screen in order to configure a new Matching Rule.
 
-![image](/articles/DPM/images/Image.jpg)
+![image](/articles/DPM/images/Figure_83_Discovery_MatchingRulesTab_Callout.jpg)
 
 The following dialog box displays.
 
