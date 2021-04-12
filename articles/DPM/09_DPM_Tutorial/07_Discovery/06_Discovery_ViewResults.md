@@ -10,4 +10,4 @@ Click the ![image](../images/07_13_Discovery_ResultsTab.jpg) tab. The Results sc
 
 
 
-[![Previous](../images/Previous.png)]( 05_Discovery_SubmitDiscoveryRequest.md)[<p align="right"> Return to Discovery Tutorial</p>](03_01_Discovery_Tutorial.md)
+[![Previous](../images/Previous.png)]( 05_Discovery_SubmitDiscoveryRequest.md)[<p align="right"> Return to Discovery Tutorial</p>](01_Discovery_Main.md)
