@@ -1,6 +1,8 @@
 ## Representative Consent Tutorial
 
-The following simulation of working within DPM Consent Management will show you how to log in, opt-in or opt-out of Consents, and view the history of Consent actions.
+DPM includes both a Web-based user interface and an API set to allow a Customer Service Representative (Representative) or an agent perform the same consent management activities as the customer. Activities include viewing the consent preferences of an end-user, as well as submitting a change to the consent preferences on behalf of the end-user.
+
+The following simulation of working within DPM Consent Management will show you how to log in as a representative, opt-in or opt-out of Consents on behalf of a customer, and view the history of Consent actions of this customer.
 
 [Login to the System](07_02_Representative_Login.md)
 
@@ -14,4 +16,4 @@ The following simulation of working within DPM Consent Management will show you 
 
 
 
-[![Previous](../images/Previous.png)]( 06_Representative_Consent_Introduction.md)[<img align="right" width="60" height="54" src="../images/Next.png">](07_02_Representative_Login.md)
+[![Previous](../images/Previous.png)]( 01_Consent_Main.md)[<img align="right" width="60" height="54" src="../images/Next.png">](07_02_Representative_Login.md)
