@@ -6,7 +6,7 @@ To configure a new Consent Topic, click the <img src="../images/08_Consent_new_I
 
 The New Consent dialog box displays.
 
-<img src="../images/08_3_Consent_AdminConsent_Add.jpg" width="50%" height="50%">     
+<img src="../images/08_3_Consent_AdminConsent_Add.jpg" width="40%" height="40%">     
 
 In the New Consent Topic popup, populate the following fields:
 
