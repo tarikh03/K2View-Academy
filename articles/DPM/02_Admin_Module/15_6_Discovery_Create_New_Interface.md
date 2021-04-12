@@ -1,4 +1,4 @@
-## Add an Interface
+## Add an Interface Configuration
 
 Click the ![image](/articles/DPM/images/Figure_85_Discovery_AddInterface.jpg) button at the top-right of the screen in order to configure a new Interface.
 
