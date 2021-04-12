@@ -27,4 +27,4 @@ Enter a keyword to display all Consent histories where the keyword appears. For 
 
 Click ![image](../images/08_ICON_SignOut.jpg), located at the top-right corner of the screen.
 
-[![Previous](../images/Previous.png)]( 07_04_Representative_OptIn_or_OptOut.md)[<p align="right"> Return to Representative Consent Tutorial</p>](06_Representative_Consent_Introduction.md)
+[![Previous](../images/Previous.png)]( 07_04_Representative_OptIn_or_OptOut.md)[<p align="right"> Return to Representative Consent Tutorial</p>](07_01_Representative_Consent_Tutorial.md)
