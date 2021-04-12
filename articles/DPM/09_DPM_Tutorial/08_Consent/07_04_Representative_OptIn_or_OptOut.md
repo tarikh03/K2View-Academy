@@ -1,7 +1,5 @@
 ### Opt-In or Opt-Out of Consents
 
-When a user changes consent topic preferences (example: from opt-in to opt-out), a dialog box displays to confirm the selection. This dialog box includes the opt-in or opt-out text defined in the consent configuration.
-
 **Opt-In to a Consent**
 
 Locate a Consent in the Consents table. Under the ACTIONS column, turn the On/Off slider to On to opt-in to the selected Consent.
@@ -22,13 +20,11 @@ The On/Off slider is turned to “On”.
 
 To opt-out of a Consent, locate a Consent in the Consents table. Under the ACTIONS column, turn the On/Off slider to Off to opt-out to the selected Consent.
 
-![image](../images/08_10_Consent_RepConsent_OptIn.jpg)
-
 A dialog box displays, verifying that you want to turn off the consent.
 
 ![image](../images/08_11_Consent_RepConsent_OptOut.jpg) 
 
-Click ![image](../images/08_ICON_OK.png) to turn on the consent. 
+Click ![image](../images/08_ICON_OK.png) to turn off the consent. 
 
 The On/Off slider is turned to “Off”.
 
