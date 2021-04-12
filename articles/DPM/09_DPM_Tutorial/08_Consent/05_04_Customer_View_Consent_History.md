@@ -22,6 +22,8 @@ Enter a keyword to display all Consent histories where the keyword appears. For 
 
 ![image](../images/08_1_Consent_CustConsent_ConsentsHistory2.jpg)
 
+### Logout of the System
 
+Click ![image](../images/08_ICON_SignOut.jpg), located at the top-right corner of the screen.
 
-[![Previous](../images/Previous.png)]( 05_03_Customer_OptIn_or_OptOut.md)[<img align="right" width="60" height="54" src="../images/Next.png">](05_05_Customer_Logout.md)
+[![Previous](../images/Previous.png)]( 05_03_Customer_OptIn_or_OptOut.md)[<p align="right"> Return to Customer Consent Tutorial</p>](05_01_Customer_Consent_Tutorial.md)
