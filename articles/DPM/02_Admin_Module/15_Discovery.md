@@ -108,10 +108,10 @@ The following dialog box displays.
 
 ### Edit or Delete a Matching Rule
 
-Click the ![image](/articles/DPM/images/image.jpg) button to delete a Matching Rule. 
+Click the ![image](/articles/DPM/images/ICON_Delete.jpg) button to delete a Matching Rule. 
 
-Note: If you click the ![image](/articles/DPM/images/image.jpg) button, the system displays a dialog box, prompting “Are you sure you want to delete matching type?” Click the “OK” button to remove the selected Matching Type from the system.
+Note: If you click the ![image](/articles/DPM/images/ICON_Delete.jpg) button, the system displays a dialog box, prompting “Are you sure you want to delete matching type?” Click the “OK” button to remove the selected Matching Type from the system.
 
-Click the ![image](/articles/DPM/images/image.jpg) button to edit the Matching Category, Field Type, Probability, and Matching Type.
+Click the ![image](/articles/DPM/images/ICON_Edit.jpg) button to edit the Matching Category, Field Type, Probability, and Matching Type.
 
 
