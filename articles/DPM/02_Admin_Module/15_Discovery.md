@@ -18,7 +18,7 @@ There are three activity phases in the Discovery Matching Rules function.
 
 Matching Rules are configured by accessing the Discovery Matching Rules menu option.
 
-![image](/articles/DPM/images/image.jpg)
+![image](/articles/DPM/images/Figure_75_Discovery_LeftPanel.jpg)
 
 The “Discovery Matching Rules” screen displays.
 
