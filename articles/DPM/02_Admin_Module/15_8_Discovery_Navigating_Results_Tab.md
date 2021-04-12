@@ -8,4 +8,4 @@ Click the ![image](/articles/DPM/images/ICON_Clear.jpg) button to reset all crit
 
 
 
-[![Previous](/articles/DPM/images/Previous.png)](/articles/DPM/02_Admin_Module/14_DPM_Main_Menu.md)[<p align="right"> Return to Admin Model Overview</p>](/articles/DPM/02_Admin_Module/01_Admin_Module_Overview.md)
+[![Previous](/articles/DPM/images/Previous.png)](/articles/DPM/02_Admin_Module/15_7_Discovery_Results_Tab_Overview.md)[<p align="right"> Return to PII Discovery Introduction</p>](/articles/DPM/02_Admin_Module/15_1_Discovery_Introduction.md)
