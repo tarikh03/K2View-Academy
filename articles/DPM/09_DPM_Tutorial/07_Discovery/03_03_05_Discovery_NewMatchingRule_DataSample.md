@@ -1,6 +1,6 @@
 ### Create a New Matching Rule - Data Sample Type
 
-The **Data Sample** matching type is used when the discovery of PII data should be based on a long list of optional values. For example, if you want to find fields which hold the information of the preferred language of a customer, you can ask the discovery process to compate the information in each field with a list of possible languages which you loaded to a reference table. 
+The **Data Sample** matching type is used when the discovery of PII data should be based on a long list of optional values. For example, if you want to find fields wthat hold the information of the preferred language of a customer, you can ask the discovery process to compare the information in each field with a list of possible languages that you loaded into a reference table. 
 
 In this matching type, a table with all the optional values is created and is provided as input to the matching process.
 
