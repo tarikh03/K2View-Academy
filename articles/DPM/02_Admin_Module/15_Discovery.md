@@ -244,4 +244,4 @@ Click the ![image](/articles/DPM/images/ICON_Clear.jpg) button to reset all crit
 
 
  
-[![Previous](/articles/DPM/images/Previous.png)](/articles/DPM/02_Admin_Module/01_DSAR/14_DPM_Main_Menu.md.md)[<p align="right"> Return to Admin Model Overview</p>](/articles/DPM/02_Admin_Module/01_Admin_Module_Overview.md)
+[![Previous](/articles/DPM/images/Previous.png)](/articles/DPM/02_Admin_Module/01_DSAR/14_DPM_Main_Menu.md)[<p align="right"> Return to Admin Model Overview</p>](/articles/DPM/02_Admin_Module/01_Admin_Module_Overview.md)
