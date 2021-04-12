@@ -10,9 +10,9 @@ We will now create a new Regulation, add a new Activity under it, and then we wi
 
 <img src="../images/01_03_DSAR_Admin_Menu_Regulation.png" width="30%" height="30%">
 
-2. Click <img src="../images/01_03_DSAR_New_Regulation_Icon.png" width="10%" height="10%"> to create a new Regulation. Populate the information for this new Regulation as shown below. 
+2. Click <img src="../images/01_03_DSAR_New_Regulation_Icon.png" width="10%" height="10%"> at the top-right of the Regulation List screen, to create a new Regulation. Populate the information for this new Regulation as shown below. 
 
-<img src="../images/01_03_DSAR_Regulations_List.png" width="100%" height="100%">
+<img src="../images/01_03_DSAR_New_Regulation_Popup.png" width="30%" height="30%">
 
 After you save the new Regulation, the screen of Activities for this Regulation displays, initially empty because no Activity has been created. 
 
