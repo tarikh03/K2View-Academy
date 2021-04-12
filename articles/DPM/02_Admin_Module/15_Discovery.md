@@ -135,7 +135,7 @@ If you have a Matching Type of Data or Data Sample, you can define within the sy
 
 Click the ![image](/articles/DPM/images/Figure_85_Discovery_AddInterface.jpg) button at the top-right of the screen in order to configure a new Interface.
 
-![image](/articles/DPM/images/Figure_x_image.jpg)
+![image](/articles/DPM/images/Figure_87_Discovery_AddInterface_Callout.jpg)
 
 The following dialog box displays.
 
