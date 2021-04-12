@@ -8,15 +8,9 @@ The New Consent dialog box displays.
 
 ![image](../images/08_3_Consent_AdminConsent_Add.jpg)     
 
-Select a **Category**. Categories are used for grouping consent topics. This field lets the user classify the new consent under an existing Category or select **New Category** to configure a new one.
+In the New Consent Topic popup, populate the following fields:
 
-The following example shows the New Category screen populated with sample information.
-
-![image](../images/08_18_Consent_AdminConsent_Add_All.jpg)    
-
-For this demonstration, select **Marketing**.
-
-![image](../images/08_4_Consent_AdminConsent_Add1.jpg)    
+1. Select a **Category**. Categories are used for grouping consent topics. This field lets the user classify the new consent under an existing Category or select **New Category** to configure a new one. For this demonstration, select **Marketing**.
 
 Enter the **Topic** name. 
 
