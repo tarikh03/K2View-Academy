@@ -1,12 +1,14 @@
 ### Login to the System
 
-Enter your DPM application **Username** and **Password**.
+Enter the DPM application using a user that has Representative credentials.
 
-![image](../images/Customer_Login.jpg)                                  
+For the purpose of the tutorial we have created a user called "rep"
+
+![image](../images/rep_Login.png)                                  
 
 Click **Login**.
 
-Once a user logs into the DPM system as a Representative, the screen is updated with two frames (windows) of information. The left frame displays a list of menu options for this module. The right frame displays the interactive components of the selection. The Requests List screen displays by default after logging into the system.
+Once a user logs into the DPM system as a Representative, the screen is updated with two frames (windows) of information. The left frame displays a list of menu options for this module. The right frame displays the interactive components of the selection. The Requests List screen displays by default after logging into the system. as a representative
 
 ![image](../images/08_1_Consent_RepConsent_Landing.jpg)      
 
