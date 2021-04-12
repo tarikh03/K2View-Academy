@@ -240,7 +240,8 @@ The Results tab displays the results of clicking ![image](/articles/DPM/images/F
 
 ![image](/articles/DPM/images/Figure_x_image.jpg)
 
-Click the ![image](/articles/DPM/images/Figure_x_image.jpg) button to reset all criteria for returning results to the default selections.
+Click the ![image](/articles/DPM/images/ICON_Clear.jpg) button to reset all criteria for returning results to the default selections.
 
 
  
+[![Previous](/articles/demo_project/DPM_Demo_Project/images/Previous.png)]( /articles/demo_project/DPM_Demo_Project/01_DSAR/14_DPM_Main_Menu.md.md)[<p align="right"> Return to Admin Model Overview</p>](/articles/demo_project/DPM_Demo_Project/01_DSAR/01_Admin_Module_Overview.md)
