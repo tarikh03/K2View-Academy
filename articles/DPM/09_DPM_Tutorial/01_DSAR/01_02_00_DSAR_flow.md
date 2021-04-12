@@ -16,7 +16,7 @@ The creation of Flows using the K2View DPM System provides limitless flexibility
 
 1.  [Create a New Flow and Stage](01_02_01_DSAR_create_new_flow.md)
 2.  [Case Opening and Customer Notification Tasks](01_02_02_DSAR_Tasks_First_Stage.md)
-3.  [Data Gathering and Task Review](01_02_03_DSAR_Tasks_Next_Stages.md)
+3.  [Data Gathering and Review Tasks](01_02_03_DSAR_Tasks_Next_Stages.md)
 4.  [Mark the Flow as Complete](01_02_04_DSAR_Finalize_Flow.md)
 
 
