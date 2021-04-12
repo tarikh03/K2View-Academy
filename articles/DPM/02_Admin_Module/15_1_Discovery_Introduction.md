@@ -1,4 +1,4 @@
-# PII Discovery
+# Personal Data Discovery
 
 Personally Identifiable Information (PII) data is information that could be used to conduct identity theft or other crimes against a person. High-level examples of this data include healthcare information, social security numbers, bank account numbers, or credit card data. It could also be more simple information, such as last names, addresses, and birth dates. Any personal data can be an attractive target to criminals, as it can be used for an array of unlawful activities, from basic fraud to identity theft. 
 
