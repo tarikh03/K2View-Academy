@@ -4,8 +4,6 @@ This demonstration will guide you through the process of a typical Consent Manag
 
 [Admin Consent Tutorial](03_01_Admin_Consent_Tutorial.md)
 
-[Customer Consent Introduction](04_Customer_Consent_Introduction.md)
-
 [Customer Consent Tutorial](05_01_Customer_Consent_Tutorial.md)
 
 [Representative Consent Introduction](06_Representative_Consent_Introduction.md)
