@@ -16,4 +16,4 @@ If you enter an 85% Probability, only results of 85% or more Probability how lik
 If you have a Matching Type of Data or Data Sample, you can define within the system each Role to inspect before the system decides whether a column contains PII data. The result lets you flag the column as a probable PII and displays in the Results tab. Refer to *9.4* *Results Tab Overview* for additional information.
 
 
-[![Previous](/articles/DPM/images/Previous.png)]( /articles/DPM/02_Admin_Module/15_3_Discovery_Create_New_Matching_Rule.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/DPM/02_Admin_Module/15_5_Discovery_Create_New_Interface.md)
+[![Previous](/articles/DPM/images/Previous.png)]( /articles/DPM/02_Admin_Module/15_3_Discovery_Create_New_Matching_Rule.md)[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_5_Discovery_Create_New_Interface.md)
