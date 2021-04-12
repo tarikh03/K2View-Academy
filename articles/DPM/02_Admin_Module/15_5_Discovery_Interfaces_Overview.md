@@ -1,11 +1,6 @@
 ## Interfaces Configuration Tab Overview
 
-The Interfaces Configuration tab contains options for telling the system the location of databases you want to scan. 
-
-The Interface tab has 2 main functions.
-
-- You can tell system where the databases are that you want to scan. 
-- You can run a scan of the databases using criteria set in the Interfaces tab.
+The Interfaces Configuration tab contains options for telling the system the location of databases you want to scan. This tab has two main functions. You can tell system where the databases are that you want to scan, and you can run a scan of the databases using criteria set in the Interfaces Configuration tab.
 
 ![image](/articles/DPM/images/Figure_79_Discovery_InterfacesTab.jpg)
 
