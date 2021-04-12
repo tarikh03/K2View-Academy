@@ -68,7 +68,7 @@ The following dialog box displays.
 <p> Matching  Category</p>
 </td>
 <td width="785">
-<p>Select a category that is defined within this  option. Select <b>+New Category</b> from the drop-down to create a new category</p>
+<p>Select a category that is defined within this  option. Select <b>+New Category</b> from the drop-down to create a new category.</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ The following dialog box displays.
 <p>Field Type</p>
 </td>
 <td width="785">
-<p>Select a filed type that  is defined within this option. Select <b>+New Field Type</b> to add a new field  type.</p>
+<p>Select a filed type that is defined within this option. Select <b>+New Field Type</b> to add a new field  type.</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ The following dialog box displays.
 <p>Active</p>
 </td>
 <td width="785">
-<p>The “Active” slider is  turned to “On” by default. Turn the slider to “Off” if you do not want the  new Matching Rule to be active in the table. </p>
+<p>The “Active” slider is turned to “On” by default. Turn the slider to “Off” if you do not want the  new Matching Rule to be active in the table.</p>
 </td>
 </tr>
 <tr>
@@ -92,12 +92,12 @@ The following dialog box displays.
 <p> Probability (1 – 100%)</p>
 </td>
 <td width="785">
-<p>Set the probability  percentage of the new Matching Rule. For example, when you validate a social  security number, the 9-digit number could be an account number of the same  format. Therefore, the Probability would be lower (ex: 70%.)</p>
+<p>Set the probability  percentage of the new Matching Rule. For example, when you validate a social  security number, the 9-digit number could be an account number of the same  format. Therefore, the Probability would be lower (ex: 70%).</p>
 </td>
 </tr>
 <tr>
 <td width="85">
-<p>Matching  Type</p>
+<p>Matching Type</p>
 </td>
 <td width="785">
 <p>Select the Matching Type.  Choose between Column, Data, Data Function, and Data Sample.</p>
