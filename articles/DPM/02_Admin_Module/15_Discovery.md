@@ -114,4 +114,133 @@ Note: If you click the ![image](/articles/DPM/images/ICON_Delete.jpg) button, th
 
 Click the ![image](/articles/DPM/images/ICON_Edit.jpg) button to edit the Matching Category, Field Type, Probability, and Matching Type.
 
+## Interfaces Configuration Tab Overview
 
+The Interfaces Configuration tab contains options for telling the system the location of databases you want to scan. 
+
+The Interface tab has 2 main functions.
+
+- You can tell system where the databases are that you want to scan. 
+- You can run a scan of the databases using criteria set in the Interfaces tab.
+
+![image](/articles/DPM/images/Figure_x_image.jpg)
+
+The system should not allow more than one entry for this table in the same system. Every database that you connect to should have up to one entry in the table. When you execute a request for mapping, discovery, or Personally Identifiable Information (PII), the system will use only one process per database. It will not use two or more combinations. For each interface, there should be up to 1 entry in the table, or the system will block it.
+
+If you enter an 85% Probability, only results of 85% or more Probability how likely a rule indicates that the columns indeed have data that should be protected. Every Matching Type of data displays a list of options. A Data Sample returns a table with a list of options. This information is in the DPM Fabric and can hold more than what you need to write. Data and Data Sample options—similar only in location—are controlled or impacted by the Probability percentage.
+
+If you have a Matching Type of Data or Data Sample, you can define within the system each Role to inspect before the system decides whether a column contains PII data. The result lets you flag the column as a probable PII and displays in the Results tab. Refer to *9.4* *Results Tab Overview* for additional information.
+
+### Add an Interface
+
+Click the ![image](/articles/DPM/images/Figure_x_image.jpg) button at the top-right of the screen in order to configure a new Interface.
+
+![image](/articles/DPM/images/Figure_x_image.jpg)
+
+The following dialog box displays.
+
+![image](/articles/DPM/images/Figure_x_image.jpg)
+
+<table>
+<tbody>
+<tr>
+<td width="85">
+<p><strong>Property</strong></p>
+</td>
+<td width="785">
+<p><strong>Description</strong></p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p> Interface</p>
+</td>
+<td width="785">
+<p>Select an interface from the drop-down list. For example, select “dbsalesforce”. This list is populated by options configured in the DPM fabric software. </p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>Catalog Pattern (Regex)</p>
+</td>
+<td width="785">
+<p>Information Needed</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>Schema Name Inclusion Pattern (Regex)</p>
+</td>
+<td width="785">
+<p>All tables in the database are defined in the Schema part of the DPM fabric software Creator Interface. For example, for a new Interface called “dbsalesforce”, select “SFORCE” from the Schema Name Inclusion Pattern drop-down list.</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p> Probability (1 – 100%)</p>
+</td>
+<td width="785">
+<p>Set the probability  percentage of the new Matching Rule. For example, when you validate a social  security number, the 9-digit number could be an account number of the same  format. Therefore, the Probability would be lower (ex: 70%).</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>Schema Name Exclusion Pattern (Regex)</p>
+</td>
+<td width="785">
+<p>All tables in the database are defined in the Schema part of the fabric software Creator Interface. For example, for a new Interface called “dbsalesforce”, select “PUBLIC” from the Schema Name Exclusion Pattern drop-down list.</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>Table Name Inclusion Pattern (Regex)</p>
+</td>
+<td width="785">
+<p>Refine your search further by telling the system to include specific tables. For example, you can include the database tables for all instances of “ACCOUNT.” </p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>Table Name Exclusion Pattern (Regex)</p>
+</td>
+<td width="785">
+<p>Refine your search further by telling the system to exclude specific tables. For example, you can exclude searching the database tables for all instances of “ACCOUNT.” </p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p>Active</p>
+</td>
+<td width="785">
+<p>The “Active” slider is turned to “On” by default. Turn the slider to “Off” if you do not want the new Interface to be active in the table.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+###  Edit or Delete an Interface
+
+Use the ![image](/articles/DPM/images/Figure_x_image.jpg) button to delete an Interface. 
+
+**Note**: If you click the ![image](/articles/DPM/images/Figure_x_image.jpg) button, the system displays a dialog box, prompting “Are you sure you want to Delete Interface: [InterfaceName]?” Click the ![image](/articles/DPM/images/Figure_x_image.jpg) button to remove the selected Interface from the system.
+
+Click the ![image](/articles/DPM/images/Figure_x_image.jpg) button to edit the Interface name, Schema information, and table information.
+
+### Submit a Discovery Request
+
+Click the ![image](/articles/DPM/images/Figure_x_image.jpg) button. 
+
+![image](/articles/DPM/images/Figure_x_image.jpg)
+
+The system will check which Interfaces have been written and that are Active. It will run all the matching rules. The result of your submission will display under the Discovery Requests section, located along the bottom of the Interfaces Configuration tab.
+
+## Results Tab Overview
+
+The Results tab displays the results of clicking ![image (/articles/DPM/images/Figure_x_image.jpg) in the Interfaces tab.
+
+![image](/articles/DPM/images/Figure_x_image.jpg)
+
+Click the ![image](/articles/DPM/images/Figure_x_image.jpg) button to reset all criteria for returning results to the default selections.
+
+
+ 
