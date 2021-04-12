@@ -77,11 +77,11 @@ The sample Stages we will create include:
 
 <img src="../images/01_02_03_DSAR_Customer_Notification_Task.png" width="80%" height="80%">
 
-3. Click the **Operations** tab and select the **SendEmailTo** operation. This automatic operation will send a notification to the customer once the Request is successfully completed, and the PDF can be delivered to the customer. Configure the **Inputs** parameters as shown below. 
+3. Click the **Operations** tab and select the **SendDPMEmailTo** operation. This automatic operation will send a notification to the customer once the Request is successfully completed, and the PDF can be delivered to the customer. Configure the **Inputs** parameters as shown below. 
 
-   The input parameter **recipients** is configured here to be obtained from the customer at the moment of request submission. The customer will be prompted to provide the address due to the entry in the **Label** field: **Provide the address for sending the results** as we will see in the tutorial section of the customer request submission.
+   The input parameter **recipients** is configured here to be obtained from the customer at the moment of request submission. The customer will be prompted to provide the address due to the entry in the **Label** field: **What is your email address?** as we will see in the tutorial section of the customer request submission.
 
-   The input parameter **subject** was set to a fixed value: **Your DSAR was Completed**.
+   The input parameter **subject** was set to a fixed value: **Your K2View Data Subject Access Request**.
 
 <img src="../images/01_02_03_DSAR_Customer_Notification_Operations.png" width="80%" height="80%">
 
