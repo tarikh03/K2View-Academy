@@ -8,6 +8,14 @@ PII discovery is a process that detects patterns by applying various analytical 
 
 The Discovery Matching Rules function of the DPM system lets you search databases of all systems within the company for personal data that may be protected by privacy legislation. You can create rules to either match or exclude data during a database search, configure regular expression (RegEx) schemas and table patterns, and view the discovery results using an array of filters.
 
+## Discovery Matching Rules Overview
+
+There are three activity phases in the Discovery Matching Rules function.
+
+- Define a set of rules to use for the PII discovery process.
+- Define interfaces (systems and databases you can connect to search for PII data).
+- Execute the discovery and review the results to determine which actions to take for each field indicated by the discovery process.
+
 
 
 [<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_2_Discovery_Matching_Rules_Overview.md)
