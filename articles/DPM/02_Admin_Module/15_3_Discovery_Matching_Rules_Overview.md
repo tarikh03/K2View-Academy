@@ -1,8 +1,8 @@
 ## Matching Rules Tab Overview
 
-![image](/articles/DPM/images/Figure_76_Discovery_MatchingRulesTab.jpg)
-
 In this screen, you can define rules of how to identify where in your system the data may be Personally Identifiable Information (PII) data. 
+
+![image](/articles/DPM/images/Figure_76_Discovery_MatchingRulesTab.jpg)
 
 This functionality provides multiple possibilities for the data inspection. For example, you can inspect data by looking at the column name, by comparing the data itself to a list of values, by running a function that validates the field content, or by comparing the fields content with data in a reference table. The system has a built-in set of rules and any other rules can be built in through configuration, using this screen.
 
