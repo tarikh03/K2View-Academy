@@ -2,7 +2,7 @@
 
 In this tutorial, additional Stages and Tasks are created in order to complete the configuration of our DSAR Tutorial Flow. 
 
-In addition to the steps described below, you can also review the DSAR Flow implementation that comes with your DPM installation.
+In addition to the steps described below, if you have any doubt you can also review the DSAR Flow implementation that comes built-in with your DPM installation.
 
 <img src="../images/01_02_03_DSAR_Built_In_Flow.png" width="100%" height="100%">
 
