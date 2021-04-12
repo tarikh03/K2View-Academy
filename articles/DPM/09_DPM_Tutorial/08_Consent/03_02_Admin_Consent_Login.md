@@ -1,6 +1,6 @@
 ### Login to the System
 
-To configure the Discovery Rules, you should enter the DPM using the credentials of a User that has the Admin priviliges. 
+To configure the Consent Topics, you should enter the DPM using the credentials of a User that has the Admin priviliges. 
 
 For this tutorial, enter the following credentials to access user information with an Administrator role.
 
