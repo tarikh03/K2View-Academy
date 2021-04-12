@@ -6,7 +6,7 @@ The following simulation of working within DPM Discovery will show you how to lo
 
 [First Tab: Matching Rules](03_03_01_Discovery_NewMatchingRule_Landing.md)
 
-[Add an Interface](04_Discovery_AddInterface.md)
+[Second Tab: Interfaces Configuration](04_Discovery_AddInterface.md)
 
 [Submit a Discovery Request](05_Discovery_SubmitDiscoveryRequest.md)
 
