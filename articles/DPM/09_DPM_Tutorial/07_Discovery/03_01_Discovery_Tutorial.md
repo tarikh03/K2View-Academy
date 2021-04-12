@@ -10,7 +10,7 @@ The following simulation of working within DPM Discovery will show you how to lo
 
 [Submit a Discovery Request](05_Discovery_SubmitDiscoveryRequest.md)
 
-[View Discovery Results](06_Discovery_ViewResults.md)
+[Third Tab: View Discovery Results](06_Discovery_ViewResults.md)
 
 
 
