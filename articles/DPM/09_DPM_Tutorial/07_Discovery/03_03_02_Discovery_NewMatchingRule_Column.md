@@ -23,8 +23,7 @@ Select the **Matching Type**. Since we want to demonstrate the discovery based o
 After you select a Matching Type, additional entry fields will display depending upon your selection. When you chose the **Column** matching type, the fields that display are  **Match Pattern** and **Exclude Pattern**.
 
 The **Match Pattern** defines the pattern of the column name for which you are searching. You can type any valid Regular expression (RegEx) in this field. 
-The **Exclude Pattern** defines the pattern that you would like to ignore. 
-The discovery process results list all the columns that both matched the **Include Pattern** and didn't match the **Exclude Pattern**.
+The **Exclude Pattern** defines the pattern that you would like to ignore. The discovery process results list all the columns that both matched the **Include Pattern** and didn't match the **Exclude Pattern**.
 
 Enter a **Match Pattern**.
 
