@@ -34,4 +34,4 @@ The Matching Type drop-down list lets you filter according to matching type. The
 - **Data Sample** – The Data Sample Matching Type lets you compare the column content with what a customer provided. You only need to load the function into the table. For example, if a customer provides a list of postal codes, where many options exist, you will not need to write out each one.
 
 
-[![Previous](/articles/DPM/images/Previous.png)]( /articles/DPM/02_Admin_Module/15_1_Discovery_Introduction.md)[<img align="right" width="60" height="54" src="/articles/demo_project/DPM_Demo_Project/images/Next.png">](/articles/DPM/02_Admin_Module/15_3_Discovery_Create_New_Matching_Rule.md)
+[![Previous](/articles/DPM/images/Previous.png)](/articles/DPM/02_Admin_Module/15_1_Discovery_Introduction.md)[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_3_Discovery_Create_New_Matching_Rule.md)
