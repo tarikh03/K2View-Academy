@@ -45,13 +45,13 @@ The Matching Type drop-down list lets you filter according to matching type. The
 
 ### Create a New Matching Rule
 
-Click the ![image](/articles/DPM/images/image.jpg) button at the top-right of the screen in order to configure a new Matching Rule.
+Click the ![image](/articles/DPM/images/Figure_82_Discovery_NewMatchingRule.jpg) button at the top-right of the screen in order to configure a new Matching Rule.
 
-![image](/articles/DPM/images/image.jpg)
+![image](/articles/DPM/images/Image.jpg)
 
 The following dialog box displays.
 
-![image](/articles/DPM/images/image.jpg)
+![image](/articles/DPM/images/Figure_78_Discovery_NewMatchingRule.jpg)
 
 <table>
 <tbody>
