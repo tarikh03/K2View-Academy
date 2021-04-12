@@ -6,7 +6,7 @@ To manage your consent preferences as a customer, enter your DPM application **U
 
 Click **Login**.
 
-Once you are logged in, the Customer Landing screen is displayed. In order to reach the consent management screen rom the Customer landing screen, Click ![image](../images/08_ICON_ConsentManagement.png) under the CUSTOMER menu options, located on the left side of the screen. 
+Once you are logged in, the Customer Landing screen is displayed. In order to reach the consent management screen from the Customer landing page, Click ![image](../images/08_ICON_ConsentManagement.png) under the CUSTOMER menu options, located on the left side of the screen. 
 
 ![image](../images/08_5_Consent_CustConsent_LeftPanel.jpg)     
 
