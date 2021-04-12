@@ -10,4 +10,4 @@ The Discovery Matching Rules function of the DPM system lets you search database
 
 
 
-[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_2_Discovery_Matching_Rules_Overview.md)
+[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_2_Discovery_Accessing_Discovery.md)
