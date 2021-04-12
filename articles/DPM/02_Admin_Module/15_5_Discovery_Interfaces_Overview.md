@@ -2,7 +2,11 @@
 
 The Interfaces Configuration tab contains options for telling the system the location of databases you want to scan. This tab has two main functions. You can tell system where the databases are that you want to scan, and you can run a scan of the databases using criteria set in the Interfaces Configuration tab.
 
-![image](/articles/DPM/images/Figure_79_Discovery_InterfacesTab.jpg)
+Click the ![image](../images/Figure_89_Discovery_InterfacesTab.jpg) tab. 
+
+The Interfaces Configuration screen displays.
+
+![image](../images/Figure_79_Discovery_InterfacesTab.jpg)
 
 The system should not allow more than one entry for this table in the same system. Every database that you connect to should have up to one entry in the table as well. When you submit a request for discovery, the system will use only one process per database; therefore, for each interface, there should be only one entry in the table, or the system will block it.
 
