@@ -8,7 +8,7 @@ When launching the discovery process, the system inspects each field in the data
 
 ### To configure a new rule:
 
-At the first tab of the Discovery screen, click the ![image](../images/ICON_NewMatchingRule.jpg) button at the top-right of this tab in order to configure a new matching rule. 
+In the first tab of the Discovery screen, click the ![image](../images/ICON_NewMatchingRule.jpg) button at the top-right of this tab in order to configure a new matching rule. 
 
 ![image](../images/07_12_Discovery_RulesTab_Callout.jpg)
 
@@ -16,9 +16,9 @@ The New Matching Rule dialog box displays.
 
 ![image](../images/07_1_Discovery_NewMatchingRule.jpg)
 
-Before guiding you through the creation of new discovery rules, we would like to describe the different types of rules that can be created. Those types are defined by the **Matching Type** field. 
+Before guiding you through the creation of new discovery rules, we will describe the different types of rules that can be created. Those types are defined by the **Matching Type** field. 
 
-There are four Matching Types: Column, Data, Data Function, and Data Sample. Each of those types allows you to configure the process to search PII fields in the database based on a different aspect:
+There are four Matching Types: Column, Data, Data Function, and Data Sample. Each of these types allow you to configure the process to search PII fields in the database based on different aspects.
 
 [Column Matching Type](03_03_02_Discovery_NewMatchingRule_Column.md)
 
@@ -26,7 +26,7 @@ The Column Matching Type lets you configure rules that inspect the column names 
 
 [Data Matching Type](03_03_03_Discovery_NewMatchingRule_Data.md)
 
-The Data Matching Type lets you narrow your view to the data themselves under each column. This rule compares data in the database for each column using a set of predefined values.
+The Data Matching Type lets you narrow your view to the data itself under each column. This rule compares data in the database for each column using a set of predefined values.
 
 [Data Function Matching Type](03_03_04_Discovery_NewMatchingRule_DataFunction.md)
 
