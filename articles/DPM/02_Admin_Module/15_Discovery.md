@@ -123,7 +123,7 @@ The Interface tab has 2 main functions.
 - You can tell system where the databases are that you want to scan. 
 - You can run a scan of the databases using criteria set in the Interfaces tab.
 
-![image](/articles/DPM/images/Figure_x_image.jpg)
+![image](/articles/DPM/images/Figure_79_Discovery_InterfacesTab.jpg)
 
 The system should not allow more than one entry for this table in the same system. Every database that you connect to should have up to one entry in the table. When you execute a request for mapping, discovery, or Personally Identifiable Information (PII), the system will use only one process per database. It will not use two or more combinations. For each interface, there should be up to 1 entry in the table, or the system will block it.
 
@@ -133,13 +133,13 @@ If you have a Matching Type of Data or Data Sample, you can define within the sy
 
 ### Add an Interface
 
-Click the ![image](/articles/DPM/images/Figure_x_image.jpg) button at the top-right of the screen in order to configure a new Interface.
+Click the ![image](/articles/DPM/images/Figure_85_Discovery_AddInterface.jpg) button at the top-right of the screen in order to configure a new Interface.
 
 ![image](/articles/DPM/images/Figure_x_image.jpg)
 
 The following dialog box displays.
 
-![image](/articles/DPM/images/Figure_x_image.jpg)
+![image](/articles/DPM/images/Figure_81_Discovery_NewInterface.jpg)
 
 <table>
 <tbody>
