@@ -10,7 +10,7 @@ The Discovery Matching Rules function of the DPM system lets you search database
 
 ## Discovery Matching Rules Overview
 
-There are three activity phases in the Discovery Matching Rules function.
+There are three activity phases in the DPM Discovery Matching Rules function.
 
 - Define a set of rules to use for the PII discovery process.
 - Define interfaces (systems and databases you can connect to search for PII data).
