@@ -10,7 +10,7 @@ Once you are logged in, the Customer Landing screen is displayed. In order to re
 
 ![image](../images/08_5_Consent_CustConsent_LeftPanel.jpg)     
 
-The Consent Management screen displays.
+The Consent Management screen displays, showing the current customer consent preferences. 
 
 ![image](../images/08_3_Consent_CustConsent_Landing.jpg)      
 
