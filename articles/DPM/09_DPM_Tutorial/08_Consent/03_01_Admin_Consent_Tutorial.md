@@ -1,6 +1,6 @@
 ## Admin Consent Tutorial
 
-The following simulation of working within DPM Consent Management will show you how to log in, add a new consent, and activate the new consent in the system.
+The following simulation of working within DPM Consent Management will guide you through the Administrator activities of defining consent topics, assign them to categories and define the regulations this consent is relevant for.
 
 [Login to the System](03_02_Admin_Consent_Login.md)
 
