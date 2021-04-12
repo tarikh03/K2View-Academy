@@ -14,7 +14,7 @@ This user is defined as an Administrator user.
 
 Click **Login**. 
 
-As a result, the initial screen of the Admin module displays. By default, the Regulation List screen is displayed. 
+As a result, the initial screen of the Admin module displays. By default, the Regulation List screen displays. 
 
 Click ![image](../images/ICON_Discovery2.jpg) under the ADMIN menu options, located on the left side of the screen. 
 
@@ -24,7 +24,7 @@ The Discovery Matching Rules screen displays.
 
 ![image](../images/08_12_Discovery_RulesTab.jpg)
 
-The Discovery screen is composed of three tabs: Matching Rules, Interface Configuration and Results. 
+The Discovery screen is composed of three tabs: Matching Rules, Interface Configuration, and Results. 
 
 - **Matching rules** tab is where the rules that govern the discovery process are defined. You can observe that the DPM already includes a set of built-in discovery rules covering the discovery of many of the common PII data fields. New rules can be added by configuration as described in the next steps of this tutorial.
 - **Interface Configuration** tab is where the databases on which the discovery process should be executed are defined. It is also in this tab where requests for this process execution are launched. 
