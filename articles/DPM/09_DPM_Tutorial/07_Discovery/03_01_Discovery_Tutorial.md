@@ -4,7 +4,7 @@ The following simulation of working within DPM Discovery will show you how to lo
 
 [Login to the System](03_02_Discovery_Login.md)
 
-[Create a New Matching Rule (Four Matching Types)](03_03_01_Discovery_NewMatchingRule_Landing.md)
+[First Tab: Matching Rules](03_03_01_Discovery_NewMatchingRule_Landing.md)
 
 [Add an Interface](04_Discovery_AddInterface.md)
 
