@@ -16,7 +16,7 @@ The Tasks we will create are:
 
 This task is automatic and verifies whether the customer already has another Request of the same type in process. 
 
-1.  From the DSAR Tutorial Flow screen, click <img src="../images/01_02_02_DSAR_New_Task_Icon.png" width="5%" height="5%">, located at the upper-right side of the screen, to add a new Task.
+1.  From the DSAR Tutorial Flow screen, click <img src="../images/01_02_02_DSAR_New_Task_Icon.png" width="10%" height="10%">, located at the upper-right side of the screen, to add a new Task.
 
 <img src="../images/01_02_02_DSAR_Check_Case_Duplication.png" width="80%" height="80%">
 
