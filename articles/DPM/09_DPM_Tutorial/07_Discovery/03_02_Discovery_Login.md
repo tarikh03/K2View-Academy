@@ -4,17 +4,15 @@ To configure the Discovery Rules, you should enter the DPM using the credentials
 
 For this tutorial, enter the following credentials to access user information with an Administrator role.
 
-**Username** - demoAdmin
+**Username** - anabelle
 
 **Password** - k2view
 
 This user is defined as an Administrator user. 
 
-<img src="../images/01_DSAR_Login_Admin.png" width="30%" height="30%">
+<img src="../images/anabelle_login.png" width="30%" height="30%">
 
 Click **Login**. 
-
-As a result, the initial screen of the Admin module displays. By default, the Regulation List screen displays. 
 
 Click ![image](../images/ICON_Discovery2.jpg) under the ADMIN menu options, located on the left side of the screen. 
 
