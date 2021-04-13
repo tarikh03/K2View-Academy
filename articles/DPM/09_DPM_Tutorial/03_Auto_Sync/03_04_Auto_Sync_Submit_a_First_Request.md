@@ -2,7 +2,7 @@
 
 The first action is to submit an initial DSAR Request. The data collected by this request is used to demonstrate the information DPM would collect about your customer prior to any change. 
 
-**Note:** in the previous steps of this tutorial you may have already submitted a DSAR request for Anabelle Deleon, and recieved as a result the PDF containing the data od this customer as they are at this point at the source systems. If so, you can skip this step of the first request and move to the next Tutorial section. 
+**Note:** in the previous steps of this tutorial you may have already submitted a DSAR request for Anabelle Deleon, and recieved as a result the PDF containing the data od this customer as they are at this point at the source systems. If so, you can skip this step of the first request and move to the next Tutorial section: [Change Your Data in the Source Systems](03_07_Auto_Sync_Submit_a_Second_Request.md) 
 
 Click ![image](../images/Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
 
