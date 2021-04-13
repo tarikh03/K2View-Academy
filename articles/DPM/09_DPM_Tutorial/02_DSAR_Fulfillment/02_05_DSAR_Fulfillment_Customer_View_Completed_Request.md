@@ -22,4 +22,4 @@ The Customer Dashboard displays. The user can access the Requests List by clicki
 
 
 
-[![Previous](/articles/images/Previous.png)]( 02_04_DSAR_Fulfillment_Case_Owner_Perform_Task.md)[<img align="right" width="60" height="54" src="/articles/images/Next.png">]( 02_00_DSAR_Fulfillment_intro.md)
+[![Previous](/articles/images/Previous.png)]( 02_04_DSAR_Fulfillment_Case_Owner_Perform_Task.md)[<p align="right"> Return to DSAR Fulfillment Process</p>](02_00_DSAR_Fulfillment_intro.md)
