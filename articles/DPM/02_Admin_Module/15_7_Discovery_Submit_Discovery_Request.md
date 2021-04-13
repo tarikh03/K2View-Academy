@@ -16,7 +16,7 @@ The result of your submission will display under the Discovery Requests section,
 
   **Note**: If you click the ![image](/articles/DPM/images/ICON_Delete.jpg) button, the system displays a dialog box, prompting “Are you sure you want to Delete Discovery Run Id:[number]?” Click the ![image](/articles/DPM/images/08_ICON_OK.png) button to remove the selected Discovery Request from the system.
 
-- Click the ![image](/articles/DPM/images/ICON_Info.jpg) button display high-level information about the submitted Request.
+- Click the ![image](/articles/DPM/images/ICON_Info.jpg) button to display high-level information about the submitted Request.
 
 ![image](/articles/DPM/images/Figure_90_Discovery_Info.jpg)
 
