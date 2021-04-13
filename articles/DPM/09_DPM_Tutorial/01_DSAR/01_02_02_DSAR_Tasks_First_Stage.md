@@ -16,19 +16,19 @@ The Tasks we will create are:
 
 This task is automatic and verifies whether the customer already has another Request of the same type in process. 
 
-1.  From the DSAR Tutorial Flow screen, click <img src="../images/01_02_02_DSAR_New_Task_Icon.png" width="10%" height="10%">, located at the upper-right side of the screen, to add a new Task.
+1.  From the DSAR Tutorial Flow screen, click ![image](../images/01_02_02_DSAR_New_Task_Icon.jpg), located at the upper-right side of the screen, to add a new Task.
 
-<img src="../images/01_02_02_DSAR_Check_Case_Duplication.png" width="80%" height="80%">
+![image](../images/01_02_02_DSAR_Check_Case_Duplication.jpg)
 
 2. Populate the fields in the **Add a Task** dialog box in the same way shown in the image above. Since this will be an automatic activity, we set the Role to be **Case_Owner**. If the automatic process fails, the Case Owner of this request will receive the failure notification. Note that the **Task Order** was set automatically to **1** because this is the first Task you created. The order can be changed later, if necessary.
 
 3. Click the **Operations** tab in the Task configuration screen, and select **caseCheckIfDuplicate** from the **Operation** drop-down list, as shown below. The caseCheckIfDuplicate operation is built-in and performs the Duplicate Case validation. The DPM System includes a long list of similar automatic operations, and any other operation that is specific to your project can be created to meet your needs.
 
-<img src="../images/01_02_02_DSAR_Check_Case_Duplication_operations.png" width="80%" height="80%">
+![image](../images/01_02_02_DSAR_Check_Case_Duplication_operations.jpg)
 
-4. The first Task is ready! Click ![image](../images/08_ICON_Save.jpg) and you will be directed back to the Flow screen, where you can continue and add the following Tasks. 
+4. The first Task is ready! Click ![image](../images/ICON_Save.jpg) and you will be directed back to the Flow screen, where you can continue and add the following Tasks. 
 
-<img src="../images/01_02_02_DSAR_Flow_One_Task.png" width="100%" height="100%">
+![image](../images/01_02_02_DSAR_Flow_One_Task.jpg)
 
 ### Get Customer ID
 
@@ -37,13 +37,13 @@ The second task is configured similarly to the first. It demonstrates how to set
 1. Add a new Task, and enter **Get Customer ID** in the **Task Name** field. Assign the Role to be a **Case_Owner** again. 
 2. Note that the system automatically suggests that the order of this Task will be 2, since this is the second task you have created. Set the **Task Order** to **1**, so that it will be executed in parallel with the first task.
 
-<img src="../images/01_02_02_DSAR_get_customer_id.png" width="80%" height="80%">
+![image](../images/01_02_02_DSAR_get_customer_id.jpg)
 
 3. Click the **Operations** tab and select the automatic operation called **getCaseCustomerId** from the **Operation** drop-down list.
 
-<img src="../images/01_02_02_DSAR_get_customer_id_operations.png" width="80%" height="80%">
+![image](../images/01_02_02_DSAR_get_customer_id_operations.jpg)
 
-4. Click ![image](../images/08_ICON_Save.jpg) to save the new Task. 
+4. Click ![image](../images/ICON_Save.jpg) to save the new Task. 
 
 ### Send notification mail to the customer
 
@@ -52,7 +52,7 @@ This third task is the last one we will configure within the first Stage. It wil
 1. Add a new Task, and enter **Send notification mail to the customer** in the **Task Name** field. 
 2. The system automatically suggests that this **Task Order** will be **2**, meaning it will run after the first two tasks were completed. The first two Tasks orders are set to **1**.
 
-<img src="../images/01_02_02_DSAR_Send_notification_mail.png" width="80%" height="80%">
+![image](../images/01_02_02_DSAR_Send_notification_mail.jpg)
 
 3. Click the **Operations** tab and select the automatic operation called **SendNewCaseCreationEmail** from the **Operation** drop-down list. As you can see below, this operation requires few inputs for its execution:
 
@@ -64,15 +64,15 @@ This third task is the last one we will configure within the first Stage. It wil
 
    - **Duplicate Case ID** - In the case that the request was identified as a duplicate, then this is the ID of the request that is already open. We get this information from the previous Task output.
 
-     <img src="../images/01_02_02_DSAR_Send_notification_mail_operations_empty.png" width="80%" height="80%">
+     ![image](../images/01_02_02_DSAR_Send_notification_mail_operations_empty.jpg)     
 
 Use the example below to select a parameter type from the drop-down list. The additional dropdowns for each line will display as you select the input type for each parameter.
 
-<img src="../images/01_02_02_DSAR_Send_notification_mail_operations.png" width="80%" height="80%">
+![image](../images/01_02_02_DSAR_Send_notification_mail_operations.jpg) 
 
 4. Click ![image](../images/08_ICON_Save.jpg) to save the new task. 
 
-<img src="../images/01_02_02_DSAR_first_stage_complete.png" width="100%" height="100%">
+![image](../images/01_02_02_DSAR_first_stage_complete.jpg) 
 
 
 
