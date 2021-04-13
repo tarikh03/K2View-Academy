@@ -4,9 +4,9 @@ In this tutorial, we will guide you through the activities that a data steward p
 
 Data Stewards are resources from different company departments, each with its area of responsibility and tasks. In the flow we have created for this tutorial, we have defined that a data steward from the legal department should review the DSAR response before it can be communicated to the customer. 
 
-Login as a user with a Case Owner role using the following credentials.
+Login as a user with a Steward role using the following credentials.
 
-- **Username**: legal
+- **Username**: anabelle
 - **Password**: k2view
 
 The DPM system displays the Data Steward Dashboard. The Dashboard should be mostly empty, because the only Request submitted so far is the DSAR Request you submitted in the first tutorial section.  
@@ -17,7 +17,7 @@ On the left side of the screen, the Data Steward menu options display.
 
 <img src="../images/02_03_DSAR_Fulfillment_Steward_Menu.png" width="30%" height="30%">
 
-Select **Task List**. The list of Tasks that are under the responsibility of this Case Owner displays.
+Select **Task List**. The list of Tasks that are under the responsibility of this Steward team displays.
 
 <img src="../images/02_03_DSAR_Fulfillment_Steward_Task_List.png" width="100%" height="100%">
 
@@ -29,7 +29,7 @@ Click the Request line in the table to display the details for this Task.
 
 <img src="../images/02_03_DSAR_Fulfillment_Steward_Task_Details.png" width="100%" height="100%">
 
-This opens the Task that includes information that the Data Steward should review. Click the <img src="../images/02_03_DSAR_Fulfillment_Steward_Get_Task.png" width="3%" height="3%"> button at the top-right of this screen to take ownership of the Task. Review the information that was provided. 
+This opens the Task that includes information that the Data Steward should review. Click the <img src="../images/02_03_DSAR_Fulfillment_Steward_Get_Task.png" width="3%" height="3%"> button at the top-right of this screen to take ownership of the Task. In a real-life project, the steward will be able to review the information that was gathered from all source systems for this customer. 
 
 Compare the data that was collected by the DPM system with the data in the source systems for the requesting customer. 
 
