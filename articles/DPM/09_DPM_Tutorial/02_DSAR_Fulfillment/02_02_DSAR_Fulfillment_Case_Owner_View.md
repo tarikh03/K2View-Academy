@@ -6,7 +6,7 @@ This process is not required as part of the fulfillment process. The purpose of 
 
 Login as a user with a Case Owner role using the following credentials.
 
-- **Username**: caseowner
+- **Username**: anabelle
 - **Password**: k2view
 
 The DPM system displays the Case Owner Dashboard. The Dashboard should be mostly empty, because the only Request submitted so far is the DSAR Request you submitted in the first tutorial section.  
