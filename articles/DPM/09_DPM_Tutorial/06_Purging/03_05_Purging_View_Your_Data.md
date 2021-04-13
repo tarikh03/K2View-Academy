@@ -2,7 +2,7 @@
 
 When the status bar reaches its end and turns fully green, the status changes to **Complete**. A status marked **Complete** means that the customer data was purged from the Source System that are integrated with the DPM, in accordance with the company's data retention policies. For this tutorial, access the two source systems we set up for simulation purposes. 
 
-Search these systems for the data that our Customer, Rick Jones, requested to be deleted. You should not be able to locate Mr. Jones's data because his data should no longer be in either system.
+Search these systems for the data that our Customer, Anabelle Deleon, requested to be deleted. You should not be able to locate the data as it is no longer in either system.
 
 [Access Source Systems](../00_Setup/00_Access_Source_Systems.md) provides details on the access to the tutorial "source systems".
 
