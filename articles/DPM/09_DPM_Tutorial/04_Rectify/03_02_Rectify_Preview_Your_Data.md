@@ -7,9 +7,11 @@ For this tutorial, preview the data you intend to rectify by accessing the two s
 Search for the data of Anabelle Deleon and observe the information it contains for the Phone and E-mail address in each system. The images below indicate the two fields to observe in each system.
 
 At the Odoo system:
+
 <img src="../images/anabelle_odoo_details.png" width="80%" height="80%">
 
 At the OSB system:
+
 <img src="../images/anabelle_osb_details.png" width="80%" height="80%">
 
 
