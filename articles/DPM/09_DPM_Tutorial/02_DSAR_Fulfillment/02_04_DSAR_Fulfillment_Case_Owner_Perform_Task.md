@@ -25,7 +25,7 @@ Click the line of the **Case Owner Review** Task. The Task details screen displa
 
 <img src="../images/02_04_DSAR_Fulfillment_Case_Owner_Review_Task.png" width="100%" height="100%">
 
-The Case Owner actions on this screen are the same actions described for the Legal Data Steward Task handling.
+From this point on, the Case Owner actions on this screen are the same actions described for the Legal Data Steward Task handling:
 
 Use the <img src="../images/02_03_DSAR_Fulfillment_Steward_Get_Task.png" width="3%" height="3%"> button at the top-right of this screen to take ownership of the Task. Review the information that was provided. 
 
