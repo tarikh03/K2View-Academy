@@ -2,7 +2,12 @@
 
 To manage your consent preferences as a customer, enter your DPM application **Username** and **Password**.
 
-![image](../images/Customer_Login.jpg)                                  
+**Username** - anabelle 
+
+**Password** - k2view
+
+<img src="../images/anabelle_login.png" width="30%" height="30%">
+                                
 
 Click **Login**.
 
