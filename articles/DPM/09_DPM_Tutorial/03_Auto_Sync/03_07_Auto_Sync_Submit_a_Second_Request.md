@@ -20,9 +20,7 @@ Select **What Do You Collect on Me?** under the "Request Type" section.
 
 The **What Do You Collect on Me?** Request Type under the **CCPA** Regulation displays an email address entry field. 
 
-**Note**: Both the type and number of fields that display under the **Request Form Fields** section of the screen depend on source system information and any options you designate for the Customer as modifiable data.
-
-Complete the field(s) on the right side of the form.  
+Indicate the email address to which the DSAR results should be sent.  
 
 ![image](../images/03_4_Auto_Sync_First_Request.jpg)     
 
