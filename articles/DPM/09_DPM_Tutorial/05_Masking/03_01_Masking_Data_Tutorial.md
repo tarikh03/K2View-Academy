@@ -14,4 +14,4 @@ The following simulation of working within DPM Requests will show you how to pre
 
 
 
-[![Previous](../images/Previous.png)]( 02_Masking_Data_Introduction.md)[<img align="right" width="60" height="54" src="../images/Next.png">](03_02_Masking_Preview_Your_Data.md)
+[![Previous](../images/Previous.png)](01_Masking_Data_Main.md)[<img align="right" width="60" height="54" src="../images/Next.png">](03_02_Masking_Preview_Your_Data.md)
