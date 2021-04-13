@@ -70,4 +70,4 @@ Note: If you click the ![image](/articles/DPM/images/ICON_Delete.jpg) button, th
 Click the ![image](/articles/DPM/images/ICON_Edit.jpg) button to edit the Matching Category, Field Type, Probability, and Matching Type.
 
 
-[![Previous](/articles/DPM/images/Previous.png)]( /articles/DPM/02_Admin_Module/15_2_Discovery_Matching_Rules_Overview.md)[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_4_Discovery_Interfaces_Overview.md)
+[![Previous](/articles/DPM/images/Previous.png)]( /articles/DPM/02_Admin_Module/15_3_Discovery_Matching_Rules_Overview.md)[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_5_Discovery_Interfaces_Overview.md)

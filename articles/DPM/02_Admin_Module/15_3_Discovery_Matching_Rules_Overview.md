@@ -1,22 +1,8 @@
-## Discovery Matching Rules Overview
-
-There are three activity phases in the Discovery Matching Rules function.
-
-- Define a set of rules to use for the PII discovery process.
-- Define interfaces (systems and databases you can connect to search for PII data).
-- Execute the discovery and review the results to determine which actions to take for each field indicated by the discovery process.
-
-Matching Rules are configured by accessing the Discovery Matching Rules menu option.
-
-![image](/articles/DPM/images/Figure_75_Discovery_LeftPanel.jpg)
-
-The “Discovery Matching Rules” screen displays.
-
 ## Matching Rules Tab Overview
 
-![image](/articles/DPM/images/Figure_76_Discovery_MatchingRulesTab.jpg)
-
 In this screen, you can define rules of how to identify where in your system the data may be Personally Identifiable Information (PII) data. 
+
+![image](/articles/DPM/images/Figure_76_Discovery_MatchingRulesTab.jpg)
 
 This functionality provides multiple possibilities for the data inspection. For example, you can inspect data by looking at the column name, by comparing the data itself to a list of values, by running a function that validates the field content, or by comparing the fields content with data in a reference table. The system has a built-in set of rules and any other rules can be built in through configuration, using this screen.
 
@@ -34,4 +20,4 @@ The Matching Type drop-down list lets you filter according to matching type. The
 - **Data Sample** – The Data Sample Matching Type lets you compare the column content with what a customer provided. You only need to load the function into the table. For example, if a customer provides a list of postal codes, where many options exist, you will not need to write out each one.
 
 
-[![Previous](/articles/DPM/images/Previous.png)](/articles/DPM/02_Admin_Module/15_1_Discovery_Introduction.md)[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_3_Discovery_Create_New_Matching_Rule.md)
+[![Previous](/articles/DPM/images/Previous.png)](/articles/DPM/02_Admin_Module/15_2_Discovery_Accessing_Discovery.md)[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_4_Discovery_Create_New_Matching_Rule.md)

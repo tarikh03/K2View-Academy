@@ -1,4 +1,4 @@
-# PII Discovery
+# Personal Data Discovery
 
 Personally Identifiable Information (PII) data is information that could be used to conduct identity theft or other crimes against a person. High-level examples of this data include healthcare information, social security numbers, bank account numbers, or credit card data. It could also be more simple information, such as last names, addresses, and birth dates. Any personal data can be an attractive target to criminals, as it can be used for an array of unlawful activities, from basic fraud to identity theft. 
 
@@ -10,4 +10,4 @@ The Discovery Matching Rules function of the DPM system lets you search database
 
 
 
-[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_2_Discovery_Matching_Rules_Overview.md)
+[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_2_Discovery_Accessing_Discovery.md)
