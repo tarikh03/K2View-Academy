@@ -1,6 +1,8 @@
 ## Navigating the Results Tab
 
-After the DPM system has searched the databases of all systems within the company for PII data, you can search within the Discovery Results at a detailed level. The Results tab displays these details, letting you narrow down the list by a number of filters. You can manage the Results List view in a variety of ways using the drop-down lists along the top of the screen. If you know the Discovery ID of the Request you submitted, you can manually enter it into the **Discovery ID** field. This is the only search option that does not provide a drop-down list of choices.
+After the DPM system has searched the databases of all systems within the company for PII data, you can search within the Discovery Results at a detailed level. The Results tab displays these details, letting you narrow down the list by a number of filters. You can manage the Results List view in a variety of ways using the drop-down lists along the top of the screen. 
+
+**Note**: If you know the Discovery ID of the Request you submitted, you can manually enter it into the **Discovery ID** field. This is the only search option that does not provide a drop-down list of choices.
 
 ### Filtering Results
 
