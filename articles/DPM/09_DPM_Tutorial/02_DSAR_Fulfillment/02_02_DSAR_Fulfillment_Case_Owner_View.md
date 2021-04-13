@@ -11,7 +11,7 @@ Login as a user with a Case Owner role using the following credentials.
 
 The DPM system displays the Case Owner Dashboard. The Dashboard should be mostly empty, because the only Request submitted so far is the DSAR Request you submitted in the first tutorial section.  
 
-<img src="../images/02_02_DSAR_Fulfillment_Case_Owner_Dashboard.png" width="100%" height="100%">
+![image](../images/02_02_DSAR_Fulfillment_Case_Owner_Dashboard.jpg)    
 
 On the left side of the screen, the Case Owner menu options display.
 
