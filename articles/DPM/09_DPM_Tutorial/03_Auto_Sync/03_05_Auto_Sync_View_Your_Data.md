@@ -1,6 +1,6 @@
 ## View Your Data in the Source Systems
 
-When the status bar reaches its end and turns fully green, the status changes to **Complete**. In a real-world environment, a status marked **Complete** means that the request fulfillment process was completed and the DPM system provided the collected customer information and sent it as response to the requesting customer. 
+When the status bar reaches its end and turns fully green, the status changes to **Complete**. A status marked **Complete** means that the request fulfillment process was completed and the DPM system provided the collected customer information and sent it as response to the requesting customer. 
 
 Review the data that was collected by the system and compate it with the customer data in the source systems. 
 
