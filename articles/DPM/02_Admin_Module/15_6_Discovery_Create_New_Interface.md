@@ -44,14 +44,6 @@ The following dialog box displays.
 </tr>
 <tr>
 <td width="85">
-<p> Probability (1 – 100%)</p>
-</td>
-<td width="785">
-<p>Set the probability  percentage of the new Matching Rule. For example, when you validate a social  security number, the 9-digit number could be an account number of the same  format. Therefore, the Probability would be lower (ex: 70%).</p>
-</td>
-</tr>
-<tr>
-<td width="85">
 <p>Schema Name Exclusion Pattern (Regex)</p>
 </td>
 <td width="785">
