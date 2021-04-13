@@ -24,7 +24,7 @@ You can now begin adding Stages to this new Flow, and under each Stage, add Task
 
 ![image](../images/01_02_01_DSAR_Empty_Flow.jpg)
 
-5. Click the ![image](../images/1_02_01_DSAR_Add_Stage_icon.jpg) button to add the first Stage. The Add a Stage dialog box displays.
+5. Click the ![image](../images/01_02_01_DSAR_Add_Stage_icon.jpg) button to add the first Stage. The Add a Stage dialog box displays.
 
 6. Enter the **Stage Name** and **Stage Description**. The first Stage we create in this tutorial is called **Case Opening**, where we will add Tasks that validate the Request, get the customer identification, and notify the customer about the case opening. 
 
