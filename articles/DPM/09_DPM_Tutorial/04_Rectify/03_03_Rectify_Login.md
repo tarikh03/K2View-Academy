@@ -4,11 +4,11 @@ For this tutorial, enter the user credentials that were provided to you upon reg
 
 In our example: 
 
-**Username** - rickjones
+**Username** - anabelle
 
 **Password** - k2view
 
-![image](../images/Customer_Login.jpg)                                  
+<img src="../images/anabelle_login.png" width="30%" height="30%">                                  
 
 Click **Login**.
 
