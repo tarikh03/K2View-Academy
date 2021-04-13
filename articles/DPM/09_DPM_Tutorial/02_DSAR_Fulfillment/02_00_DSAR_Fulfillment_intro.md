@@ -1,6 +1,6 @@
 # DSAR Fulfillment Process
 
-In the previous section of this tutorial, we prepared the Flow that executes the fulfilment process of a Data Subject Access Request (DSAR) activity, and associated it to an Activity that can be requested by a customer.  
+In the previous section of this tutorial, we prepared the Flow that implements the fulfilment process of a Data Subject Access Request (DSAR) activity, and associated it to an Activity that can be requested by a customer.  
 
 We can now demonstrate the fulfilment process itself, simulating the scenario where a customer accesses the DPM Customer User Interface, and submits a DSAR Request. 
 
