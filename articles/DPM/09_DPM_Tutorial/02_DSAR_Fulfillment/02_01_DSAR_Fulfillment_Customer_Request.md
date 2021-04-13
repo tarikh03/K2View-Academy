@@ -23,11 +23,11 @@ Once a user logs into the DPM system as a Customer, the screen is updated with t
 
 Click ![image](../images/Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
 
-![image](../images/Customer_Request_LeftPanel.jpg)     
+![image](../images/Customer_Request_LeftPanel.png)     
 
 The New Request screen displays.
 
-![image](../images/Customer_Request_Landing.jpg)
+![image](../images/Customer_Request_Landing.png)
 
 Select a Regulation from the drop-down list. For this tutorial, we will select the **Tutorial Regulation** that we created in the previous chapter.
 
