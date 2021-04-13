@@ -12,4 +12,4 @@ The following simulation of working within DPM Requests will show you how to log
 
 
 
-[![Previous](../images/Previous.png)]( 02_Purging_Data_Introduction.md)[<img align="right" width="60" height="54" src="../images/Next.png">](03_02_Purging_Login.md)
+[![Previous](../images/Previous.png)]( 01_Purging_Data_Main.md)[<img align="right" width="60" height="54" src="../images/Next.png">](03_02_Purging_Login.md)
