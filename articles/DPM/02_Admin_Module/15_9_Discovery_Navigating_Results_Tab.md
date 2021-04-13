@@ -2,7 +2,7 @@
 
 After the DPM system has searched the databases of all systems within the company for PII data, you can search within the Discovery Results at a detailed level. The Results tab displays these details, letting you narrow down the list by a number of filters. You can manage the Results List view in a variety of ways using the drop-down lists along the top of the screen. 
 
-## Filtering Results
+### Filtering Results
 
 For demonstration purposes, we will narrow down the Results list to only display returns of one parameter. 
 
