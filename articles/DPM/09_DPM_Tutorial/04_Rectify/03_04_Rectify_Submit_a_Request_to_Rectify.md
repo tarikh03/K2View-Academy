@@ -10,11 +10,10 @@ The New Request screen displays.
 
 Select a Regulation from the drop-down list. For this tutorial, we will select **CCPA**.
 
-![image](../images/06_3_Purging_DeleteMyData_Reg.jpg)  
 
-Select **Data Rectification** under the "Request Type" section.
+Select **Update My Data** under the "Request Type" section.
 
-![image](../images/04_1_Rectify_Regulation.jpg)
+![image](../images/04_rectify_update_my_data_request.jpg)
 
 The **Data Rectification** Request Type under the **CCPA** Regulation displays both phone number and email address entry fields. The entry fields that display depend on source systems and any options you designate for the Customer as modifiable data. In our example, we have selected to configure the following fields as editable:
 At the Odoo application: The fields labeled Phone and Email.
