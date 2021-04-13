@@ -55,4 +55,4 @@ As part of the sandbox environment setup, we generated user credentials for you 
 
 ## Your Customer
 
-We also created an artificial customer for you in each of the source systems, allowing you to submit Data Privacy Requests. The customer can be searched in those systems based on the name or email you provided to us in your registration. Details about how to search for this customer are described in the sections below that refer to each source system.
+We also created an artificial customer for you in each of the source systems, allowing you to submit Data Privacy Requests. The customer can be searched in those systems based on the name or email you provided to us in your registration. Details about how to search for this customer are described in the instructions that refer to each source system (see table above).
