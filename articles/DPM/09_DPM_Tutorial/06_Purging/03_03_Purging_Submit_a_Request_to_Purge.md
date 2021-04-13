@@ -15,7 +15,7 @@ Select **Delete My Data** under the "Request Type" section.
 
 ![image](../images/06_5_Purging_DeleteMyData_Req2.jpg)
 
-Complete the field(s) on the right side of the form. The **Delete My Data** Request Type under the **CCPA** Regulation displays only an email address entry field. Enter the Customer email address. Confirmation of data deletion will be sent to the email address entered into this field. 
+Complete the field(s) on the right side of the form. The **Delete My Data** Request Type under the **CCPA** Regulation displays only an email address entry field. Enter a valid email address. Confirmation of data deletion will be sent to the email address entered into this field. 
 
 ![image](../images/06_7_Purging_DeleteMyData_Req4.jpg)     
 
