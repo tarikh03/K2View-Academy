@@ -2,25 +2,21 @@
 
 We will now ask you to edit the customer data in one of the simulation source systems in order to demonstrate the seamless automatic synchronization provided by the DPM system. 
 
-We will use Open Source Billing (OSB) for this demonstration. 
+We will use Odoo CRM for this demonstration.  Follow the instructions at [Odoo Access and search ](00_Odoo_instructions.md) in order to locate the customer Anabelle Deleon and edit the E-mail and Phone of this customer. 
 
-Access Open Source Billing (OSB) application. Click the ![image](../images/ICON_OSB_Edit.jpg) icon in the **Clients** table that refers to the line showing your customer.
+Click the <img src="../images/00_odoo_edit.png" width="7%" height="7%"> icon in the upper left corner of the **Contacts** screen.
 
-![image](../images/03_11_Auto_Sync_First_OSB.jpg)
+![image](../images/03_11_Auto_Sync_Anabelle_Details.png)
 
-The Edit Client screen displays as result.
+The **Edit Client** screen displays as result.
 
-![image](../images/03_12_Auto_Sync_First_OSB.jpg)
+![image](../images/03_11_Auto_Sync_Anabelle_Edit.png)
 
-Update the **Email** address of your customer.
+Update the **Email** address as well as the **Phone** number of your customer.
 
-![image](../images/03_13_Auto_Sync_First_OSB.jpg)
+Click <img src="../images/00_odoo_save.png" width="7%" height="7%"> in the upper-left corner of the screen to save the changes. 
 
-Click ![image](../images/ICON_OSB_Save.jpg) in the upper-right corner of the screen to save the changes. 
 
-Locate the customer in the **Clients** table and observe that the change was updated in the source system.
-
-![image](../images/03_14_Auto_Sync_First_OSB.jpg)
 
 
 [![Previous](../images/Previous.png)]( 03_05_Auto_Sync_View_Your_Data.md)[<img align="right" width="60" height="54" src="../images/Next.png">]( 03_07_Auto_Sync_Submit_a_Second_Request.md)
