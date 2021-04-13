@@ -4,11 +4,10 @@ To submit the DPM Data masking request, login to the DPM using the user and pass
 
 Our user credentials are:
 
-**Username** - rickjones
+**Username** - anabelle
 
 **Password** - k2view
-
-![image](../images/Customer_Login.jpg)                                  
+<img src="../images/anabelle_login.png" width="30%" height="30%">
 
 Click **Login**.
 
