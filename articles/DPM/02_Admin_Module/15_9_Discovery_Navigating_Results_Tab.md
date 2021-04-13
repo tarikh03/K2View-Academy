@@ -1,8 +1,10 @@
 ## Navigating the Results Tab
 
-The Discovery Matching Rules function of the DPM system lets you search databases of all systems within the company for personal data that may be protected by privacy legislation. You can create rules to either match or exclude data during a database search, configure regular expression (RegEx) schemas and table patterns, and view the discovery results using an array of filters. When you Submit a Discovery Request, the system will check which Interfaces have been written and that are Active. It will run all the matching rules. The Results tab displays a list of results, letting you narrow down the list by a number of filters. You can manage the Results List view in a variety of ways using the drop-down lists along the top of the screen. 
+After the DPM system has searched the databases of all systems within the company for PII data, you can search within the Discovery Results at a detailed level. The Results tab displays these details, letting you narrow down the list by a number of filters. You can manage the Results List view in a variety of ways using the drop-down lists along the top of the screen. 
 
-Each of the fields that appear in this list was identified by the discovery process as potentially including PII data.
+## Filtering Results
+
+For demonstration purposes, we will narrow down the Results list to only display returns of one parameter. 
 
 Click the ![image](/articles/DPM/images/ICON_Clear.jpg) button to reset all criteria for returning results to the default selections.
 
