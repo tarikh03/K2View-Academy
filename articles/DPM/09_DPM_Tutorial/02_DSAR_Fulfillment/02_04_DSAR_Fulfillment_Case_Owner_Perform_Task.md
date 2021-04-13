@@ -6,7 +6,7 @@ The Case Owner review can be performed similarly to the review by the Legal Data
 
 For this tutorial, login to the DPM system as the same Case Owner user from the Case Owner View step. 
 
-- **username**: caseowner
+- **username**: anabelle
 - **Password**: k2view
 
 From the left menu, select the **Requests List** option.
