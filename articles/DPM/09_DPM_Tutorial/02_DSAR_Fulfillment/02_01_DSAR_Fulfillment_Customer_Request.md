@@ -12,7 +12,8 @@ Enter the following credentials to access user information with a Customer role.
 
 - **Password** - k2view
 
-![image](../images/anabelle_login.png)                                  
+<img src="../images/anabelle_login.png" width="30%" height="30%">
+                               
 
 Click **Login**.
 
