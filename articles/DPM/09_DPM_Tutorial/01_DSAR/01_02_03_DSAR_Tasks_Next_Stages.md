@@ -81,12 +81,13 @@ The sample Stages we will create include:
 
    
    
-   * **Customer ID** - is obtained from the task Get Customer ID from the first stage
-   * **E-mail type** - The value we use here is DSAR_CUST_FOUND, which is the e-mail layout we created for this task (personalized in your real-life implementation). 
    * **File Name** - YourData
    * **PDF** - link to the PDF that was created in the previous steps.
+   * **E-mail type** - The value we use here is DSAR_CUST_FOUND, which is the e-mail layout we created for this task (personalized in your real-life implementation).
+   * **Customer ID** - is obtained from the task Get Customer ID from the first stage
+   * **Subject** - The E-mail subject - set it to be **Your K2View Data Subject Access Request** 
    * **Recipients** - configured to be obtained from the customer when they submit the request. Set the label to be: **What is your email address?**. We use the same text as used in the task of sending confirmation mail to the customer, so that it would be asked only once as input. 
-   * **Subject** - The E-mail subject - set it to be **Your K2View Data Subject Access Request**
+  
 
 <img src="../images/01_02_03_DSAR_Customer_Notification_Operations.png" width="80%" height="80%">
 
