@@ -15,7 +15,7 @@ The DPM system displays the Case Owner Dashboard. The Dashboard should be mostly
 
 On the left side of the screen, the Case Owner menu options display.
 
-<img src="../images/02_02_DSAR_Fulfillment_Case_Owner_Menu.png" width="30%" height="30%">
+![image](../images/02_02_DSAR_Fulfillment_Case_Owner_Menu.jpg)    
 
 Select **Requests List**. The list of Requests that are under the responsibility of this Case Owner displays.
 
