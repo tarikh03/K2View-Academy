@@ -60,9 +60,9 @@ This third task is the last one we will configure within the first Stage. It wil
 
    - The customer **Email** - to which the case opening confirmation mail should be sent. We will configure the Task so that this information will be collected from the customer at the request submission moment
 
-   - Indicator whether the case is a duplicate, in order to inform the customer that the Request is rejected for this reason. We will get this information from the previous "Check Case Duplication" Task output
+   - **is duplicate** - an indicator whether the case is a duplicate, in order to inform the customer that the Request is rejected for this reason. We will get this information from the previous "Check Case Duplication" Task output
 
-   - If the request was identified as a duplicate, then what is the ID of the request that is already open? We get this information from the previous Task output.
+   - **Duplicate Case ID** - In the case that the request was identified as a duplicate, then this is the ID of the request that is already open. We get this information from the previous Task output.
 
      <img src="../images/01_02_02_DSAR_Send_notification_mail_operations_empty.png" width="80%" height="80%">
 
