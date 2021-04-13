@@ -4,7 +4,7 @@ We will now ask you to submit a second customer Request. After submitting this R
 
 At the DPM system, click ![image](../images/Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
 
-![image](../images/Customer_Request_LeftPanel.jpg)     
+![image](../images/Customer_Request_LeftPanel.png)     
 
 The New Request screen displays.
 
