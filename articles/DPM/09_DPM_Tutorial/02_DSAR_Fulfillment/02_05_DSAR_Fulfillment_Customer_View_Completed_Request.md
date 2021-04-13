@@ -9,10 +9,11 @@ There are two ways for the customer to be informed of the Request completion.
 
 To access the DPM as a customer, login with the user information that was used for submitting the request.
 
-- **Username** - rickjones
+- **Username** - anabelle
 - **Password** - k2view
 
-![image](../images/Customer_Login.jpg)                                  
+<img src="../images/anabelle_login.png" width="30%" height="30%">
+                                
 Click **Login**.
 
 The Customer Dashboard displays. The user can access the Requests List by clicking the **View Requests** button, or by selecting **Requests List** from the menu on the left side of the screen. 
