@@ -18,7 +18,7 @@ After you save the new Regulation, the screen of Activities for this Regulation 
 
 ![image](../images/01_03_DSAR_Empty_Regulation.jpg)
 
-3. Click ![image](../images/01_03_DSAR_New_Activity_Icon.jpg)to add a new Activity under this Regulation. Populate the information for this new Activity as shown below, selecting **DSAR Tutorial** in the **Flow Name** field, which is the Flow that you have created in the previous steps. 
+3. Click ![image](../images/01_03_DSAR_New_Activity_Icon.jpg) to add a new Activity under this Regulation. Populate the information for this new Activity as shown below, selecting **DSAR Tutorial** in the **Flow Name** field, which is the Flow that you have created in the previous steps. 
 
 ![image](../images/01_03_DSAR_Link_Activity_1.jpg)
 
