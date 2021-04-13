@@ -58,7 +58,7 @@ This third task is the last one we will configure within the first Stage. It wil
 
    - The **CustomerID**, which can be obtained from the previous "Get Customer ID" Task output
 
-   - The customer **Email** - to which the case opening confirmation mail should be sent. We will configure the Task so that this information will be collected from the customer at the request submission moment. 
+   - The customer **Email** - to which the case opening confirmation mail should be sent. We will configure the Task so that this information will be collected from the customer at the request submission moment. Set the label to be: **What is your email address?**
 
    - **is duplicate** - an indicator whether the case is a duplicate, in order to inform the customer that the Request is rejected for this reason. We will get this information from the previous "Check Case Duplication" Task output
 
@@ -67,8 +67,6 @@ This third task is the last one we will configure within the first Stage. It wil
      <img src="../images/01_02_02_DSAR_Send_notification_mail_operations_empty.png" width="80%" height="80%">
 
 Use the example below to select a parameter type from the drop-down list. The additional dropdowns for each line will display as you select the input type for each parameter.
-
-Note down the text that you used for asking the customer for the e-mail address. We will ask you to use the same text in another task that requires the same information. By using the same text when asking for customer input, the system identifies this is the same input parameter and present it only once to the customer.
 
 <img src="../images/01_02_02_DSAR_Send_notification_mail_operations.png" width="80%" height="80%">
 
