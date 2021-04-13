@@ -4,8 +4,6 @@ When you submit a Discovery Request, the system will check which Interfaces have
 
 Click the ![image](../images/Figure_90_Discovery_ResultsTab.jpg) tab. 
 
-The Results screen displays the granular results of clicking the ![image](/articles/DPM/images/Figure_84_Discovery_SubmitDiscRequest.jpg) button in the Interfaces Configuration tab.
-
 ![image](/articles/DPM/images/Figure_88_Discovery_ResultsTab.jpg)
 
 
