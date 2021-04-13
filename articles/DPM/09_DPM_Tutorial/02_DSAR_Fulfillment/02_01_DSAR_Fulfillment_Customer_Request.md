@@ -23,21 +23,21 @@ Once a user logs into the DPM system as a Customer, the screen is updated with t
 
 Click ![image](../images/Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
  
-<img src="../images/Customer_Request_LeftPanel.png" width="30%" height="30%">
+![image](../images/Customer_Request_LeftPanel.jpg)
 
 The New Request screen displays.
 
-![image](../images/Customer_Request_Landing.png)
+![image](../images/Customer_Request_Landing.jpg)
 
 Select a Regulation from the drop-down list. For this tutorial, we will select the **Tutorial Regulation** that we created in the previous chapter.
 
 Under the **Request Type** section of the screen, select **DSAR Tutorial Activity**, which was created in the previous chapter. 
 
-![image](../images/02_01_DSAR_Fulfillment_Submit_Request.png)  
+![image](../images/02_01_DSAR_Fulfillment_Submit_Request.jpg)  
 
 Complete the field(s) on the right side of the form. The **DSAR Tutorial Activity** Request Type displays the email address entry field that you configured in the previous section. Enter the customer email address. Confirmation of this Request completion will be sent to the email address entered into this field.    
 
-Click ![image](../images/06_ICON_Submit.jpg) to submit the Request.
+Click ![image](../images/ICON_Submit.jpg) to submit the Request.
 
 Once the Request is submitted, the customer can access the **Requests List** using the menu option on the left of the screen and view the request progress:
 
@@ -49,7 +49,7 @@ Note the progress bar below the **Request ID**. It indicates the progress of the
 
 To view additional details, click the Request entry in the table. 
 
-<img src="../images/02_01_DSAR_Fulfillment_Request_Details.png" width="30%" height="30%">
+![image](../images/02_01_DSAR_Fulfillment_Request_Details.jpg) 
 
 
 
