@@ -70,7 +70,7 @@ Use the example below to select a parameter type from the drop-down list. The ad
 
 ![image](../images/01_02_02_DSAR_Send_notification_mail_operations.jpg) 
 
-4. Click ![image](../images/08_ICON_Save.jpg) to save the new task. 
+4. Click ![image](../images/ICON_Save.jpg) to save the new task. 
 
 ![image](../images/01_02_02_DSAR_first_stage_complete.jpg) 
 
