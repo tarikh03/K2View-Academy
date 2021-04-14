@@ -13,11 +13,11 @@ Click **Login**.
 
 Once you are logged in, the Customer Landing screen is displayed. In order to reach the consent management screen from the Customer landing page, Click ![image](../images/08_ICON_ConsentManagement.png) under the CUSTOMER menu options, located on the left side of the screen. 
 
-![image](../images/08_5_Consent_CustConsent_LeftPanel.jpg)     
+![image](../images/08_Consent_Customer_LeftPanel.png)     
 
 The Consent Management screen displays, showing the current customer consent preferences.
 
-![image](../images/08_3_Consent_CustConsent_Landing.jpg)      
+![image](../images/08_Consent_Customer_Landing.png)      
 
 
 
