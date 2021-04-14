@@ -26,7 +26,7 @@ Complete the e-mail address requested on the right side of the form.
 
 ![image](../images/03_4_Auto_Sync_First_Request.png)     
 
-Click ![image](../images/06_ICON_Submit.png) to submit the Request..
+Click ![image](../images/06_ICON_Submit.png) to submit the Request.
 
 ### Ensure Your Request was Marked Complete
 
