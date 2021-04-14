@@ -35,7 +35,7 @@ Compare the data that was collected by the DPM system with the data in the sourc
 
 Once you confirm the data is correct, click <img src="../images/02_03_DSAR_Fulfillment_Complete_Task.png" width="10%" height="10%"> to prompt the system to move the Request to the next Task in the fulfillment process.
 
-Close the Task details screen and logout from the DPM. .
+Close the Task details screen and logout from the DPM.
 
 
 
