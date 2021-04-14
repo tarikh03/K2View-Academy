@@ -8,7 +8,7 @@ Create a new matching rule setting the **Match type** to be **Data Sample**.
 
 Select a **Data Samples Category** from the dropdown list. For this tutorial, select **LANGUAGE_SAMPLE**.
 
-![image](../images/07_3_Discovery_NewMatchingRule13_DataSample2.jpg)
+![image](../images/07_01_Discovery_Data_Sample.png)
 
 You can define and load any set of such reference tables as part of your project.
 
