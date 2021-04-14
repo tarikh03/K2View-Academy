@@ -37,7 +37,7 @@ The sample Stages we will create include:
 
 2. Add a new Task under this Stage called **Generate PDF File**.
 
-![image](../images/01_02_03_DSAR_File_Generation_Task.jpg)
+![image](../images/01_02_03_DSAR_File_Generation_Task1.jpg)
 
 3. Click the **Operations** tab and select the **GenerateCustomerPDF** operation. This automatic operation formats the data that was collected about the customer in a PDF. 
 
