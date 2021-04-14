@@ -17,7 +17,7 @@ The table with the submitted Requests displays. Select the Request created in th
 
 <img src="../images/02_04_DSAR_Fulfillment_Case_Owner_Review_Requests_List.png" width="100%" height="100%">
 
-Once you clicked the selected Request, the Request details screen displays. This view provides the Case Owner with the overall view of the Request progress, as well as additional information, including which Tasks contain notes. A Task that contains notes is marked with a <img src="../images/02_04_DSAR_Fulfillment_Case_Owner_Review_Notes_icon.png" width="5%" height="5%"> icon in the **Notes** column. 
+Once you clicked the selected Request, the Request details screen displays. This view provides the Case Owner with the overall view of the Request progress, as well as additional information, including which Tasks contain notes. A Task that contains notes is marked with a <img src="../images/02_04_DSAR_Fulfillment_Case_Owner_Review_Notes_icon1.png" width="5%" height="5%"> icon in the **Notes** column. 
 
 <img src="../images/02_04_DSAR_Fulfillment_Case_Owner_Review_Request_Details.png" width="100%" height="100%">
 
