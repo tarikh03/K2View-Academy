@@ -4,11 +4,11 @@ In this example, we will describe how to configure a matching rule that inspects
 
 Click the ![image](../images/ICON_NewMatchingRule.png) button at the top-right of the screen in order to configure a new matching rule. 
 
-![image](../images/07_12_Discovery_RulesTab_Callout.jpg)
+![image](../images/07_12_Discovery_RulesTab_Callout.png)
 
 The New Matching Rule dialog box displays. 
 
-![image](../images/07_1_Discovery_NewMatchingRule.jpg)
+![image](../images/07_1_Discovery_NewMatchingRule.png)
 
 Select a **Matching** **Category**. Categories are used for grouping Matching Rule topics. This field lets the user classify the new rule under an existing Category, or select **New Category** to manually enter a new one. In the image below, we chose "Contact Info", but you can use any category name.
 
