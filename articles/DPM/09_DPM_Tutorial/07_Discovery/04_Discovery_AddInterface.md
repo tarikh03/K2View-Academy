@@ -10,7 +10,7 @@ The Interfaces Configuration screen displays.
 
 ![image](../images/07_01_Discovery_Interfaces_Config.png)
 
-Click the ![image](../images/07_02_Discovery_Interfaces_Add.png) button at the top-right of the screen in order to configure a new interface. The New Discovery Interface dialog box displays. 
+Click the ![image](../images/07_02_Discovery_Interfaces_AddNew.png) button at the top-right of the screen in order to configure a new interface. The New Discovery Interface dialog box displays. 
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew2.jpg)
 
