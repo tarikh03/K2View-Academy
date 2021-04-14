@@ -14,11 +14,11 @@ Select a Regulation from the drop-down list. As with our first Request, we will 
 
 ![image](../images/03_2_Auto_Sync_First_Request.png)  
 
-Select **What Do You Collect on Me?** under the "Request Type" section.
+Select **What Do You Collect About Me?** under the "Request Type" section.
 
 ![image](../images/03_3_Auto_Sync_First_Request.png)
 
-The **What Do You Collect on Me?** Request Type under the **CCPA** Regulation displays an email address entry field. 
+The **What Do You Collect About Me?** Request Type under the **CCPA** Regulation displays an email address entry field. 
 
 Indicate the email address to which the DSAR results should be sent.  
 
