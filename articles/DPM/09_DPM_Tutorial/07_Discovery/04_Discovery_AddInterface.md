@@ -4,7 +4,7 @@ The Interfaces Configuration tab contains options for telling the system the loc
 
 ### Add an Interface
 
-Click the ![image](../images/07_Discovery_Interfaces_Tab.png) tab. 
+Click the ![image](../images/07_Discovery_Interfaces_Tab.jpg) tab. 
 
 The Interfaces Configuration screen displays.
 
