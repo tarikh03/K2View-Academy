@@ -46,7 +46,7 @@ Enter a **Table Name Exclusion Pattern** if you want the discovery process to ig
 
 ![image](../images/07_13_Discovery_InterfacesTab_CreateNew9.jpg)
 
-Review your entries as needed, and then click ![image](../images/08_ICON_Save.jpg).
+Review your entries as needed, and then click ![image](../images/ICON_Save.png).
 
 The New Discovery Interface displays in the Interfaces Configuration table. 
 
