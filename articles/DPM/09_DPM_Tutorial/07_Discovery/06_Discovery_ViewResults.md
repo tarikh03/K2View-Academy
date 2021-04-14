@@ -4,7 +4,7 @@ When you Submit a Discovery Request, the system will check which Interfaces have
 
 Each of the fields that appear in this list was identified by the discovery process as potentially including PII data. 
 
-Click the ![image](../images/07_13_Discovery_ResultsTab.jpg) tab. The Results screen displays the results of clicking <Submit Discovery Request button image> in the Interfaces tab.
+Click the ![image](../images/07_Discovery_Results_Tab.png) tab. The Results screen displays the results of clicking <Submit Discovery Request button image> in the Interfaces tab.
 
 ![image](../images/07_13_Discovery_ResultsTab1.jpg)
 
