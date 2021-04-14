@@ -18,7 +18,7 @@ In the New Consent Topic popup, populate the following fields:
 6. Define the **Duration** that the consent is considered valid at the customer level. For every customer, the consent takes effect the moment of opting-in, and then for the duration that is specified in this field. The number you enter represents the number of months the consent is valid. In this example, we entered “3” to represent 3 months. 
 7. Define the list of **Regulations** that this consent is linked to by selecting the relevant regulations from the dropdown list. The list of regulations that displays in this dropdown is defined in the Regulation List option on the Admin menu. Multiple regulations can be selected. For this example, we selected the “CCPA” and “LGPD” Regulations.
 
-![image](../images/08_18_Consent_AdminConsent_Add_All.jpg)    
+![image](../images/08_02_Consent_New.png)    
 
 Review your entries as needed, and then click ![image](../images/ICON_Save.png).
 
