@@ -15,7 +15,7 @@ This user is defined as an Administrator user.
 
 Click **Login**. 
 
-Click ![image](../images/ICON_ConsentManagement.png)  under the ADMIN menu options, located on the left side of the screen. 
+Click ![image](../images/08_ICON_ConsentManagement.png)  under the ADMIN menu options, located on the left side of the screen. 
 
 ![image](../images/08_Consent_LeftPanel.png)
 
