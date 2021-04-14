@@ -16,11 +16,11 @@ Select a Regulation from the drop-down list. For this tutorial, we will select *
 
 ![image](../images/03_2_Auto_Sync_First_Request.jpg)  
 
-Select **What Do You Collect on Me?** under the "Request Type" section.
+Select **What Do You Collect About Me?** under the "Request Type" section.
 
 ![image](../images/03_3_Auto_Sync_First_Request.jpg)
 
-The **What Do You Collect on Me?** Request Type under the **CCPA** Regulation displays an email address entry field. 
+The **What Do You Collect About Me?** Request Type under the **CCPA** Regulation displays an email address entry field. 
 
 Complete the e-mail address requested on the right side of the form.  
 
