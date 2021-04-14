@@ -23,7 +23,7 @@ At the OSB application: The fields labeled Mobile and Email.
 
 Complete the field(s) on the right side of the form with the values you want to be updated for those fields.  
 
-Click ![image](../images/06_ICON_Submit.jpg) to submit the request to rectify the Customer data.
+Click ![image](../images/06_ICON_Submit.png) to submit the request to rectify the Customer data.
 
 
 
