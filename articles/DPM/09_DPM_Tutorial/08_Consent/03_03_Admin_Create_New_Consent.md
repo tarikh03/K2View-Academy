@@ -20,7 +20,7 @@ In the New Consent Topic popup, populate the following fields:
 
 ![image](../images/08_18_Consent_AdminConsent_Add_All.jpg)    
 
-Review your entries as needed, and then click ![image](../images/08_ICON_Save.jpg).
+Review your entries as needed, and then click ![image](../images/ICON_Save.png).
 
 The New Consent displays in the Consents table. The rows are separated by Category. Since we chose “Marketing” Category in the New Consent, it displays under the Marketing Category, along with all other Consents of the same Category.
 
