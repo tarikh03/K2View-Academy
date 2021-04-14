@@ -24,9 +24,9 @@ Review your entries as needed, and then click ![image](../images/ICON_Save.png).
 
 The New Consent displays in the Consents table. The rows are separated by Category. Since we chose “Marketing” Category in the New Consent, it displays under the Marketing Category, along with all other Consents of the same Category.
 
-![image](../images/08_5_Consent_AdminConsent_Add10_Callout.jpg)     
+![image](../images/08_03_Consent_New.png)     
 
-Click ![image](../images/08_ICON_SignOut.jpg), located at the top-right corner of the screen.
+Click ![image](../images/08_ICON_SignOut.png), located at the top-right corner of the screen.
 
 
 
