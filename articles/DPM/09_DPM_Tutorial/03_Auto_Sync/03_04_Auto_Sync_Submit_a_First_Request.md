@@ -10,7 +10,7 @@ Click ![image](../images/Customer_Request.jpg) under the CUSTOMER menu options, 
 
 The New Request screen displays.
 
-![image](../images/03_1_Auto_Sync_First_Request.jpg)
+![image](../images/03_1_Auto_Sync_First_Request.png)
 
 Select a Regulation from the drop-down list. For this tutorial, we will select **CCPA**.
 
