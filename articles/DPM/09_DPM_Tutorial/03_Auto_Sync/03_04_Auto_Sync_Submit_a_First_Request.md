@@ -14,19 +14,19 @@ The New Request screen displays.
 
 Select a Regulation from the drop-down list. For this tutorial, we will select **CCPA**.
 
-![image](../images/03_2_Auto_Sync_First_Request.jpg)  
+![image](../images/03_2_Auto_Sync_First_Request.png)  
 
 Select **What Do You Collect About Me?** under the "Request Type" section.
 
-![image](../images/03_3_Auto_Sync_First_Request.jpg)
+![image](../images/03_3_Auto_Sync_First_Request.png)
 
 The **What Do You Collect About Me?** Request Type under the **CCPA** Regulation displays an email address entry field. 
 
 Complete the e-mail address requested on the right side of the form.  
 
-![image](../images/03_4_Auto_Sync_First_Request.jpg)     
+![image](../images/03_4_Auto_Sync_First_Request.png)     
 
-Click ![image](../images/06_ICON_Submit.jpg) to submit the Request.
+Click ![image](../images/06_ICON_Submit.png) to submit the Request.
 
 ### Ensure Your Request was Marked Complete
 
@@ -34,7 +34,7 @@ Once the Request is submitted, the customer can access the **Requests List** usi
 
 **Note**: It may take a few minutes for the Request to be marked as Complete. You can follow the progress by viewing the status bar. When the status bar reaches its end and turns fully green, the Request is complete.
 
-![image](../images/03_4_03_Auto_Sync_First_Request.jpg) 
+![image](../images/03_4_03_Auto_Sync_First_Request.png) 
 
 
 
