@@ -21,7 +21,7 @@ Click ![image](../images/08_ICON_ConsentManagement.png)  under the ADMIN menu op
 
 The Consent Management screen displays.
 
-![image](../images/08_21_Consent_AdminConsent_Main.jpg)
+![image](../images/08_Consent_Landing.png)
 
 
 
