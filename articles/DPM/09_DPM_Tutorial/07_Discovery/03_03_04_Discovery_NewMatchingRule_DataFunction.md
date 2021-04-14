@@ -6,11 +6,11 @@ It is defined in the same way as the previous matching types. When you select th
 
 Create a new rule and select the **Matching Type** to be **Data Function**. 
 
-![image](../images/07_3_Discovery_NewMatchingRule13_DataFunction1.jpg)
+![image](../images/07_01_Discovery_Data_Function.png)
 
 Select a **Data Function** from the dropdown list. 
 
-![image](../images/07_3_Discovery_NewMatchingRule13_DataFunction2.jpg)
+![image](../images/07_02_Discovery_Data_Function.png)
 
 You can add any function as part of your project implementation, in accordance with the validations you would like to execute. 
 
