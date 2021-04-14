@@ -4,7 +4,7 @@ After a Customer submits a new request for **Data Rectification**, the next step
 
 Click ![image](../images/06_9_Purging_RequestList_LeftPanel.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
 
-![image](../images/06_10_Purging_RequestList_LeftPanel2.jpg)     
+![image](../images/06_10_Purging_RequestList_LeftPanel2.png)     
 
 The Requests List screen displays the progress of a submitted Requests. To more easily and quickly view the one you submitted in the previous tutorial, click the up/down arrows to the right side of the **CREATED** column. This sorts the list by submission time and date, and the most recent should display at or near the top row when sorted by descending order. 
 
