@@ -18,7 +18,7 @@ Set the **Probability** percentage of the New Matching Rule. This describes the 
 
 Select the **Matching Type**. Since we want to demonstrate the discovery based on a column name, we will select a **Column** Matching Type. 
 
-![image](../images/07_7_Discovery_NewMatchingRule5.jpg)
+![image](../images/07_2_Discovery_NewMatchingRule.png)
 
 After you select a Matching Type, additional entry fields will display depending upon your selection. When you chose the **Column** matching type, the fields that display are  **Match Pattern** and **Exclude Pattern**.
 
@@ -27,17 +27,17 @@ The **Exclude Pattern** defines the pattern that you would like to ignore. The d
 
 Enter a **Match Pattern**.
 
-![image](../images/07_9_Discovery_NewMatchingRule7.jpg)
+![image](../images/07_3_Discovery_NewMatchingRule.png)
 
-Review your entries as needed, and then click ![image](../images/08_ICON_Save.jpg).
+Review your entries as needed, and then click ![image](../images/ICON_Save.png).
 
 The New Matching Rule displays in the Matching Rules table. If your table contains entries that span across multiple screen pages, you can distill the results by selecting the relevant Matching Type, or by using the Search option at the upper-right side of the table.
 
-![image](../images/07_2_Discovery_NewMatchingRule10.jpg)
+![image](../images/07_4_Discovery_NewMatchingRule.png)
 
 The New Matching Rule displays in the table.
 
-![image](../images/07_3_Discovery_NewMatchingRule11_Callout.jpg)
+![image](../images/07_5_Discovery_NewMatchingRule.png)
 
 
 
