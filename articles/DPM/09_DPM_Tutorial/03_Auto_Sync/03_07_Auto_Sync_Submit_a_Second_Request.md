@@ -8,23 +8,23 @@ At the DPM system, click ![image](../images/Customer_Request.jpg) under the CUST
 
 The New Request screen displays.
 
-![image](../images/03_1_Auto_Sync_First_Request.jpg)
+![image](../images/03_1_Auto_Sync_First_Request.png)
 
 Select a Regulation from the drop-down list. As with our first Request, we will select **CCPA**.
 
-![image](../images/03_2_Auto_Sync_First_Request.jpg)  
+![image](../images/03_2_Auto_Sync_First_Request.png)  
 
 Select **What Do You Collect on Me?** under the "Request Type" section.
 
-![image](../images/03_3_Auto_Sync_First_Request.jpg)
+![image](../images/03_3_Auto_Sync_First_Request.png)
 
 The **What Do You Collect on Me?** Request Type under the **CCPA** Regulation displays an email address entry field. 
 
 Indicate the email address to which the DSAR results should be sent.  
 
-![image](../images/03_4_Auto_Sync_First_Request.jpg)     
+![image](../images/03_4_Auto_Sync_First_Request.png)     
 
-Click ![image](../images/06_ICON_Submit.jpg) to submit the second Request.
+Click ![image](../images/06_ICON_Submit.png) to submit the second Request.
 
 ### Ensure Your Request was Marked Complete
 
