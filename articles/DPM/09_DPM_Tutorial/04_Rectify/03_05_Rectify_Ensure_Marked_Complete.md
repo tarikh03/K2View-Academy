@@ -8,17 +8,17 @@ Click ![image](../images/06_9_Purging_RequestList_LeftPanel.jpg) under the CUSTO
 
 The Requests List screen displays the progress of a submitted Requests. To more easily and quickly view the one you submitted in the previous tutorial, click the up/down arrows to the right side of the **CREATED** column. This sorts the list by submission time and date, and the most recent should display at or near the top row when sorted by descending order. 
 
-![image](../images/04_3_Rectify_RequestList.jpg)
+![image](../images/04_3_Rectify_RequestList.png)
 
 Locate your Request.
 
 **Note**: It may take a few moments for the system to rectify the data. You can follow the progress by viewing the status bar. When the status bar reaches its end and turns fully green, the data rectification is complete.
 
-![image](../images/04_4_Rectify_RequestList.jpg)
+![image](../images/04_4_Rectify_RequestList.png)
 
 Click the line of your request to display the Request Details screen containing additional information about your request. 
 
-![image](../images/04_5_Rectify_RequestList.jpg)
+![image](../images/04_5_Rectify_RequestList.png)
 
 Click the ![image](../images/06_ICON_Close.jpg) button to close the dialog box and return to the Requests List.
 
