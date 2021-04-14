@@ -14,13 +14,13 @@ This user is defined as an Administrator user.
 
 Click **Login**. 
 
-Click ![image](../images/ICON_Discovery2.jpg) under the ADMIN menu options, located on the left side of the screen. 
+Click ![image](../images/ICON_Discovery2.png) under the ADMIN menu options, located on the left side of the screen. 
 
-![image](../images/08_1_Discovery_LeftPanel.jpg)
+![image](../images/08_1_Discovery_LeftPanel.png)
 
 The Discovery Matching Rules screen displays.
 
-![image](../images/08_12_Discovery_RulesTab.jpg)
+![image](../images/08_12_Discovery_RulesTab.png)
 
 The Discovery screen is composed of three tabs: Matching Rules, Interface Configuration, and Results. 
 
