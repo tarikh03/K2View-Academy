@@ -11,7 +11,7 @@ For this tutorial, login to the DPM system as the same Case Owner user from the 
 
 From the left menu, select the **Requests List** option.
 
-<img src="../images/02_04_DSAR_Fulfillment_Case_Owner_Review_Menu.png" width="30%" height="30%">
+![image](../images/02_02_DSAR_Fulfillment_Case_Owner_Menu.jpg)
 
 The table with the submitted Requests displays. Select the Request created in the previous steps. In the example below, it is the top Request in the table. The red circle next to the Request status indicates that this Request includes at least one Task that is overdue.
 
