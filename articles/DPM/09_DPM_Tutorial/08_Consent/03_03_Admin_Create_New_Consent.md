@@ -2,11 +2,11 @@
 
 The first step in consent management is to configure what are the consent topics that should be obtained from your customers.
 
-To configure a new Consent Topic, click the <img src="../images/08_Consent_new_Icon.png" width="10%" height="10%"> button at the top-right of the Consent Management screen. 
+To configure a new Consent Topic, click the ![image](../images/08_ICON_Consent_New_Topic.png) button at the top-right of the Consent Management screen. 
 
 The New Consent dialog box displays.
 
-<img src="../images/08_ICON_Consent_New_Topic.png" width="40%" height="40%">     
+![image](../images/08_01_Consent_New.png)     
 
 In the New Consent Topic popup, populate the following fields:
 
