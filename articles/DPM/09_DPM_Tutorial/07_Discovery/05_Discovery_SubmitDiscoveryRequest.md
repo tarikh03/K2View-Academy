@@ -4,7 +4,7 @@ When you Submit a Discovery Request, the system will check which Interfaces have
 
 Click the ![image](../images/ICON_SubmitDiscovery.png) button, located in the lower-right of the Interfaces Configuration screen. The request you submitted will display under the Discovery Requests section, located along the bottom of the Interfaces Configuration tab.
 
-![image](../images/07_13_Discovery_InterfacesTab_CreateNew10.jpg)
+![image](../images/07_Discovery_Interfaces_Submit_Request.png)
 
 
 
