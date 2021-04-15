@@ -27,7 +27,7 @@ Click ![image](../images/Customer_Request.png) under the CUSTOMER menu options, 
 
 The New Request screen displays.
 
-![image](../images/Customer_Request_Landing.jpg)
+![image](../images/Customer_Request_Landing.png)
 
 Select a Regulation from the drop-down list. For this tutorial, we will select the **Tutorial Regulation** that we created in the previous chapter.
 
