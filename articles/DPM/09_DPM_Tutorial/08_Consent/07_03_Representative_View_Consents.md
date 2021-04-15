@@ -4,11 +4,11 @@ The Consent Management functionality at the Representative level is equal to the
 
 Enter the **Customer ID**.
 
-![image](../images/08_6_Consent_RepConsent_Landing1.jpg)                                   
+![image](../images/08_01_Consent_Rep_Search.png)                                   
 
 Click the ![image](../images/08_ICON_Search.png) button. The customer Consents list displays.
 
-![image](../images/08_7_Consent_RepConsent_Landing2.jpg)
+![image](../images/08_02_Consent_Rep_Search.png)
   
 
 
