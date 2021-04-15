@@ -22,35 +22,35 @@ The following example shows the **New Discovery Interface** screen populated wit
 
 ![image](../images/07_03_Discovery_Interfaces_New.png)
 
-For this tutorial, select **dbMySQL**.
+For this tutorial, select **dbSalesforce**.
 
-![image](../images/07_13_Discovery_InterfacesTab_CreateNew4.jpg)
+![image](../images/07_04_Discovery_Interfaces_New.png)
 
 Enter a **Catalog Pattern**. For this tutorial, enter **/^Phone**. 
 
-![image](../images/07_13_Discovery_InterfacesTab_CreateNew5.jpg)
+![image](../images/07_05_Discovery_Interfaces_New.png)
 
 Enter a **Schema Name Inclusion Pattern** if you want the discovery process to scan only tables under specific schemas. 
 
-![image](../images/07_13_Discovery_InterfacesTab_CreateNew6.jpg)
+![image](../images/07_06_Discovery_Interfaces_New.png)
 
 Enter a **Schema Name Exclusion Pattern** if you want the discovery process to ignore specific schemas.  
 
-![image](../images/07_13_Discovery_InterfacesTab_CreateNew7.jpg)
+![image](../images/07_07_Discovery_Interfaces_New.png)
 
 Enter a **Table Name Inclusion Pattern** if you want the discovery process to scan only tables with a specific name pattern.
 
-![image](../images/07_13_Discovery_InterfacesTab_CreateNew8.jpg)
+![image](../images/07_08_Discovery_Interfaces_New.png)
 
 Enter a **Table Name Exclusion Pattern** if you want the discovery process to ignore tables with a specific name pattern.
 
-![image](../images/07_13_Discovery_InterfacesTab_CreateNew9.jpg)
+![image](../images/07_03_Discovery_Interfaces_New.png)
 
 Review your entries as needed, and then click ![image](../images/ICON_Save.png).
 
 The New Discovery Interface displays in the Interfaces Configuration table. 
 
-![image](../images/07_13_Discovery_InterfacesTab_CreateNew11.jpg)
+![image](../images/07_09_Discovery_Interfaces_New.png)
 
 
 
