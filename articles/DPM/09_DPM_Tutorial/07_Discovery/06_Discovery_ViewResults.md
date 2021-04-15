@@ -6,7 +6,7 @@ Each of the fields that appear in this list was identified by the discovery proc
 
 Click the ![image](../images/07_Discovery_Results_Tab.png) tab. The Results screen displays the results of clicking <Submit Discovery Request button image> in the Interfaces tab.
 
-![image](../images/07_13_Discovery_ResultsTab1.jpg)
+![image](../images/07_Discovery_Results.png)
 
 
 
