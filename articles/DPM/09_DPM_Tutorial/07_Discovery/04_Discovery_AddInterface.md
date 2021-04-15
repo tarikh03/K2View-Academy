@@ -12,15 +12,15 @@ The Interfaces Configuration screen displays.
 
 Click the ![image](../images/07_02_Discovery_Interfaces_AddNew.png) button at the top-right of the screen in order to configure a new interface. The New Discovery Interface dialog box displays. 
 
-![image](../images/07_13_Discovery_InterfacesTab_CreateNew2.jpg)
+![image](../images/07_01_Discovery_Interfaces_New.png)
 
 Select an **Interface**. This list will include all the systems with which the DPM is integrated in your company and is configured in the DPM fabric studio, as part of your project configuration.
 
-![image](../images/07_13_Discovery_InterfacesTab_CreateNew3.jpg)
+![image](../images/07_02_Discovery_Interfaces_New.png)
 
 The following example shows the **New Discovery Interface** screen populated with sample information.
 
-![image](../images/07_13_Discovery_InterfacesTab_CreateNew9.jpg)
+![image](../images/07_03_Discovery_Interfaces_New.png)
 
 For this tutorial, select **dbMySQL**.
 
