@@ -2,7 +2,7 @@
 
 We will now ask you to submit a second customer Request. After submitting this Request, you will see that the changes made in the source system are synchronized with the DPM system and are included in the data collected for the second DSAR request.  
 
-At the DPM system, click ![image](../images/Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
+At the DPM system, click ![image](../images/Customer_Request.png) under the CUSTOMER menu options, located on the left side of the screen. 
 
 <img src="../images/Customer_Request_LeftPanel.png" width="30%" height="30%">
 
