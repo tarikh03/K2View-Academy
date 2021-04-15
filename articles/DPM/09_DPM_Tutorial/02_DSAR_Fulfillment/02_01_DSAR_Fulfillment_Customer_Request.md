@@ -49,7 +49,7 @@ Note the progress bar below the **Request ID**. It indicates the progress of the
 
 To view additional details, click the Request entry in the table. 
 
-![image](../images/02_01_DSAR_Fulfillment_Request_Details.jpg) 
+![image](../images/02_01_DSAR_Fulfillment_Request_Details.png) 
 
 
 
