@@ -10,7 +10,7 @@ A dialog box displays, verifying that you want to turn on the consent.
 
 ![image](../images/08_Consent_Opt_In_Message.png)                                   
 
-Click ![image](../images/08_ICON_OK.png) to turn on the consent. 
+Click ![image](../images/ICON_OK.png) to turn on the consent. 
 
 The On/Off slider is turned to “On”.
 
@@ -24,7 +24,7 @@ A dialog box displays, verifying that you want to turn off the consent.
 
 ![image](../images/08_Consent_Opt_Out_Message.png) 
 
-Click ![image](../images/08_ICON_OK.png) to turn off the consent. 
+Click ![image](../images/ICON_OK.png) to turn off the consent. 
 
 The On/Off slider is turned to “Off”.
 
