@@ -4,7 +4,7 @@
 
 Locate a Consent in the Consents table. Under the ACTIONS column, turn the On/Off slider to On to opt-in to the selected Consent.
 
-![image](../images/08_8_Consent_RepConsent_Landing3.jpg)  
+![image](../images/08_01_Consent_Rep_OptIn_OptOut.png)  
 
 A dialog box displays, verifying that you want to turn on the consent.
 
@@ -14,7 +14,7 @@ Click ![image](../images/ICON_OK.png) to turn on the consent.
 
 The On/Off slider is turned to “On”.
 
-![image](../images/08_10_Consent_RepConsent_OptIn.jpg)  
+![image](../images/08_02_Consent_Rep_OptIn_OptOut.png)  
 
 **Opt-Out of a Consent**
 
@@ -28,7 +28,7 @@ Click ![image](../images/ICON_OK.png) to turn off the consent.
 
 The On/Off slider is turned to “Off”.
 
-![image](../images/08_8_Consent_RepConsent_Landing3.jpg)
+![image](../images/08_01_Consent_Rep_OptIn_OptOut.png)
 
 
 
