@@ -2,7 +2,7 @@
 
 In the previous steps, we configured a Flow that performs the Tasks to retrieve customer data.
 
-For this Flow to be visible to a customer who wants to submit a Request, it should be associated with an Activity, under a specific Regulation. You can read more details about [Regulations](articles/DPM/02_Admin_Module/08_Regulations.md) and [Activities](/articles/DPM/02_Admin_Module/09_Activities.md) in the DPM User Guide. 
+For this Flow to be visible to a customer who wants to submit a Request, it should be associated with an Activity, under a specific Regulation. You can read more details about [Regulations](/articles/DPM/02_Admin_Module/08_Regulations.md) and [Activities](/articles/DPM/02_Admin_Module/09_Activities.md) in the DPM User Guide. 
 
 We will now create a new Regulation, add a new Activity under it, and then we will associate the "DSAR Tutorial" Flow. 
 
