@@ -6,7 +6,7 @@ Enter the **Customer ID**.
 
 ![image](../images/08_6_Consent_RepConsent_Landing1.jpg)                                   
 
-Click the ![image](../images/08_ICON_Search.jpg) button. The customer Consents list displays.
+Click the ![image](../images/08_ICON_Search.png) button. The customer Consents list displays.
 
 ![image](../images/08_7_Consent_RepConsent_Landing2.jpg)
   
