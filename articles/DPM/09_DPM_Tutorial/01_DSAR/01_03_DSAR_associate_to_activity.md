@@ -24,8 +24,8 @@ After you save the new Regulation, the screen of Activities for this Regulation 
 
 This screen allows additional configurations, including the following examples.
 
-- Use the ![image](../images/01_03_DSAR_Link_Activity_Allow_Extension_Icon.jpg) icon in order to allow extension of the duration of the Activity.
-- Use the ![image](../images/01_03_DSAR_Link_Activity_Automatic_Extension_Icon.jpg) icon, which will result in automatic extension of the Activity SLA before it becomes overdue. The **Days Before Due Date** field defines how many days before the due date of a Request the automatic extension should be triggered.  
+- Use the ![image](../images/01_03_DSAR_Link_Activity_Allow_Extension_Icon.png) icon in order to allow extension of the duration of the Activity.
+- Use the ![image](../images/01_03_DSAR_Link_Activity_Automatic_Extension_Icon.png) icon, which will result in automatic extension of the Activity SLA before it becomes overdue. The **Days Before Due Date** field defines how many days before the due date of a Request the automatic extension should be triggered.  
 
 ![image](../images/01_03_DSAR_Link_Activity_2.png)
 
