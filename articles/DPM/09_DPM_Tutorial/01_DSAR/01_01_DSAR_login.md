@@ -16,7 +16,7 @@ This user is defined with the permissions of the different roles that are presen
 
 As a result, the initial screen of the Admin module displays. 
  
-![image](../images/01_DSAR_Regulation_list_screen.jpg)
+![image](../images/01_DSAR_Regulation_list_screen.png)
 
 
 
