@@ -37,7 +37,7 @@ Under the **Request Type** section of the screen, select **DSAR Tutorial Activit
 
 Complete the field(s) on the right side of the form. The **DSAR Tutorial Activity** Request Type displays the email address entry field that you configured in the previous section. Enter the customer email address. Confirmation of this Request completion will be sent to the email address entered into this field.    
 
-Click ![image](../images/ICON_Submit.jpg) to submit the Request.
+Click ![image](../images/ICON_Submit.png) to submit the Request.
 
 Once the Request is submitted, the customer can access the **Requests List** using the menu option on the left of the screen and view the request progress:
 
