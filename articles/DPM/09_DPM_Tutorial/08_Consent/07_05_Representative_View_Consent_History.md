@@ -10,17 +10,17 @@ Click the **Consents History** tab.
 
 The Consents History screens displays.
 
-![image](../images/08_14_Consent_RepConsent_History.jpg)
+![image](../images/08_01_Consent_History.png)
 
 **Search for Consents**
 
 To search a specific consent, use the "Search" option at the top-right of the Consents History table.
 
-![image](../images/08_15_Consent_RepConsent_HistorySearch.jpg)
+![image](../images/08_02_Consent_History.png)
 
 Enter a keyword to display all Consent histories where the keyword appears. For this example, enter "Advertisting". The Consents History table automatically displays all instances where "Advertising" appears in the action history.
 
-![image](../images/08_16_Consent_RepConsent_HistorySearch2.jpg)
+![image](../images/08_03_Consent_History.png)
 
 
 ### Logout of the System
