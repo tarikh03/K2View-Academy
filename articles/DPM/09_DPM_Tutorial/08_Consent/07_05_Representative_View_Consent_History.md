@@ -6,7 +6,7 @@ Any change that the Representative performed in the consent preferences (example
 
 Click the **Consents History** tab. 
 
-![image](../images/08_2_Consent_CustConsent_ConsentsHistoryTabCallout.jpg)                                
+![image](../images/08_Consent_Cust_Rep_Tabs.png)                                
 
 The Consents History screens displays.
 
