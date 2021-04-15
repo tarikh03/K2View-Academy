@@ -33,7 +33,7 @@ Saving the new Activity makes the new Flow we created available for customers to
 
 ![image](../images/01_03_DSAR_Link_Activity_3.png)
 
-The submission and execution of such requests is described in the next section of this tutorial: [DSAR Request Execution]().  
+The submission and execution of such requests is described in the next section of this tutorial: [DSAR Fulfillment Process](/articles/DPM/09_DPM_Tutorial/02_DSAR_Fulfillment/02_00_DSAR_Fulfillment_intro.md).  
 
   
 
