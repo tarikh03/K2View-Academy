@@ -23,7 +23,7 @@ Once a user logs into the DPM system as a Customer, the screen is updated with t
 
 Click ![image](../images/Customer_Request.png) under the CUSTOMER menu options, located on the left side of the screen. 
  
-![image](../images/Customer_Request_LeftPanel.jpg)
+![image](../images/Customer_Request_LeftPanel.png)
 
 The New Request screen displays.
 
