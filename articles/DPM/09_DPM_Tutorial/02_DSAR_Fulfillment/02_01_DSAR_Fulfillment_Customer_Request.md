@@ -19,7 +19,7 @@ Click **Login**.
 
 Once a user logs into the DPM system as a Customer, the screen is updated with two frames (windows) of information. The left frame displays a list of menu options for this module. The right frame displays the interactive components of the selection. The Dashboard screen displays by default after logging into the system.
 
-![image](../images/Customer_Dashboard.png)    
+![image](../images/Customer_Dashboard.jpg)    
 
 Click ![image](../images/Customer_Request.png) under the CUSTOMER menu options, located on the left side of the screen. 
  
@@ -33,7 +33,7 @@ Select a Regulation from the drop-down list. For this tutorial, we will select t
 
 Under the **Request Type** section of the screen, select **DSAR Tutorial Activity**, which was created in the previous chapter. 
 
-![image](../images/02_01_DSAR_Fulfillment_Submit_Request.jpg)  
+![image](../images/02_01_DSAR_Fulfillment_Submit_Request.png)  
 
 Complete the field(s) on the right side of the form. The **DSAR Tutorial Activity** Request Type displays the email address entry field that you configured in the previous section. Enter the customer email address. Confirmation of this Request completion will be sent to the email address entered into this field.    
 
