@@ -4,7 +4,7 @@ The first action is to submit an initial DSAR Request. The data collected by thi
 
 **Note:** in the previous steps of this tutorial you may have already submitted a DSAR request for Anabelle Deleon, and recieved as a result the PDF containing the data od this customer as they are at this point at the source systems. If so, you can skip this step of the first request and move to the next Tutorial section: [Change Your Data in the Source Systems](03_06_Auto_Sync_Change_Your_Data.md) 
 
-Click ![image](../images/Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
+Click ![image](../images/Customer_Request.png) under the CUSTOMER menu options, located on the left side of the screen. 
 
 <img src="../images/Customer_Request_LeftPanel.png" width="30%" height="30%">
 
