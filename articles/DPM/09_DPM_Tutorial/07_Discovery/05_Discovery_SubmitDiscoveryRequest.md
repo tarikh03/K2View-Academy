@@ -6,6 +6,8 @@ Click the ![image](../images/ICON_SubmitDiscovery.png) button, located in the lo
 
 ![image](../images/07_Discovery_Interfaces_Submit_Request.png)
 
+**Note**: Click ![image](/articles/DPM/images/Figure_89_Discovery_Refresh.jpg) to refresh the list of results that display under the Discovery Requests table. It may take a few minutes for the DPM system to return your results, and that time may vary based upon the parameters you entered prior to initiating the data dicovery.
+
 
 
 [![Previous](../images/Previous.png)]( 04_Discovery_AddInterface.md)[<img align="right" width="60" height="54" src="../images/Next.png">](06_Discovery_ViewResults.md)
