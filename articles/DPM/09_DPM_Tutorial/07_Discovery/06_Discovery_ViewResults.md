@@ -8,6 +8,8 @@ Click the ![image](../images/07_Discovery_Results_Tab.png) tab.
 
 ![image](../images/07_Discovery_Results.png)
 
+For additional information about navigating the Results tab, refer to the DPM User Guide [Navigating the Results Tab](/articles/DPM/02_Admin_Module/15_9_Discovery_Navigating_Results_Tab.md).
+
 
 
 [![Previous](../images/Previous.png)]( 05_Discovery_SubmitDiscoveryRequest.md)[<p align="right"> Return to Discovery Tutorial</p>](01_Discovery_Main.md)
