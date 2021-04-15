@@ -1,8 +1,8 @@
 ### Logout of the System
 
-Click ![image](../images/08_ICON_SignOut.jpg), located at the top-right corner of the screen.
+Click ![image](../images/08_ICON_SignOut.png), located at the top-right corner of the screen.
 
-![image](../images/08_ICON_SignOut.png)
+![image](../images/image.png)
 
 
 
