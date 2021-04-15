@@ -6,7 +6,7 @@ Any change that the Customer performed in the consent preferences (example: opt-
 
 Click the **Consents History** tab. 
 
-![image](../images/08_01_Consent_Customer_History.png)                                
+![image](../images/08_Consent_Cust_Rep_Tabs.png)                                
 
 The Consents History screens displays.
 
