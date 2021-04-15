@@ -2,7 +2,7 @@
 
 Click ![image](../images/08_ICON_SignOut.png), located at the top-right corner of the screen.
 
-![image](../images/image.png)
+![image](../images/08_Consent_Rep_SignOut.png)
 
 
 
