@@ -8,30 +8,30 @@ We will now create a new Regulation, add a new Activity under it, and then we wi
 
 1. Select the menu option **Regulation List**.
 
-![image](../images/01_03_DSAR_Admin_Menu_Regulation.jpg)
+![image](../images/01_03_DSAR_Admin_Menu_Regulation.png)
 
-2. Click ![image](../images/01_03_DSAR_New_Regulation_Icon.jpg) at the top-right of the Regulation List screen, to create a new Regulation. Populate the information for this new Regulation as shown below. 
+2. Click ![image](../images/01_03_DSAR_New_Regulation_Icon.png) at the top-right of the Regulation List screen, to create a new Regulation. Populate the information for this new Regulation as shown below. 
 
-![image](../images/01_03_DSAR_New_Regulation_Popup.jpg)
+![image](../images/01_03_DSAR_New_Regulation_Popup.png)
 
 After you save the new Regulation, the screen of Activities for this Regulation displays, initially empty because no Activity has been created. 
 
-![image](../images/01_03_DSAR_Empty_Regulation.jpg)
+![image](../images/01_03_DSAR_Empty_Regulation.png)
 
-3. Click ![image](../images/01_03_DSAR_New_Activity_Icon.jpg) to add a new Activity under this Regulation. Populate the information for this new Activity as shown below, selecting **DSAR Tutorial** in the **Flow Name** field, which is the Flow that you have created in the previous steps. 
+3. Click ![image](../images/01_03_DSAR_New_Activity_Icon.png) to add a new Activity under this Regulation. Populate the information for this new Activity as shown below, selecting **DSAR Tutorial** in the **Flow Name** field, which is the Flow that you have created in the previous steps. 
 
-![image](../images/01_03_DSAR_Link_Activity_1.jpg)
+![image](../images/01_03_DSAR_Link_Activity_1.png)
 
 This screen allows additional configurations, including the following examples.
 
 - Use the ![image](../images/01_03_DSAR_Link_Activity_Allow_Extension_Icon.jpg) icon in order to allow extension of the duration of the Activity.
 - Use the ![image](../images/01_03_DSAR_Link_Activity_Automatic_Extension_Icon.jpg) icon, which will result in automatic extension of the Activity SLA before it becomes overdue. The **Days Before Due Date** field defines how many days before the due date of a Request the automatic extension should be triggered.  
 
-![image](../images/01_03_DSAR_Link_Activity_2.jpg)
+![image](../images/01_03_DSAR_Link_Activity_2.png)
 
 Saving the new Activity makes the new Flow we created available for customers to submit Requests based on the Flow.  
 
-![image](../images/01_03_DSAR_Link_Activity_3.jpg)
+![image](../images/01_03_DSAR_Link_Activity_3.png)
 
 The submission and execution of such requests is described in the next section of this tutorial: [DSAR Request Execution]().  
 
