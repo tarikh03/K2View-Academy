@@ -28,5 +28,5 @@ Select **New Request** to submit a new Request for the customer, or select **Man
 
 Click the ![image](/articles/DPM/images/Figure_41_Representative_Clear.png) button to clear the Search field and enter a new search term.
 
-[![Previous](/articles/DPM/images/Previous.png)](/articles/DPM/03_Representantive_User_Interface/02_Representative_User_Interface_Search.md)
+[![Previous](/articles/DPM/images/Previous.png)](/articles/DPM/03_Representantive_User_Interface/03_Representative_User_Interface_Submit.md)
 
