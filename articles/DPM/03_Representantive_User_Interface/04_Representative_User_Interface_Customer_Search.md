@@ -26,7 +26,7 @@ Locate your customer and click the ![image](/articles/DPM/images/ICON_Search.png
 
 Select **New Request** to submit a new Request for the customer, or select **Manage Consents** to view or update the customer's consent preferences. Refer to the DPM User Guide  sections and  for more information.
 
-
+Click the ![image](/articles/DPM/images/image.png) button to clear the Search field and enter a new search term.
 
 [![Previous](/articles/DPM/images/Previous.png)](/articles/DPM/03_Representantive_User_Interface/02_Representative_User_Interface_Search.md)
 
