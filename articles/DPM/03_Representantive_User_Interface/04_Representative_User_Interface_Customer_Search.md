@@ -24,7 +24,7 @@ Locate your customer and click the ![image](/articles/DPM/images/Figure_43_Repre
 
 ![image](/articles/DPM/images/Figure_44_Representative_FindCustomers.png)
 
-Select **New Request** to submit a new Request for the customer, or select **Manage Consents** to view or update the customer's consent preferences. Refer to the DPM User Guide  sections and  for more information.
+Select **New Request** to submit a new Request for the customer, or select **Manage Consents** to view or update the customer's consent preferences. Refer to the DPM User Guide  chapters [Submit a Request](/articles/DPM/02_Admin_Module/03_Representative_User_Interface_Submit.md) and [Representative Consent Management on Customer's Behalf](/articles/DPM/02_Admin_Module/07_CSR_Consent_User_Interface.md) for more information.
 
 Click the ![image](/articles/DPM/images/Figure_41_Representative_Clear.png) button to clear the Search field and enter a new search term.
 
