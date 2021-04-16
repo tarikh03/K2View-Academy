@@ -68,9 +68,9 @@ The following image demonstrates the information the DPM requests the Administra
 
 In this example of an operation that sends emails, three input parameters are required: Subject, Body and Recipients. To demonstrate the different types of input types, each of those three fields was defined as one of the three types: 
 
-- The field "Subject” was defined as “Value”, meaning the administrator can define a fixed text that will be presented as the subject of the mail. The system presents to the administrator the field where the text should be written
-- The field “Body” was defined as “Link”, and as a result the system presents to the administrator the fields Stage Name, Task Name and Output Name. The administrator can define from which previous Task the information for this field is to be received. 
-- The field “Recipients” was defined as “input”, meaning the customer will be requested to provide this value at the moment of submitting a request. The system presents to the administrator the field “Label”, which defines the text that will be presented to the customer so he will know to provide the recipient email address.
+- The field **subject** was defined as **Value**, meaning the administrator can define a fixed text that will be presented as the subject of the mail. The system presents to the administrator the field where the text should be written
+- The field **body** was defined as **Link**, and as a result the system presents to the administrator the fields Stage Name, Task Name and Output Name. The administrator can define from which previous Task the information for this field is to be received. 
+- The field **recipients** was defined as **Input**, meaning the customer will be requested to provide this value at the moment of submitting a request. The system presents to the administrator the field “Label”, which defines the text that will be presented to the customer so he will know to provide the recipient email address.
 
 [![Previous](/articles/DPM/images/Previous.png)](/articles/DPM/02_Admin_Module/06_Reminders.md)[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/08_Regulations.md)
 
