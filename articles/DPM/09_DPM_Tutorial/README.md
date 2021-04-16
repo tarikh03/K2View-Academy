@@ -14,11 +14,6 @@ In order to demonstrate the implementation of our DPM application, we created an
 
 The two applications that represent the source systems in this tutorial were selected for the purpose of demonstrating concepts. In a real-world implementation, you will of course connect to whichever and as many source applications your company uses. 
 
-## Environment Setup 
-
-Follow the link below to access the step-by-step instructions that will generate your dedicated sandbox environment:
-
-[Environment Setup]( 00_Setup/00_Environment_Setup.md) 
 
 ### Meet the Tutorial “Source Systems”
 
