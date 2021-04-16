@@ -26,7 +26,7 @@ You can continue to narrow your search for PII data by selecting additional filt
 
 ### Clearing the Results Filters
 
-Click the ![image](/articles/DPM/images/ICON_Clear.jpg) button to reset all criteria for returning results to the default selections.
+Click the ![image](/articles/DPM/images/ICON_Clear.png) button to reset all criteria for returning results to the default selections.
 
 
 
