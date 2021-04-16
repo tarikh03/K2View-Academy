@@ -1,12 +1,12 @@
 ## Add an Interface Configuration
 
-Click the ![image](/articles/DPM/images/Figure_85_Discovery_AddInterface.jpg) button at the top-right of the screen in order to configure a new Interface.
+Click the ![image](/articles/DPM/images/Figure_85_Discovery_AddInterface.png) button at the top-right of the screen in order to configure a new Interface.
 
-![image](/articles/DPM/images/Figure_87_Discovery_AddInterface_Callout.jpg)
+![image](/articles/DPM/images/Figure_87_Discovery_AddInterface_Callout.png)
 
 The following dialog box displays.
 
-![image](/articles/DPM/images/Figure_81_Discovery_NewInterface.jpg)
+![image](/articles/DPM/images/Figure_81_Discovery_NewInterface.png)
 
 <table>
 <tbody>
