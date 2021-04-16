@@ -15,7 +15,7 @@ A dialog box displays, defining information for the import activity.
 
 ![image](/articles/DPM/images/Figure_7_import_Flow_screen.png)
 
-Select <b>Choose File</b> to select the file that contains the Flow configuration (generated as a result of the export in the previous step).
+Select <b>File to import</b> to select the file that contains the Flow configuration (generated as a result of the export in the previous step).
 After the file is selected, the DPM loads the configuration. It identifies the Flow name and version of the imported Flow, and then displays the following information under the <b>File Content View/Edit</b> section of the dialog box.
 
 ![image](/articles/DPM/images/Figure_7_imported_Flow_example.png)
