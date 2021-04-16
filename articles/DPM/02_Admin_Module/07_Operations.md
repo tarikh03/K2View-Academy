@@ -4,7 +4,7 @@ The Operations tab allows the Admin to add an automated Activity to be executed 
 
 The user selects an Operation from the operation dropdown list. As a result, the list of parameters to be defined for the selected Operation is dynamically presented in the “inputs” section of the tab. Some operations may not need any parameters. 
 
-As an example, for a Task that should execute the Operation “SendMail” the system expects the parameters “Message”, “Subject” and “to” as configured items. 
+As an example, for a Task that should execute the Operation **SendEmailTo**, the system expects the parameters **subject**, **body** and **recipients** as configured items. 
 
  ![image](/articles/DPM/images/Figure_17_Task_configuration_Operation_tab.png)
 
