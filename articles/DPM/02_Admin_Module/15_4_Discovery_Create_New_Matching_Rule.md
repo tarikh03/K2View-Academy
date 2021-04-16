@@ -1,12 +1,12 @@
 ## Create a New Matching Rule
 
-Click the ![image](/articles/DPM/images/Figure_82_Discovery_NewMatchingRule.jpg) button at the top-right of the screen in order to configure a new Matching Rule.
+Click the ![image](/articles/DPM/images/Figure_82_Discovery_NewMatchingRule.png) button at the top-right of the screen in order to configure a new Matching Rule.
 
-![image](/articles/DPM/images/Figure_83_Discovery_MatchingRulesTab_Callout.jpg)
+![image](/articles/DPM/images/Figure_83_Discovery_MatchingRulesTab_Callout.png)
 
 The following dialog box displays.
 
-![image](/articles/DPM/images/Figure_78_Discovery_NewMatchingRule.jpg)
+![image](/articles/DPM/images/Figure_78_Discovery_NewMatchingRule.png)
 
 <table>
 <tbody>
