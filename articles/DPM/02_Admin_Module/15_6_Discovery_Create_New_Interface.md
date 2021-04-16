@@ -79,11 +79,11 @@ The following dialog box displays.
 
 ###  Edit or Delete an Interface
 
-Use the ![image](/articles/DPM/images/ICON_Delete.jpg) button to delete an Interface. 
+Use the ![image](/articles/DPM/images/Figure_4_3_Delete.png) button to delete an Interface. 
 
-**Note**: If you click the ![image](/articles/DPM/images/ICON_Delete.jpg) button, the system displays a dialog box, prompting “Are you sure you want to Delete Interface: [InterfaceName]?” Click the ![image](/articles/DPM/images/08_ICON_OK.png) button to remove the selected Interface from the system.
+**Note**: If you click the ![image](/articles/DPM/images/Figure_4_3_Delete.png) button, the system displays a dialog box, prompting “Are you sure you want to Delete Interface: [InterfaceName]?” Click the ![image](/articles/DPM/images/08_ICON_OK.png) button to remove the selected Interface from the system.
 
-Click the ![image](/articles/DPM/images/ICON_Edit.jpg) button to edit the Interface name, Schema information, and table information.
+Click the ![image](/articles/DPM/images/Figure_4_2_Edit.png) button to edit the Interface name, Schema information, and table information.
 
 
 
