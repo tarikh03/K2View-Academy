@@ -46,7 +46,7 @@ Any Flow can have multiple versions. A new version should be created when a chan
 
 ### Create New Flow
 
-The Administrator creates a new Flow by selecting the “Add a Flow” button at the top-right corner of the screen. 
+The Administrator creates a new Flow by clicking the ![image](/articles/DPM/images/Figure_4_1_New_Flow.png) button at the top-right corner of the screen. 
 The Administrator is then prompted to define the Flow name, version, and description, as shown by the next image and defined by the subsequent table.
 
  ![image](/articles/DPM/images/Figure_5_New_Flow.png)
