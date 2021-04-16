@@ -2,7 +2,7 @@
 
 In this screen, you can define rules of how to identify where in your system the data may be Personally Identifiable Information (PII) data. 
 
-![image](/articles/DPM/images/Figure_76_Discovery_MatchingRulesTab.jpg)
+![image](/articles/DPM/images/Figure_76_Discovery_MatchingRulesTab.png)
 
 This functionality provides multiple possibilities for the data inspection. For example, you can inspect data by looking at the column name, by comparing the data itself to a list of values, by running a function that validates the field content, or by comparing the fields content with data in a reference table. The system has a built-in set of rules and any other rules can be built in through configuration, using this screen.
 
@@ -17,7 +17,7 @@ The types of rules you can create are as followed:
 
 The Matching Type drop-down list lets you filter according to matching type. 
 
-![image](/articles/DPM/images/Figure_77_Discovery_MatchingType.jpg)
+![image](/articles/DPM/images/Figure_77_Discovery_MatchingType.png)
 
 
 [![Previous](/articles/DPM/images/Previous.png)](/articles/DPM/02_Admin_Module/15_2_Discovery_Accessing_Discovery.md)[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_4_Discovery_Create_New_Matching_Rule.md)
