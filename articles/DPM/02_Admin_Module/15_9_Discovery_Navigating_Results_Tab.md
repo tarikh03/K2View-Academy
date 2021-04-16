@@ -10,17 +10,17 @@ For demonstration purposes, we will narrow down the Results list to only display
 
 Click the **Column** drop-down list.
 
-![image](/articles/DPM/images/Figure_91_Discovery_Results_Filter.jpg)
+![image](/articles/DPM/images/Figure_91_Discovery_Results_Filter.png)
 
 You can either enter select a Column name by scrolling through the drop-down list, or you can enter a search term. The scope of the Results list narrows after each letter or number you enter into the field. For this example, we will enter **email** into the **Column** drop-down search field.
 
-![image](/articles/DPM/images/Figure_92_Discovery_Results_EnterFilter.jpg)
+![image](/articles/DPM/images/Figure_92_Discovery_Results_EnterFilter.png)
 
 You can observe that the options in the drop-down list change to only include the letter(s) or number(s) you entered into the field. 
 
 Enter your search criteria and press the Return key on your keyboard. The Results List displays all discovery search returns that contain a **Column** name pattern containing **email**.
 
-![image](/articles/DPM/images/Figure_93_Discovery_Results_Filtered.jpg)
+![image](/articles/DPM/images/Figure_93_Discovery_Results_Filtered.png)
 
 You can continue to narrow your search for PII data by selecting additional filter criteria. 
 
