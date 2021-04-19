@@ -12,9 +12,13 @@ The Edit Client screen displays as result.
 
 ![image](../images/03_12_Auto_Sync_First_OSB.jpg)
 
-Update the **Email** address of your customer.
+Update the **Phone** number of your customer.
 
 ![image](../images/03_13_Auto_Sync_First_OSB.jpg)
+
+Update the **City** of your customer.
+
+![image](../images/image.jpg)
 
 Click ![image](../images/ICON_OSB_Save.jpg) in the upper-right corner of the screen to save the changes. 
 
