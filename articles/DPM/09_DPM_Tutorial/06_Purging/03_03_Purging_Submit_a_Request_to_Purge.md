@@ -5,11 +5,11 @@ Click ![image](../images/Customer_Request.png) under the REPRESENTATIVE menu opt
 
 ![image](../images/06_Purging_Login.png)    
 
-The Consent Management screen displays.
+The New Request screen displays.
 
 ![image](../images/06_Purging_New_Request.png) 
 
-Select a Regulation from the drop-down list. For this tutorial, we will select **CCPA**.
+Select a Regulation from the drop-down list. For this tutorial, we will select **CCPA**. When submitting a New Request, the Representative first selects the applicable Regulation for the customer from the Regulation dropdown list and enters the customer number in the Customer field. The Representative can also add Notes to the Request before submission.
 
 Select **Delete My Data** under the "Request Type" section.
 
