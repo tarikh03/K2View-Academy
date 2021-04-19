@@ -2,7 +2,7 @@
 
 The following simulation of working within DPM Requests will show you how to log in to DPM as a Representative, submit a Request on the customer's behalf, ensure your Request was marked Complete, and view your purged data in the demo "Source Systems".
 
-[Login to the System as a Customer](03_02_Purging_Login.md)
+[Login to the System as a Representative](03_02_Purging_Login.md)
 
 [Submit a Request to Purge Data](03_03_Purging_Submit_a_Request_to_Purge.md)
 
