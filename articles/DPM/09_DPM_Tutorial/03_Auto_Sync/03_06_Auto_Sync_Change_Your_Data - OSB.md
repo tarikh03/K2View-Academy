@@ -6,23 +6,23 @@ We will use Open Source Billing (OSB) for this demonstration.
 
 Access Open Source Billing (OSB) application. Click the ![image](../images/ICON_OSB_Edit.jpg) icon in the **Clients** table that refers to the line showing your customer.
 
-![image](../images/03_11_Auto_Sync_First_OSB.png)
+![image](../images/03_01_Auto_Sync_First_OSB.png)
 
 The Edit Client screen displays as result.
 
-![image](../images/03_12_Auto_Sync_First_OSB.png)
+![image](../images/03_02_Auto_Sync_First_OSB.png)
 
 Update the **Mobile** number of your customer.
 
-![image](../images/03_13_Auto_Sync_First_OSB.jpg)
+![image](../images/03_03_Auto_Sync_First_OSB.png)
 
 Update the **City** of your customer.
 
-![image](../images/image.jpg)
+![image](../images/03_04_Auto_Sync_First_OSB.png)
 
 Review your changes to the customer **Mobile** number and **City**.
 
-![image](../images/image.jpg)
+![image](../images/03_05_Auto_Sync_First_OSB.png)
 
 Click ![image](../images/ICON_OSB_Save.jpg) in the upper-right corner of the screen to save the changes. 
 
