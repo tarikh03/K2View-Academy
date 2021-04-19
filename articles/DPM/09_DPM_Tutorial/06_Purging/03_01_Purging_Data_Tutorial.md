@@ -1,6 +1,6 @@
 ## Purging Data Tutorial
 
-The following simulation of working within DPM Requests will show you how to log in to DPM, submit a Request, ensure your Request was marked Complete, and view your purged data in the demo "Source Systems".
+The following simulation of working within DPM Requests will show you how to log in to DPM as a Representative, submit a Request on the customer's behalf, ensure your Request was marked Complete, and view your purged data in the demo "Source Systems".
 
 [Login to the System as a Customer](03_02_Purging_Login.md)
 
