@@ -12,7 +12,7 @@ The Edit Client screen displays as result.
 
 ![image](../images/03_12_Auto_Sync_First_OSB.jpg)
 
-Update the **Phone** number of your customer.
+Update the **Mobile** number of your customer.
 
 ![image](../images/03_13_Auto_Sync_First_OSB.jpg)
 
