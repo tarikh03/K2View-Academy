@@ -1,6 +1,6 @@
 ## Results Tab Overview
 
-When you submit a Discovery Request, the system will check which Interfaces have been written and that are Active. The Results tab displays the details of every Request you have submitted. These details include search returns based on parameters you entered when adding or editing interfaces in the Interfaces Configuration tab; therefore, each of the fields that appear in this list was identified by the discovery process as potentially including PII data. 
+The Results tab displays the results of every submitted discovery request. For each discovery request, this tab displays the list of fields that the process identified as potentially including PII data. 
 
 Click the ![image](../images/Figure_90_Discovery_ResultsTab.png) tab. 
 
