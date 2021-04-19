@@ -14,7 +14,7 @@ Once a user logs into the DPM system as a Representative, the screen is updated 
 
 ![image](../images/08_Consent_Rep_Landing.png)      
 
-Click ![image](../images/08_ICON_ConsentManagement.png) under the REPRESENTATIVE menu options, located on the left side of the screen. 
+Click ![image](../images/Customer_Request.png) under the REPRESENTATIVE menu options, located on the left side of the screen. 
 
 ![image](../images/06_Purging_Login.png)    
 
