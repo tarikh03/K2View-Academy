@@ -14,7 +14,7 @@ The steps in this demonstrations include:
 
 3. Perform a data change for Anabelle in one of the "source systems".
 
-4. Submit a second DSAR for your customer You will observe that the data change in the "source system" is automatically captured by the DPM System, and is reflected in the data collected by the DSAR activity.
+4. Submit a second DSAR for your customer. You will observe that the data change in the "source system" is automatically captured by the DPM System, and is reflected in the data collected by the DSAR activity.
 
 To streamline the execution of the two DSARs in this section, we will use a fully automated DSAR Flow, so that the results can be obtained without any intervention.
 
