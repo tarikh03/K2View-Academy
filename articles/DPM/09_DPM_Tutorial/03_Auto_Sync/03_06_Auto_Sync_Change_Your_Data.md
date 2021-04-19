@@ -4,7 +4,7 @@ We will now ask you to edit the customer data in one of the simulation source sy
 
 We will use Odoo CRM for this demonstration.  Follow the instructions at [Odoo Access and search ](00_Odoo_instructions.md) in order to locate the customer Anabelle Deleon and edit the City and Phone of this customer. 
 
-Click the ![image](../images/00_odoo_edit.png) icon in the upper left corner of the **Contacts** screen.
+Click the ![image](../images/00_odoo_edit.png) icon in the upper left corner of the **Contacts** screen..
 
 ![image](../images/03_11_Auto_Sync_Anabelle_Details.png)
 
