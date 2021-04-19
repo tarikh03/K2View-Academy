@@ -10,7 +10,7 @@ The result of your submission will display under the Discovery Requests section,
 
 ### Managing the Request
 
-- Click ![image](/articles/DPM/images/Figure_89_Discovery_Refresh.png) to refresh the list of results that display under the Discovery Requests table. It may take a few minutes for the DPM system to return your results, and that time may vary based upon the parameters you entered prior to initiating the data dicovery.
+- Click ![image](/articles/DPM/images/Figure_89_Discovery_Refresh.png) to refresh the list of results that display under the Discovery Requests table. It may take a few minutes for the DPM system to return your results, and that time may vary based upon the parameters you entered prior to initiating the data discovery.
 
 - Click the ![image](/articles/DPM/images/Figure_4_3_Delete.png) button to delete the Discovery Request. 
 
