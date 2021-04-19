@@ -6,13 +6,19 @@ We will use Odoo CRM for this demonstration.  Follow the instructions at [Odoo A
 
 Click the <img src="../images/00_odoo_edit.png" width="7%" height="7%"> icon in the upper left corner of the **Contacts** screen.
 
-![image](../images/03_11_Auto_Sync_Anabelle_Details.png)
+![image](../images/Image.png)
 
 The **Edit Client** screen displays as result.
 
 ![image](../images/03_11_Auto_Sync_Anabelle_Edit.png)
 
 Update the **Phone** number as well as the **City** of your customer.
+
+![image](../images/03_12_Auto_Sync_Anabelle_Edit.png)
+
+Verify your changes to the customer **Mobile** number and **City**.
+
+![image](../images/03_13_Auto_Sync_Anabelle_Edit.png)
 
 Click <img src="../images/00_odoo_save.png" width="7%" height="7%"> in the upper-left corner of the screen to save the changes. 
 
