@@ -4,7 +4,7 @@ The Interfaces Configuration tab contains options for telling the system the loc
 
 This tab has two main functions: 
 
-- At the upper part of this screen you tell system which are the databases that you want to scan. For each database that you select, you can also define, with the help of regular expressions (regex), rules that include or exclude some of the schemas and tables that are found in this database. The list of databases interfaces that you can select from comes from your Fabric implementation. See Fabric Studio user guide [Interfaces chapter] (/articles/05_DB_interfaces/01_interfaces_overview.md) for more details about defining interfaces.  
+- At the upper part of this screen you tell system which are the databases that you want to scan. For each database that you select, you can also define, with the help of regular expressions (regex), rules that include or exclude some of the schemas and tables that are found in this database. The list of databases interfaces that you can select from comes from your Fabric implementation. See Fabric Studio user guide [Interfaces chapter](/articles/05_DB_interfaces/01_interfaces_overview.md) for more details about defining interfaces.  
 
 - At the lower part of the screen you can submit a request for the actual scan execution. As a result of submitting a request, the system executes the scan of the databases you selected at the upper part of the screen, applying on each the rules you defined in the Matching Rules tab.
 
