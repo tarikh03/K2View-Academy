@@ -17,8 +17,9 @@ Select **Update My Data** under the "Request Type" section.
 The **Update My Data** Request Type under the **CCPA** Regulation allows you to specify the E-mail to which the request confirmation should be sent, and displays both City and Phone number entry fields to capture the information that should be rectified in the source systems. 
 
 The entry fields that the form displays depend on source systems and any options you designate for the Customer as modifiable data. In our example, we have selected to configure the following fields as editable:
-At the Odoo application: The fields labeled City and Phone.
-At the OSB application: The fields labeled City and Mobile.
+
+-At the Odoo application: The fields labeled City and Phone.
+-At the OSB application: The fields labeled City and Mobile.
 
 Complete the field(s) on the right side of the form with the values you want to be updated for those fields.  
 
