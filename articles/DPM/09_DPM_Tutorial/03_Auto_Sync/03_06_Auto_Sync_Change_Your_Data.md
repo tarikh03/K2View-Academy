@@ -12,7 +12,7 @@ The **Edit Client** screen displays as result.
 
 ![image](../images/03_11_Auto_Sync_Anabelle_Edit.png)
 
-Update the **Email** address as well as the **City** of your customer.
+Update the **Phone** number as well as the **City** of your customer.
 
 Click <img src="../images/00_odoo_save.png" width="7%" height="7%"> in the upper-left corner of the screen to save the changes. 
 
