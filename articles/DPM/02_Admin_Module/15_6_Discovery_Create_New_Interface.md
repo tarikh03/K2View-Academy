@@ -39,7 +39,7 @@ The following dialog box displays.
 <p>Schema Name Inclusion Pattern (Regex)</p>
 </td>
 <td width="785">
-<p>Define a filter based on the database schema name that you want to **include** in the discovery process.</p>
+  <p>Define a filter based on the database schema name that you want to <b>include</b> in the discovery process.</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ The following dialog box displays.
 <p>Schema Name Exclusion Pattern (Regex)</p>
 </td>
 <td width="785">
-<p>Define a filter based on the database schema name that you want to **exclude** in the discovery process.</p>
+<p>Define a filter based on the database schema name that you want to <b>exclude</b> in the discovery process.</p>
 </td>
 </tr>
 <tr>
