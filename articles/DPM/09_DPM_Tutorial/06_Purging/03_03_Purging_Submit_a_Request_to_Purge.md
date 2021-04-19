@@ -1,13 +1,13 @@
 ## Submit a Request to Purge Data
 
 To submit a data purging request for this customer:
-Click ![image](../images/Customer_Request.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
+Click ![image](../images/Customer_Request.png) under the REPRESENTATIVE menu options, located on the left side of the screen. 
 
-<img src="../images/Customer_Request_LeftPanel.png" width="30%" height="30%">
+![image](../images/06_Purging_Login.png)    
 
-The New Request screen displays.
+The Consent Management screen displays.
 
-![image](../images/Customer_Request_Landing.png)
+![image](../images/06_Purging_New_Request.png) 
 
 Select a Regulation from the drop-down list. For this tutorial, we will select **CCPA**.
 
