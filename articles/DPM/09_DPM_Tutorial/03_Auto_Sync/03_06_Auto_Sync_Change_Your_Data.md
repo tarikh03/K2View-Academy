@@ -6,7 +6,7 @@ We will use Odoo CRM for this demonstration.  Follow the instructions at [Odoo A
 
 Click the <img src="../images/00_odoo_edit.png" width="7%" height="7%"> icon in the upper left corner of the **Contacts** screen.
 
-![image](../images/Image.png)
+![image](../images/03_11_Auto_Sync_Anabelle_Details.png)
 
 The **Edit Client** screen displays as result.
 
