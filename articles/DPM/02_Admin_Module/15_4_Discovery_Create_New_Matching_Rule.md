@@ -1,5 +1,7 @@
 ## Create a New Matching Rule
 
+The matching rules define what logic is used to detect PII data when scanning your source systems databases. You can add as many new rules as required. 
+ 
 Click the ![image](/articles/DPM/images/Figure_82_Discovery_NewMatchingRule.png) button at the top-right of the screen in order to configure a new Matching Rule.
 
 ![image](/articles/DPM/images/Figure_83_Discovery_MatchingRulesTab_Callout.png)
