@@ -18,8 +18,8 @@ The **Update My Data** Request Type under the **CCPA** Regulation allows you to 
 
 The entry fields that the form displays depend on source systems and any options you designate for the Customer as modifiable data. In our example, we have selected to configure the following fields as editable:
 
-- At the Odoo application: The fields labeled City and Phone.
-- At the OSB application: The fields labeled City and Mobile.
+- In the Odoo application: The fields labeled City and Phone.
+- In the OSB application: The fields labeled City and Mobile.
 
 Complete the field(s) on the right side of the form with the values you want to be updated for those fields.  
 
