@@ -2,7 +2,7 @@
 
 We will now ask you to edit the customer data in one of the simulation source systems in order to demonstrate the seamless automatic synchronization provided by the DPM system. 
 
-We will use Odoo CRM for this demonstration.  Follow the instructions at [Odoo Access and search ](00_Odoo_instructions.md) in order to locate the customer Anabelle Deleon and edit the E-mail and Phone of this customer. 
+We will use Odoo CRM for this demonstration.  Follow the instructions at [Odoo Access and search ](00_Odoo_instructions.md) in order to locate the customer Anabelle Deleon and edit the City and Phone of this customer. 
 
 Click the <img src="../images/00_odoo_edit.png" width="7%" height="7%"> icon in the upper left corner of the **Contacts** screen.
 
@@ -12,7 +12,7 @@ The **Edit Client** screen displays as result.
 
 ![image](../images/03_11_Auto_Sync_Anabelle_Edit.png)
 
-Update the **Email** address as well as the **Phone** number of your customer.
+Update the **Email** address as well as the **City** number of your customer.
 
 Click <img src="../images/00_odoo_save.png" width="7%" height="7%"> in the upper-left corner of the screen to save the changes. 
 
