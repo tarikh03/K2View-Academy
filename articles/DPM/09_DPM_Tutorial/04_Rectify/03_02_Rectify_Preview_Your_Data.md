@@ -4,7 +4,7 @@ For this tutorial, preview the data you intend to rectify by accessing the two s
 
 [Access Source Systems](../00_Setup/00_Access_Source_Systems.md) provides details on the access to the tutorial "source systems".
 
-Search for the data of Anabelle Deleon and observe the information it contains for the Phone and E-mail address in each system. The images below indicate the two fields to observe in each system.
+Search for the data of Anabelle Deleon and observe the information it contains for the Phone number and City in each system. The images below indicate the two fields to observe in each system.
 
 At the Odoo system:
 
