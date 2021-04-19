@@ -1,7 +1,7 @@
 ## Create a New Matching Rule
 
 The matching rules define what logic is used to detect PII data when scanning your source systems databases. You can add as many new rules as required. 
- 
+
 Click the ![image](/articles/DPM/images/Figure_82_Discovery_NewMatchingRule.png) button at the top-right of the screen in order to configure a new Matching Rule.
 
 ![image](/articles/DPM/images/Figure_83_Discovery_MatchingRulesTab_Callout.png)
@@ -25,7 +25,7 @@ The following dialog box displays.
 <p> Matching  Category</p>
 </td>
 <td width="785">
-<p>Select a category that is defined within this  option. Select <b>+New Category</b> from the drop-down to create a new category. After selecting <b>+New Category<b> you can type any text in the Category field.</p>
+    <p>Select a category that is defined within this  option. Select <b>+New Category</b> from the drop-down to create a new category. After selecting <b>+New Category</b> you can type any text in the Category field.</p>
 </td>
 </tr>
 <tr>
@@ -62,6 +62,7 @@ The following dialog box displays.
 </tr>
 </tbody>
 </table>
+
 
 ### Edit or Delete a Matching Rule
 
