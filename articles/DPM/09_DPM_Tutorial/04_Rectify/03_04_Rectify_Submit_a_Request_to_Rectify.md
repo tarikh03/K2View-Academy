@@ -10,16 +10,15 @@ The New Request screen displays.
 
 Select a Regulation from the drop-down list. For this tutorial, we will select **CCPA**.
 
-
 Select **Update My Data** under the "Request Type" section.
 
 ![image](../images/04_rectify_update_my_data_request.png)
 
-The **Update My Data** Request Type under the **CCPA** Regulation allows you to specify the E-mail to which the request confirmation should be sent, and displays both phone number and E-mail address entry fields to capture the information that should be rectified in the source systems. 
+The **Update My Data** Request Type under the **CCPA** Regulation allows you to specify the E-mail to which the request confirmation should be sent, and displays both City and Phone number entry fields to capture the information that should be rectified in the source systems. 
 
 The entry fields that the form displays depend on source systems and any options you designate for the Customer as modifiable data. In our example, we have selected to configure the following fields as editable:
-At the Odoo application: The fields labeled Phone and Email.
-At the OSB application: The fields labeled Mobile and Email.
+At the Odoo application: The fields labeled City and Phone.
+At the OSB application: The fields labeled City and Mobile.
 
 Complete the field(s) on the right side of the form with the values you want to be updated for those fields.  
 
