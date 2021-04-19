@@ -23,7 +23,7 @@ The following dialog box displays.
 <p> Interface</p>
 </td>
 <td width="785">
-<p>Select an interface from the drop-down list. For example, select “dbsalesforce”. This list is populated by options configured in the DPM fabric software. </p>
+<p>Select an interface from the drop-down list. This list is populated by options configured in the Fabric Studio [Interfaces](/articles/05_DB_interfaces/01_interfaces_overview.md).</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +31,7 @@ The following dialog box displays.
 <p>Catalog Pattern (Regex)</p>
 </td>
 <td width="785">
-<p>Information Needed</p>
+<p>This field allows you to configure a filter on the schemas/tables that are searched based on the database catalog, using regular expressions (regex).</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ The following dialog box displays.
 <p>Schema Name Inclusion Pattern (Regex)</p>
 </td>
 <td width="785">
-<p>All tables in the database are defined in the Schema part of the DPM fabric software Creator Interface. For example, for a new Interface called “dbsalesforce”, select “SFORCE” from the Schema Name Inclusion Pattern drop-down list.</p>
+<p>Define a filter based on the database schema name that you want to **include** in the discovery process.</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ The following dialog box displays.
 <p>Schema Name Exclusion Pattern (Regex)</p>
 </td>
 <td width="785">
-<p>All tables in the database are defined in the Schema part of the fabric software Creator Interface. For example, for a new Interface called “dbsalesforce”, select “PUBLIC” from the Schema Name Exclusion Pattern drop-down list.</p>
+<p>Define a filter based on the database schema name that you want to **exclude** in the discovery process.</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ The following dialog box displays.
 <p>Table Name Inclusion Pattern (Regex)</p>
 </td>
 <td width="785">
-<p>Refine your search further by telling the system to include specific tables. For example, you can include the database tables for all instances of “ACCOUNT.” </p>
+<p>Refine your search further by telling the system to include specific tables, using regex. For example, you can include the database tables for all tables that their name matches the regular expression “ACCOUNT.” </p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ The following dialog box displays.
 <p>Table Name Exclusion Pattern (Regex)</p>
 </td>
 <td width="785">
-<p>Refine your search further by telling the system to exclude specific tables. For example, you can exclude searching the database tables for all instances of “ACCOUNT.” </p>
+<p>Refine your search further by telling the system to exclude specific tables, using regex. For example, you can exclude searching the database tables for all instances of “ACCOUNT.” </p>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ The following dialog box displays.
 <p>Active</p>
 </td>
 <td width="785">
-<p>The “Active” slider is turned to “On” by default. Turn the slider to “Off” if you do not want the new Interface to be active in the table.</p>
+<p>The “Active” slider is turned to “On” by default. Turn the slider to “Off” if you do not want the Interface to be submitted to the discovery process in the next executions. You can later switch it to "On" or "Off" at any point of time</p>
 </td>
 </tr>
 </tbody>
