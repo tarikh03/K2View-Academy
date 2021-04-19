@@ -55,7 +55,7 @@ The following dialog box displays.
 <p>Table Name Inclusion Pattern (Regex)</p>
 </td>
 <td width="785">
-<p>Refine your search further by telling the system to include specific tables, using regex. For example, you can include the database tables for all tables that their name matches the regular expression “ACCOUNT.” </p>
+<p>Refine your search further by telling the system to <b>include</b> specific tables, using regex. For example, you can include the database tables for all tables that their name matches the regular expression “ACCOUNT.” </p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ The following dialog box displays.
 <p>Table Name Exclusion Pattern (Regex)</p>
 </td>
 <td width="785">
-<p>Refine your search further by telling the system to exclude specific tables, using regex. For example, you can exclude searching the database tables for all instances of “ACCOUNT.” </p>
+<p>Refine your search further by telling the system to <b>exclude</b> specific tables, using regex. For example, you can exclude searching the database tables for all instances of “ACCOUNT.” </p>
 </td>
 </tr>
 <tr>
