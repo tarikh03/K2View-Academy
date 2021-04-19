@@ -14,7 +14,7 @@ Click **Login**.
 
 Once a user logs into the DPM system as an Customer, the Customer landing page displays by default.
 
-![image](../images/04_6_Rectify_Dashboard.png)    
+![image](../images/Customer_Dashboard.png)    
 
 
 
