@@ -57,7 +57,7 @@ The following dialog box displays.
 <p>Matching Type</p>
 </td>
 <td width="785">
-<p>Select the Matching Type.  Choose between Column, Data, Data Function, and Data Sample. The differences between those options are described in the previous section</p>
+<p>Select the Matching Type.  Choose between Column, Data, Data Function, and Data Sample. The differences between those options are described in the previous page</p>
 </td>
 </tr>
 </tbody>
