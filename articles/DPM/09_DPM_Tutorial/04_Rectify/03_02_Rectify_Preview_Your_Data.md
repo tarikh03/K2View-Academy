@@ -8,11 +8,11 @@ Search for the data of Anabelle Deleon and observe the information it contains f
 
 In the Odoo system:
 
-<img src="../images/anabelle_odoo_details.png" width="80%" height="80%">
+![image](../images/03_11_Auto_Sync_Anabelle_Edit.png)
 
 In the OSB system:
 
-<img src="../images/anabelle_osb_details.png" width="80%" height="80%">
+![image](../images/03_02_Auto_Sync_First_OSB.png)
 
 
 
