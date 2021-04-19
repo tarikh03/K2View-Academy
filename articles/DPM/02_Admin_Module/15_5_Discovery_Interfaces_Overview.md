@@ -16,5 +16,6 @@ The Interfaces Configuration screen displays.
 ![image](../images/Figure_79_Discovery_InterfacesTab.png)
 
 
+The next pages provide additional explanations about those options. 
 
 [![Previous](/articles/DPM/images/Previous.png)]( /articles/DPM/02_Admin_Module/15_4_Discovery_Create_New_Matching_Rule.md)[<img align="right" width="60" height="54" src="/articles/DPM/images/Next.png">](/articles/DPM/02_Admin_Module/15_6_Discovery_Create_New_Interface.md)
