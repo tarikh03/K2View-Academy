@@ -18,7 +18,7 @@ Click **Login**.
 
 The Customer Dashboard displays. The user can access the Requests List by clicking the **View Requests** button, or by selecting **Requests List** from the menu on the left side of the screen. 
 
-![image](../images/Customer_Dashboard.jpg)    
+![image](../images/Customer_Dashboard.png)    
 
 
 
