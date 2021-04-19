@@ -22,9 +22,6 @@ Update the **City** of your customer.
 
 Click ![image](../images/ICON_OSB_Save.jpg) in the upper-right corner of the screen to save the changes. 
 
-Locate the customer in the **Clients** table and observe that the change was updated in the source system.
-
-![image](../images/03_14_Auto_Sync_First_OSB.jpg)
 
 
 [![Previous](../images/Previous.png)]( 03_05_Auto_Sync_View_Your_Data.md)[<img align="right" width="60" height="54" src="../images/Next.png">]( 03_07_Auto_Sync_Submit_a_Second_Request.md)
