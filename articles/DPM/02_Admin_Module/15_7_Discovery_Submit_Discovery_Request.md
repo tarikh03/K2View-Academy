@@ -18,7 +18,7 @@ The result of your submission will display under the Discovery Requests section,
 
 - Click the ![image](/articles/DPM/images/ICON_Info.png) button to display high-level information about the submitted Request. This information describes the list of interfaces and filters that was used in this request, as in the example below. 
 
-<img src="/articles/DPM/images/Figure_90_Discovery_Info.png" width="60%" height="60%">![image](https://user-images.githubusercontent.com/64497262/115260809-7682e700-a109-11eb-88e5-bd01380ff98d.png)
+<img src="/articles/DPM/images/Figure_90_Discovery_Info.png" width="80%" height="80%">
 
 
  - click the line of the request in the table in order to display the results of the discovery process of a specific request. The results display on the Results tab, as described at the next page. 
