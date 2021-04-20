@@ -7,4 +7,4 @@ When the status bar reaches the end and turns fully green, the status changes to
 Search these systems for the Customer that requested to be masked, using its first name - Rick in our example. You will find that the data for this customer in both systems was masked, except for the **First Name** field.
 
 
-[![Previous](../images/Previous.png)]( 03_05_Masking_Ensure_Marked_Complete.md)[<p align="right"> Return to Masking Data Tutorial</p>](03_01_Masking_Data_Tutorial.md)
+[![Previous](../images/Previous.png)]( 03_05_Masking_Ensure_Marked_Complete.md)[<p align="right"> Return to Tutorial topics</p>](../README.md#data-subject-requests)
