@@ -15,7 +15,7 @@ From the left menu, select the **Requests List** option.
 
 ![image](../images/02_02_DSAR_Fulfillment_Case_Owner_Menu.jpg)
 
-The table with the submitted Requests displays. Select the Request created in the previous steps. In the example below, it is the top Request in the table. The red circle next to the Request status indicates that this Request includes at least one Task that is overdue.
+The table with the submitted Requests displays. Select the Request created in the previous steps. In the example below, it is the top Request in the table. 
 
 <img src="../images/02_04_DSAR_Fulfillment_Case_Owner_Review_Requests_List.png" width="100%" height="100%">
 
