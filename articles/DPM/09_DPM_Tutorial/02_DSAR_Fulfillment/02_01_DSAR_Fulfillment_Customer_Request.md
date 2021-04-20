@@ -2,11 +2,11 @@
 
 In order to submit a customer DSAR request, you should now login to the DPM system as a customer. 
 
-For the purpose of the tutorial, we have registered a user, named Anabelle Deleon, that has, between others, the role of a customer. We will request you to login with Anabelle's credentials in this section, and through the remainder of the tutorial, wherever a customer role is requested. 
+For the purpose of the tutorial, we will request you to login with the credentials of the customer that was created for you in this section, and through the remainder of the tutorial, wherever a customer role is requested. The credentials of this customer are provided to you in the e-mail we sent you upon registration for this demonstration environment
 
 This customer has information in both the systems that we have defined as "Source Systems" for the purpose of this tutorial: Odoo and OpenSourceBilling (OSB)
 
-Enter the following credentials to access user information with a Customer role.
+Enter the following credentials to access user information with a Customer role. In this guide we use a customer named Anabelle Deleon, that has, between others, the role of a customer.
 
 - **Username** - anabelle
 
