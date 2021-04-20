@@ -6,13 +6,13 @@ Access the DPM System login screen by using the following URL.
 
 For this tutorial, enter the following credentials to access user information with an Administrator role.
 
-**Username** - anabelle 
+**Username** - dpm_admin 
 
-**Password** - k2view
+**Password** - admin
 
 This user is defined with the permissions of the different roles that are presented in this tutoria, so you can use it in any place where a login is requested. 
 
-<img src="../images/anabelle_login.png" width="30%" height="30%">
+<img src="../images/dpm_admin_login.png" width="30%" height="30%">
 
 As a result, the initial screen of the Admin module displays. 
  
