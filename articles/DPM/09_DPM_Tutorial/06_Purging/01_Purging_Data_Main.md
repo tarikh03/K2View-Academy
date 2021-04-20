@@ -12,4 +12,4 @@ We will now show you how to submit a request to delete Aleena's data.
 
 
 
-[![Previous](../images/Previous.png)](../README.md)[<img align="right" width="60" height="54" src="../images/Next.png">](03_01_Purging_Data_Tutorial.md)
+[![Previous](../images/Previous.png)](../README.md#data-subject-requests)[<img align="right" width="60" height="54" src="../images/Next.png">](03_01_Purging_Data_Tutorial.md)
