@@ -6,7 +6,7 @@ Click ![image](../images/06_9_Purging_RequestList_LeftPanel.jpg) under the CUSTO
 
 ![image](../images/06_01_Purging_Request_List.png)     
 
-The Requests List screen displays the progress of a submitted Requests. To more easily and quickly view the one you submitted in the previous tutorial, click the up/down arrows to the right side of the **CREATED** column. This sorts the list by submission time and date, and the most recent should display at or near the top row when sorted by descending order. 
+The Requests List screen displays the progress of a submitted Requests. To more easily and quickly view the one you submitted in the previous step, click the up/down arrows to the right side of the **CREATED** column. This sorts the list by submission time and date, and the most recent should display at or near the top row when sorted by descending order. 
 
 ![image](../images/06_02_Purging_Request_List.png)
 
