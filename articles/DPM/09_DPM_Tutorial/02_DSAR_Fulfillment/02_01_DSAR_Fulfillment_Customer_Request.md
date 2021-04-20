@@ -6,7 +6,8 @@ For the purpose of the tutorial, we will request you to login with the credentia
 
 This customer has information in both the systems that we have defined as "Source Systems" for the purpose of this tutorial: Odoo and OpenSourceBilling (OSB)
 
-Enter the following credentials to access user information with a Customer role. In this guide we use a customer named Anabelle Deleon, that has, between others, the role of a customer.
+Enter the customer credentials that were provided to you in order to access the DPM as a Customer. 
+For the purpose of demonstration we use a customer named Anabelle Deleon, that has the role of a customer.
 
 - **Username** - anabelle
 
