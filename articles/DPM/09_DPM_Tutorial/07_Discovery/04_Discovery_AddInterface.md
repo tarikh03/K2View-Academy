@@ -25,7 +25,7 @@ In the same way, enter a **Table Name Inclusion Pattern** if you want the discov
 
 For this Tutorial, select the SFORCE schema from the dropdown list at the **Schema Name Inclusion Pattern**.
 
-![image](../images/07_04_Discovery_Interfaces_New.png)
+<img src="../images/07_04_Discovery_Interfaces_New.png" width="30%" height="30%">
 
 Review your entries as needed, and then click ![image](../images/ICON_Save.png).
 
