@@ -4,7 +4,7 @@ After a Customer submits a new request to **Anonymize My Data**, the next step i
 
 Click ![image](../images/06_9_Purging_RequestList_LeftPanel.jpg) under the CUSTOMER menu options, located on the left side of the screen. 
 
-![image](../images/CUSTOMER_RequestList_LeftPanel2.jpg)     
+![image](../images/CUSTOMER_RequestList_LeftPanel.png)     
 
 The Requests List screen displays the progress of a submitted Requests. To more easily and quickly view the one you submitted in the previous tutorial, click the up/down arrows to the right side of the **CREATED** column. This sorts the list by submission time and date, and the most recent should display at or near the top row when sorted by descending order. 
 
