@@ -22,4 +22,4 @@ The Customer Dashboard displays. The user can access the Requests List by clicki
 
 
 
-[![Previous](/articles/images/Previous.png)]( 02_04_DSAR_Fulfillment_Case_Owner_Perform_Task.md)[<p align="right"> Return to Tutorial topics</p>](/articles/DPM/09_DPM_Tutorial/README.md#data-subject-requests)
+[![Previous](/articles/images/Previous.png)]( 02_04_DSAR_Fulfillment_Case_Owner_Perform_Task.md)[<p align="right">  Return to Tutorial topics</p>](../README.md#data-subject-requests)
