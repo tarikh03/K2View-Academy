@@ -61,11 +61,22 @@ The sample Stages we will create include:
 
 ![image](../images/01_02_03_DSAR_Review_Approval_Reminders.png)
 
-4. Click ![image](../images/ICON_Save.png) to save the new Task.
+4. Choose the Associated Task tab in order to configure what information should be presented to the steward for validation. For DSAR request, the steward is in most cases requested to validate the PDF that was generated following the customer's request. 
 
-5. Create another Task under the same Stage: **Case Owner Review**. Assign it to the **Role** of **Case_Owner**. This is also a manual Task that should be executed after the legal review is complete. Therefore, set the **Task Order** to **2**, and give it a **Task Deadline** of **24** hours.
+   Populate the associated task parameters as demonstrated at the following image. The meaning of this configuration is that when the data steward access the review task of a specific customer request, a link would be presented for the user to access and review the PDF that was generated in the previous task. 
+
+   ![image](../images/01_02_03_DSAR_Review_Approval_Associated_Task.png)
+
+5. Click ![image](../images/ICON_Save.png) to save the new Task.
+
+6. Create another Task under the same Stage: **Case Owner Review**. Assign it to the **Role** of **Case_Owner**. This is also a manual Task that should be executed after the legal review is complete. Therefore, set the **Task Order** to **2**, and give it a **Task Deadline** of **24** hours. 
+
 
 ![image](../images/01_02_03_DSAR_Review_Approval_Case_Owner.png)
+
+Configure the Associated task tab of this Task in the same way as for the previous Data Steward associated task, so that the Case owner can review the PDF as well.
+
+Save the Case Owner Review task. 
 
 ### 	Customer Notification
 
@@ -87,7 +98,7 @@ The sample Stages we will create include:
    * **Customer ID** - is obtained from the task Get Customer ID from the first stage
    * **Subject** - The E-mail subject - set it to be **Your K2View Data Subject Access Request** 
    * **Recipients** - configured to be obtained from the customer when they submit the request. Set the label to be: **What is your email address?**. We use the same text as used in the task of sending confirmation mail to the customer, so that it would be asked only once as input. 
-  
+
 
 ![image](../images/01_02_03_DSAR_Customer_Notification_Operations.png)
 
