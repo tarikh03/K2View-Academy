@@ -9,7 +9,8 @@ Login as a user with a Case Owner role using the following credentials.
 - **Username**: case_owner
 - **Password**: k2view
 
-![image](../images/case_owner_login.png) 
+<img src="../images/case_owner_login.png" width="30%" height="30%">
+
 
 The DPM system displays the Case Owner Dashboard. The Dashboard should be mostly empty, because the only Request submitted so far is the DSAR Request you submitted in the first tutorial section.  
 
