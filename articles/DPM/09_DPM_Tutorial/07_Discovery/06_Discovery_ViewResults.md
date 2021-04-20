@@ -12,4 +12,4 @@ For additional information about the Results tab, refer to the DPM User Guide [N
 
 
 
-[![Previous](../images/Previous.png)](05_Discovery_SubmitDiscoveryRequest.md)[<p align="right"> Return to PII Discovery Tutorial</p>](01_Discovery_Main.md)
+[![Previous](../images/Previous.png)](05_Discovery_SubmitDiscoveryRequest.md)[<p align="right"> Return to Tutorial topics</p>](../README.md#data-subject-requests)
