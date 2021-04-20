@@ -14,7 +14,7 @@ Enter your search criteria into the "Search" field. Search for the customer by t
 
 Click the ![image](../images/06_Purging_Representative_Search.png) button to execute your search. The results table displays all customers that match the search criteria.
 
-![image](../images/06_Purging_search_customer.png)
+![image](../images/06_Purging_Representative_FindCustomers.png)
 
 Locate your customer and click the ![image](../images/06_Purging_Representative_Action.png) button on the right-side of their row. 
 
