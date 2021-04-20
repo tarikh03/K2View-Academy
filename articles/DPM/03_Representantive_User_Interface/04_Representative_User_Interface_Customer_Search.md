@@ -10,9 +10,9 @@ The Find Customers screen displays.
 
 ![image](/articles/DPM/images/Figure_38_Representative_FindCustomers.png)
 
-Enter your search criteria into the "Search" field. Entries can be alphanumeric, and either a whole or patrial section of the data you want to find. The DPM system will find and retrieve data matches in all the table columns. For this example, we will search for a customer who lives in the state of Puerto Rico by entering **pr** into the Search field. 
+Enter your search criteria into the "Search" field. Entries can be alphanumeric, and either a whole or partial section of the data you want to find. The DPM system will find and retrieve data matches in all the table columns. For this example, we will search for a customer who lives in the state of Puerto Rico by entering **pr** into the Search field. 
 
-**Note**: Entries and subsequesnt results are not case-sensitive.
+**Note**: Entries and subsequent results are not case-sensitive.
 
 ![image](/articles/DPM/images/Figure_39_Representative_FindCustomers.png)
 
