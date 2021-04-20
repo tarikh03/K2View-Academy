@@ -12,7 +12,7 @@ In our example:
 
 Click **Login**.
 
-Once a user logs into the DPM system as an Customer, the Customer landing page displays by default.
+Once a user logs into the DPM system as an Customer, the Customer landing page displays by default. If the user has additional roles attributed, as in the case of Anabelle Deleon, the landing page may be different as a result. 
 
 ![image](../images/Customer_Dashboard.png)    
 
