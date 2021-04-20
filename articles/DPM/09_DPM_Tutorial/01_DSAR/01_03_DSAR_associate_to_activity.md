@@ -37,4 +37,4 @@ The submission and execution of such requests is described in the next section o
 
   
 
-[![Previous](../images/Previous.png)]( 01_02_04_DSAR_Finalize_Flow.md)[<p align="right"> Return to Data Subject Access Request Introduction</p>](01_00_DSAR.md)
+[![Previous](../images/Previous.png)]( 01_02_04_DSAR_Finalize_Flow.md)[<p align="right"> Return to Tutorial topics</p>](#Data Subject Requests)
