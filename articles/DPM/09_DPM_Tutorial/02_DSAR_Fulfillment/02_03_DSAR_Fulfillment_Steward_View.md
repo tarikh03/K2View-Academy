@@ -6,8 +6,10 @@ Data Stewards are resources from different company departments, each with its ar
 
 Login as a user with a Steward role using the following credentials.
 
-- **Username**: anabelle
+- **Username**: legal_steward
 - **Password**: k2view
+
+<img src="../images/legal_steward_login.png" width="30%" height="30%">
 
 The DPM system displays the Data Steward Dashboard. The Dashboard should be mostly empty, because the only Request submitted so far is the DSAR Request you submitted in the first tutorial section.  
 
