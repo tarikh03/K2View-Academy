@@ -4,6 +4,8 @@ The following simulation of working within DPM Requests will show you how to log
 
 [Login to the System as a Representative](03_02_Purging_Login.md)
 
+[Search for the Customer to Purge](03_03_Purging_search_customer_to_Purge.md)
+
 [Submit a Request to Purge Data](03_03_Purging_Submit_a_Request_to_Purge.md)
 
 [Ensure Your Request is Marked Complete](03_04_Purging_Ensure_Marked_Complete.md)
