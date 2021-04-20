@@ -8,15 +8,11 @@ The New Request screen displays.
 
 ![image](../images/Customer_Request_Landing.png)
 
-Select a Regulation from the drop-down list. For this tutorial, we will select **CCPA**.
+Select the **CCPA** Regulation from the drop-down list and then select **Anonymize My Data** under the "Request Type" section.
 
-![image](../images/06_3_Purging_DeleteMyData_Reg.jpg)  
+![image](../images/05_1_Masking_AnonMyData.png)
 
-Select **Anonymize My Data** under the "Request Type" section.
-
-![image](../images/05_1_Masking_AnonMyData.jpg)
-
-Complete the field(s) on the right side of the form. The **Anonymize My Data** Request Type under the **CCPA** Regulation displays only an email address entry field. Enter the Customer email address. Confirmation of data masking will be sent to the email address entered into this field. 
+Complete the field(s) on the right side of the form. The **Anonymize My Data** Request Type under the **CCPA** Regulation displays only an email address entry field. Enter a valid e-mail address. Confirmation of data masking will be sent to the email address entered into this field. 
 
 ![image](../images/05_2_Masking_AnonMyData.jpg)     
 
