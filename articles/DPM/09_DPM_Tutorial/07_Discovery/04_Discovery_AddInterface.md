@@ -18,17 +18,9 @@ Select an **Interface**. This list will include all the systems with which the D
 
 ![image](../images/07_02_Discovery_Interfaces_New.png)
 
-The following example shows the **New Discovery Interface** screen populated with sample information.
-
-![image](../images/07_03_Discovery_Interfaces_New.png)
-
 For this tutorial, select **dbSalesforce**.
 
 ![image](../images/07_04_Discovery_Interfaces_New.png)
-
-Enter a **Catalog Pattern**. For this tutorial, enter **/^Phone**. 
-
-![image](../images/07_05_Discovery_Interfaces_New.png)
 
 Enter a **Schema Name Inclusion Pattern** if you want the discovery process to scan only tables under specific schemas. 
 
