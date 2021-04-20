@@ -20,10 +20,12 @@ Select an **Interface**. This list will include all the systems with which the D
 
 For this tutorial, select **dbSalesforce**.
 
-![image](../images/07_04_Discovery_Interfaces_New.png)
-
 You may further restrict the discovery scope by entering a **Schema Name Inclusion Pattern**, if you want the discovery process to scan only tables under specific schemas. Alternatively, enter a **Schema Name Exclusion Pattern** if you want the discovery process to ignore specific schemas.  
 In the same way, enter a **Table Name Inclusion Pattern** if you want the discovery process to scan only tables with a specific name pattern, or **Table Name Exclusion Pattern** if you want the discovery process to ignore tables with a specific name pattern.
+
+For this Tutorial, select the SFORCE schema from the dropdown list at the **Schema Name Inclusion Pattern**.
+
+<img src="../images/07_04_Discovery_Interfaces_New.png" width="50%" height="50%">
 
 Review your entries as needed, and then click ![image](../images/ICON_Save.png).
 
