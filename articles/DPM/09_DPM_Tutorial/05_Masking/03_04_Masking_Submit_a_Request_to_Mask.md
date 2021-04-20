@@ -14,7 +14,7 @@ Select the **CCPA** Regulation from the drop-down list and then select **Anonymi
 
 Complete the field(s) on the right side of the form. The **Anonymize My Data** Request Type under the **CCPA** Regulation displays only an email address entry field. Enter a valid e-mail address. Confirmation of data masking will be sent to the email address entered into this field.  
 
-Click ![image](../images/06_ICON_Submit.jpg) to submit the request to mask the Customer data.
+Click ![image](../images/ICON_Submit.png) to submit the request to mask the Customer data.
 
 
 
