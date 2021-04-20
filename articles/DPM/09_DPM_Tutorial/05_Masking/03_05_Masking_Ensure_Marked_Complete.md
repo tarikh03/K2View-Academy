@@ -14,7 +14,5 @@ Locate and click your Request.
 
 **Note**: It may take a few moments for the system to mask the data. You can follow the progress by viewing the status bar. When the status bar reaches its end and turns fully green, the data masking is complete.
 
-![image](../images/05_3_Masking_RequestList_Sorted.jpg)
-
 
 [![Previous](../images/Previous.png)]( 03_04_Masking_Submit_a_Request_to_Mask.md)[<img align="right" width="60" height="54" src="../images/Next.png">](03_06_Masking_Review_Your_Data.md)
