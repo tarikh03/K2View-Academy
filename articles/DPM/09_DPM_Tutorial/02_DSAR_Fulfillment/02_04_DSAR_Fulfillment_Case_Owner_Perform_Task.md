@@ -15,11 +15,11 @@ From the left menu, select the **Requests List** option.
 
 ![image](../images/02_02_DSAR_Fulfillment_Case_Owner_Menu.jpg)
 
-The table with the submitted Requests displays. Select the Request created in the previous steps. In the example below, it is the top Request in the table. 
+The table with the submitted Requests displays. Select the Request created in the previous steps. 
 
 <img src="../images/02_04_DSAR_Fulfillment_Case_Owner_Review_Requests_List.png" width="100%" height="100%">
 
-Once you clicked the selected Request, the Request details screen displays. This view provides the Case Owner with the overall view of the Request progress, as well as additional information, including which Tasks contain notes. A Task that contains notes is marked with a <img src="../images/02_04_DSAR_Fulfillment_Case_Owner_Review_Notes_icon1.png" width="5%" height="5%"> icon in the **Notes** column. 
+Once you clicked the selected Request, the Request details screen displays. This view provides the Case Owner with the overall view of the Request progress, as well as additional information, including which Tasks contain notes. A Task that contains notes would be marked with a <img src="../images/02_04_DSAR_Fulfillment_Case_Owner_Review_Notes_icon1.png" width="5%" height="5%"> icon in the **Notes** column. 
 
 <img src="../images/02_04_DSAR_Fulfillment_Case_Owner_Review_Request_Details.png" width="100%" height="100%">
 
@@ -29,7 +29,9 @@ Click the line of the **Case Owner Review** Task. The Task details screen displa
 
 From this point on, the Case Owner actions on this screen are the same actions described for the Legal Data Steward Task handling:
 
-Use the <img src="../images/02_03_DSAR_Fulfillment_Steward_Get_Task.png" width="3%" height="3%"> button at the top-right of this screen to take ownership of the Task. Review the information that was provided. 
+Use the <img src="../images/02_03_DSAR_Fulfillment_Steward_Get_Task.png" width="3%" height="3%"> button at the top-right of this screen to take ownership of the Task. 
+
+Review the PDF file that was generated for this customer by clicking on the link to the PDF and opening the downloaded file at the lower part of the task details screen.  
 
 Compare the data that was collected by the DPM system with the data in the source systems for the requesting customer. 
 
