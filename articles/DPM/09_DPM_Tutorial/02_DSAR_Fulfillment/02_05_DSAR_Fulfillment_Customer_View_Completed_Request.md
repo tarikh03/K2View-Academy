@@ -4,7 +4,7 @@ With the last review by the Case Owner complete, the DSAR is ready to be complet
 
 There are two ways for the customer to be informed of the Request completion.
 
-1. At the time of the Request, the customer was prompted to provide an email address to which the DPM sends the requested data information. In the tutorial example, the information is sent to the customer via an attachment of a PDF including the customer data. 
+1. At the time of the Request, the customer was prompted to provide an email address to which the DPM sends the requested information. In the tutorial example, the information is sent to the customer via an attachment of a PDF including the customer data. 
 2. The customer can login to the DPM system and view the status of the Request by accessing the **Requests List** menu option. 
 
 To access the DPM as a customer, login with the user information that was used for submitting the request.
