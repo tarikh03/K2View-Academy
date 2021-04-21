@@ -2,10 +2,6 @@
 
 In this tutorial, additional Stages and Tasks are created in order to complete the configuration of our DSAR Tutorial Flow. 
 
-In addition to the steps described below, if you have any doubt you can also review the DSAR Flow implementation that comes built-in with your DPM installation.
-
-![image](../images/01_02_03_DSAR_Built_In_Flow.png)
-
 The sample Stages we will create include: 
 
 - **Data Collection** - This Stage is an automated task that collects customer data from the different corporate systems. In the sample implementation of this tutorial, the information is collected from Odoo and Open Source Billing systems.
@@ -65,7 +61,7 @@ The sample Stages we will create include:
 
    Populate the associated task parameters as demonstrated at the following image. The meaning of this configuration is that when the data steward access the review task of a specific customer request, a link would be presented for the user to access and review the PDF that was generated in the previous task. 
 
-   ![image](../images/01_02_03_DSAR_Review_Approval_Associated_Task.png)
+   ![image](../images/DSAR_associated_task_creation.png)
 
 5. Click ![image](../images/ICON_Save.png) to save the new Task.
 
@@ -107,6 +103,12 @@ Save the Case Owner Review task.
 Your DSAR Flow is now complete. The final result should look similar to the following image.
 
 ![image](../images/01_02_03_DSAR_Final_Flow.png)
+
+
+
+**Note:** If you have any doubt about the configuration described above, you can also review the DSAR Flow implementation that comes built-in with your DPM installation (with the exception of the review tasks which are not part of the built-in automated flow).
+
+![image](../images/01_02_03_DSAR_Built_In_Flow.png)
 
 
 
