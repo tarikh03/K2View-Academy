@@ -26,25 +26,36 @@ The TDM operational mode is set in the **fluxMode** field in the [config.js] fil
 
 ## TDM GUI - Login
 
-Connect to the TDM GUI using the following URL: `http://<TDM server>:4001/#/login.`
+The TDM GUI application is pre-integrated with [Fabric Web Framwork](/articles/30_web_framework/02_preintegrated_apps_overview.md).  The user logins into the Fabric Web Framework and **Fabric authenticates the user**.  
 
-Populate the username and password. 
+Fabric works with several authentication providers.  Each authenticator is responsible for user authentication, and provides user-ID and his roles. The following are the supported by Fabric as authentication providers:
 
-Note that since the TDM authenticates users and passwords via LDAP, all users must be defined in the LDAP system. 
+- **Fabric**, for console, WS and web access, using its repository. This is Fabric's default authentication method. 
+- **LDAP** server, for console, WS and web access. Done via LDAP integration. 
+- **ADLDAP** (Active Directory) server, for console, WS and web access. Done via LDAP integration. 
+- **SAML** server, for web and WS access. Done via SAML IDP integration. 
+
+[Click for more information about Fabric's User Identification and Access Management](/articles/26_fabric_security/07_user_IAM_overview.md).
+
+To connect the TDM GUI log in the Fabric Web Framework, click the applications menu icon: ![web framework app menu](/articles/30_web_framework/images/30_02_icon.PNG), and select the TDM option:
+
+![application list](images/fabric_web_applications_list.png)
+
+
+
+ 
 
 ## TDM GUI Navigation - General
 
-### TDM Project Navigation Tree
+### TDM Navigation Tabs
 
-The TDM navigation tree displays different TDM sections on the left of the screen:
+The following tabs are displayed when selecting the TDM option in the applications menu and opening the TDM application:
 
 ![tdm navigation](images/tdm_gui_navigation_pane.png)
 
-                             
+​                             
 
-To move between sections, click the option in the TDM navigation tree.
-
-Click the Tooltip icon ![tooltip](images/tdm_gui_tooltip_icon.png) in the upper left of the TDM window to display or hide the labels next to the icons in the TDM navigation tree. 
+To move between sections, click the required tab.
 
 ## TDM Breadcrumbs 
 
@@ -52,9 +63,8 @@ The TDM GUI uses breadcrumbs as a graphical control element to aid navigation ac
 
 ![breadcrumbs](images/breadcrumbs_example.png)
 
-- Click **Task Execution Summary - load2Roots** to display an executed **load2Roots** task. 
-- Click **Tasks** to display all executed tasks.
-- Click **Home** to return to the TDM home page.
+- Click **Task Execution Summary - lo111s** to display the executions list of **lo111** task. 
+- Click **Tasks** to display all TDM tasks.
 
 ### TDM Soft Delete
 
