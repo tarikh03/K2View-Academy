@@ -11,7 +11,7 @@ The K2View TDM has the following components:
 ![tdm_architecture](images/tdm_architecture.png)
 
 ### TDM GUI
-The TDM web application offers self-service implementation of the following activities:
+The TDM web application is pre-integrated in [Fabric Web Framework](/articles/30_web_framework/02_preintegrated_apps_overview.md) and offers self-service implementation of the following activities:
 - TDM definitions, setting TDM Business Entities, environments, roles and permissions. 
 - Creation and execution of TDM tasks that provide a selected subset of entities or Reference tables to the selected environment. 
 
