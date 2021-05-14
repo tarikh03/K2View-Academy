@@ -8,7 +8,7 @@ For this tutorial, enter the following credentials to access user information wi
 
 **Username** - k2admin 
 
-**Password** - k2view
+**Password** - admin
 
 This user is defined with the permissions of the different roles that are presented in this tutoria, so you can use it in any place where a login is requested. 
 
