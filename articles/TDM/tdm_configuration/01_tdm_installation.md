@@ -72,7 +72,7 @@ The Redis must run in one of the Fabric nodes. All Fabric nodes must work with t
 
   
 
-#### Start the Redis on one of the Fabric Nodes
+#### Start Redis on One of the Fabric Nodes
 
 - Go to $K2_HOME/apps/redis/src
 - Run the following command:       
