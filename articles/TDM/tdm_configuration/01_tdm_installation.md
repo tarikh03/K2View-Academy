@@ -130,6 +130,8 @@ Following steps should be following if a new APIDOC should be generated to inclu
 - Set the following environment variables:
 
   ```shell
+  export $DB=<postgreSQL DB name>;
+  export $PG_USER=<postgreSQL DB user name>; 
   export PGPASSWORD=<postgreSQL DB pwd>;
   export PG_HOST=<postgreSQL DB host>;
   export PG_PORT=<postgreSQL DB port>;
