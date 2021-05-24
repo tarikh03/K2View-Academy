@@ -69,13 +69,7 @@ Click for more information on [how overriding the sync mode impacts the task exe
 
 Click for more information about [environment roles and permissions](10_environment_roles_tab.md).
 
-#### Who is an Environment Owner?  
-
-Environment owner users are usually Testing team leaders and are defined under a dedicated group in the **LDAP** system.
-
-To enable setting authorized users as environment owners in the TDM GUI, the Group Name must be also defined in the **TDM GUI configuration file** [config.js] in **ownersGroupName**.
-
-Note that the TDM GUI installation includes an internal LDAP for development. The environment owners Group Name in the internal LDAP is **k2venvownerg**. Therefore the default value of **ownersGroupName** in the config.js file is **k2venvownerg**.
+Click for more information about the [Owner TDM Permission Group](02_tdm_gui_user_types.md#owner).
 
 #### How Do I Add or Remove Environment Owners To or From an Environment? 
 
