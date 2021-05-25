@@ -10,8 +10,7 @@ Mandatory settings.
 
 Populate the following settings:
 
-- **TDM Environment Name**, when creating a TDM task, select the name of the source and target environments. It is recommended to set the same name in the **TDM Environment Name** and **Fabric Environment Name** settings. 
-- **Fabric Environment Name**, select the environments deployed to Fabric from the dropdown list. 
+- **TDM Environment Name**, when creating a TDM task,  select the environments deployed to Fabric from the dropdown list. 
 
 ### Environment Additional Information
 
@@ -71,11 +70,11 @@ Click for more information about [environment roles and permissions](10_environm
 
 Click for more information about the [Owner TDM Permission Group](02_tdm_gui_user_types.md#owner).
 
-#### How Do I Add or Remove Environment Owners To or From an Environment? 
+#### How Do I Add or Remove Environment Owners to or from an Environment? 
 
-- Click Environment Owners and select a user from the list. 
+- Click Environment Owners and select a user from the list or type the user name. 
 
-- Click Environment Owners again and select another user from the list to set an additional environment owner.
+- Click Environment Owners again and select another user from the list or type the user name to set an additional environment owner.
 
 - Click the X on an environment owner/s username to remove them from the environment:
 
