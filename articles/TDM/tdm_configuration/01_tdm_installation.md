@@ -29,7 +29,7 @@ When openning the TDM package the package also updates the following:
   - Add the TDM to Fabric Web Framework applications.
   - Click for more information about [adding applications to Fabric Web Framework](/articles/30_web_framework/02_preintegrated_apps_overview.md).
 
-### Installation guidelines for TDM Package on the Fabric Docker
+## Installation guidelines for TDM Package on the Fabric Docker
 
 - Download the the TDM package from the download page. Copy it under the  $K2_HOME directory and untar it using the following command:
 
@@ -104,7 +104,7 @@ Following steps should be following if a new APIDOC should be generated to inclu
 
    - TDM_APIDOC_JSON interface (local file interface)- this interface contains the location of the TDM APIDOC Json file.
    - buildTdmApiJSON Broadway flow.
- 
+
 2. Edit the **TDM_APIDOC_JSON** interface or define the TDM_APIDOC directory under C:\k2view\ local directory.
 
 3. Deploy Fabric project's Web-Services to the local debug server.
@@ -155,5 +155,15 @@ Following steps should be following if a new APIDOC should be generated to inclu
 - Add execution permissions to **updatek2TDMDB.sh**.
 
 - Run **createk2TDMDB.sh** script.
+
+
+
+## Add Permission Groups Mapping to the TDM
+
+The TDM GUI application is pre-integrated with [Fabric Web Framwork](/articles/30_web_framework/02_preintegrated_apps_overview.md). The user logins into the Fabric Web Framework and **Fabric authenticates the user**. The TDM GUI application gets the **user id** and the user's **Fabric roles** from the user's session and **identifies the user type (Permission Group) by their Fabric roles**.
+
+The mapping of each Fabric role to a TDM Permission Group is done by the [Permission Groups Mapping](/articles/TDM/tdm_gui/02a_permission_group_mapping_window.md) TDM window and is kept in [permission_groups_mapping TDM DB table](/articles/TDM/tdm_architecture/02_tdm_database.md#permission_groups_mapping).
+
+After installing the TDM, the admin user must define the Permission Group mapping of each user's group (= Fabric role) to enable the TDM users to work properly on the TDM GUI based on their Permission Groups.
 
 [<img align="right" width="60" height="54" src="/articles/images/Next.png">](02_tdmdb_general_parameters.md)
