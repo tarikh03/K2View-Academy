@@ -41,11 +41,11 @@ Testers can create and execute extract or load tasks based on their TDM role.
 
 ### How the TDM Identifies the User Type (Permission Group)? 
 
-The TDM GUI application is pre-integrated with [Fabric Web Framwork](/articles/30_web_framework/02_preintegrated_apps_overview.md).  The user logins into the Fabric Web Framework and **Fabric authenticates the user**.  **. The TDM GUI application gets the **user id** and the user's **Fabric roles** from the user's session. 
+The TDM GUI application is pre-integrated with [Fabric Web Framwork](/articles/30_web_framework/02_preintegrated_apps_overview.md).  The user logins into the Fabric Web Framework and **Fabric authenticates the user**. The TDM GUI application gets the **user id** and the user's **Fabric roles** from the user's session. 
 
 The users are defined and each user can be attach to one or several user groups in their organization. 
 
-**The user groups are defined in the organization's SP and must be defined in advance in Fabric as [Fabric roles](/articles/17_fabric_credentials/02_fabric_credentials_commands.md#create-role). ** 
+The user groups are defined in the organization's SP and must be defined in advance in Fabric as [Fabric roles](/articles/17_fabric_credentials/02_fabric_credentials_commands.md#create-role). 
 
 Assuming a **one-to-one relation between a user group and a Fabric role**.
 
