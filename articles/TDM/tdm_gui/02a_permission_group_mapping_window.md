@@ -14,6 +14,22 @@ The TDMDB creation script inserts an initial record to **permission_groups_mappi
 
 ![permission groups window](images/permission_group_mapping_window.png)
 
+Note that if Fabric is set to authenticate the using SAML, LDAP, or AD/LDAP, you must add the following record to **permission_groups_mapping** TDM DB table **before the first log in** to the TDM GUI:
+
+```
+insert into public.permission_groups_mapping (
+	description,
+	fabric_role,
+	permission_group,
+	created_by,
+	updated_by,
+	creation_date,
+	update_date
+) values ('Initial mapping for admin user', '<admin group name>', 'admin', 'admin', 'admin', NOW(), NOW());
+```
+
+Click for more information about [Fabric User IAM Configuration](/articles/26_fabric_security/13_user_IAM_configiration.md).
+
 ### How to Add a New Permission Group Mapping?
 
 - Click the ![plus icon](images/permission_group_plus_icon.png) icon on the right corner of the Permission Groups Mapping window. A popup window is opened:
