@@ -23,7 +23,7 @@ TDM settings and tasks are kept in the TDM PostgreSQL DB. Both the TDM GUI and F
 
 Fabric acts as a staging DB for the provisioned entities and ETL layer for extracting data from data sources and loading it to the target environment.
 
-In addition, the TDM backend APIs and processes are defined and executed in Fabric. The TDM backend APIs and processes are included in the [TDM library](/articles/TDM/tdm_implementation/04_fabric_tdm_library.md).
+In addition, the TDM back-end APIs and processes are defined and executed in Fabric. The TDM back-end APIs and processes are included in the [TDM library](/articles/TDM/tdm_implementation/04_fabric_tdm_library.md).
 
 #### Fabric as a Staging Repository
 
