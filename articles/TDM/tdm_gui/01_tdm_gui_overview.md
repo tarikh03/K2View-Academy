@@ -9,26 +9,11 @@ TDM settings and tasks are saved in the [TDM PostgreSQL DB](/articles/TDM/tdm_ar
 
 The TDM GUI uses APIs to connect to the TDM DB to retrieve and update TDM settings and tasks.
 
-## TDM - Operational Modes
-
-TDM can operate in one of two modes:
-
-- DataFlux mode, which enables the following [Data Flux](/articles/TDM/tdm_overview/02_tdm_glossary.md#data-flux) features:
-  - Creating extract tasks.
-  - Adding a versioning mode to load tasks. 
-
-- Regular mode, which enables creating regular load tasks without versioning by marking extracted entities with a Task Name and Extraction Timestamp.
-
-The TDM operational mode is set in the **fluxMode** field in the [config.js] file in the TDM GUI server (/usr/local/k2view/TDM/k2vtdmbe location):   
-
-- **fluxMode** = **True** (default). 
-- **fluxMode** = **False**.   
-
 ## TDM GUI - Login
 
 The TDM GUI application is pre-integrated with [Fabric Web Framework](/articles/30_web_framework/02_preintegrated_apps_overview.md).  The user logins into the Fabric Web Framework and **Fabric authenticates the user**.  
 
-Fabric works with several authentication providers.  Each authenticator is responsible for user authentication, and provides the user an ID and his roles. The following are the supported by Fabric as authentication providers:
+Fabric works with several authentication providers.  Each authenticator is responsible for user authentication, and provides user-ID and his roles. The following are the supported by Fabric as authentication providers:
 
 - **Fabric**, for console, WS and web access, using its repository. This is Fabric's default authentication method. 
 - **LDAP** server, for console, WS and web access. Done via LDAP integration. 

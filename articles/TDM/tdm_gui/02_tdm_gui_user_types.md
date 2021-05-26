@@ -25,7 +25,7 @@ Admins usually also define the [TDM implementation in Fabric](/articles/TDM/tdm_
 
 ## Owner 
 
-An Owner is assigned to a specific TDM testing environment. Admins can define one or several Environment Owners for each testing environment. 
+An Owner can be assigned to a specific TDM testing environment. Admins can define one or several Environment Owners for each testing environment. 
 
 Environment Owners can execute the following activities in their environment:
 
