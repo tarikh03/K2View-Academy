@@ -39,7 +39,7 @@ Example of Summary Execution Report:
 
 Displays an executed task's LUs and post execution processes. To display the Logical Units Execution Summary, click a task's **Task Execution Id** setting in the **Task Execution Summary** window. 
 
-![lu_execution_summary](images/lu_execution_summary.png)
+![lu_execution_summary](images/extract_task_execution_lu_summary.png)
 
 Click **Show/Hide Columns** to open a popup window displaying a list of available fields for each task. Fields in green are displayed by default.  Click a field to remove it from the display.
 
