@@ -2,8 +2,8 @@
 
 The TDM GUI is a web-based application that helps users to easily control and manage test data. It has two main functions:
 
-- TDM administrative activities, defining TDM Business Entities, environments, roles and permissions.
-- TDM copy activities, creating and executing TDM tasks that provide a selected subset of entities or Reference tables to a selected environment.
+- TDM administrative activities: Defining TDM Business Entities, environments, roles and permissions.
+- TDM copy activities: Creating and executing TDM tasks that provide a selected subset of entities or reference tables to a selected environment.
 
 TDM settings and tasks are saved in the [TDM PostgreSQL DB](/articles/TDM/tdm_architecture/02_tdm_database.md). Each TDM activity created by a user via the TDM GUI updates the TDM DB. 
 
@@ -11,7 +11,7 @@ The TDM GUI uses APIs to connect to the TDM DB to retrieve and update TDM settin
 
 ## TDM - Operational Modes
 
-TDM can operate in two modes:
+TDM can operate in one of two modes:
 
 - DataFlux mode, which enables the following [Data Flux](/articles/TDM/tdm_overview/02_tdm_glossary.md#data-flux) features:
   - Creating extract tasks.
@@ -26,9 +26,9 @@ The TDM operational mode is set in the **fluxMode** field in the [config.js] fil
 
 ## TDM GUI - Login
 
-The TDM GUI application is pre-integrated with [Fabric Web Framwork](/articles/30_web_framework/02_preintegrated_apps_overview.md).  The user logins into the Fabric Web Framework and **Fabric authenticates the user**.  
+The TDM GUI application is pre-integrated with [Fabric Web Framework](/articles/30_web_framework/02_preintegrated_apps_overview.md).  The user logins into the Fabric Web Framework and **Fabric authenticates the user**.  
 
-Fabric works with several authentication providers.  Each authenticator is responsible for user authentication, and provides user-ID and his roles. The following are the supported by Fabric as authentication providers:
+Fabric works with several authentication providers.  Each authenticator is responsible for user authentication, and provides the user an ID and his roles. The following are the supported by Fabric as authentication providers:
 
 - **Fabric**, for console, WS and web access, using its repository. This is Fabric's default authentication method. 
 - **LDAP** server, for console, WS and web access. Done via LDAP integration. 
