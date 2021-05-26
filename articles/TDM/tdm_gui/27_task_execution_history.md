@@ -75,7 +75,7 @@ To generate and download a summary report on an LU's execution, click ![summary 
 
 A Detailed Report displays the entities and Reference tables list, their execution status and error message if the execution of a given entity or Reference table fails.
 
-To generate and download a Summary Report on an LU's execution, click ![detailed report](images/extract_lu_detailed_report.png). 
+To generate and download a Detailed Report on an LU's execution, click ![detailed report](images/extract_lu_detailed_report.png). 
 
 ## Task Execution - Detailed Statistics
 
