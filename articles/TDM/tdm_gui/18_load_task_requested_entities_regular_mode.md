@@ -22,7 +22,7 @@ Notes:
 
 Get random list entities from the [LU PARAMS](/articles/TDM/tdm_architecture/02_tdm_database.md#lu_name_params) table created  in the TDM DB for the root LU of the task's BE.  Entities in the environment or task level exclusion lists are excluded from the task.
 
-Testers can select this option only if their role in the target environment has the relevant permissions.
+Testers can select this option only if their TDM Environment role in the target environment has the relevant permissions.
 
 ### Create Synthetic Entities
 
@@ -36,7 +36,7 @@ For example, if the **Number of Entities** setting is populated by  5 and the **
 
 The task replaces the sequences of each replica to avoid duplicate sequences in the target environment. 
 
-Testers can select this option in the target environment only if their role has permissions.
+Testers can select this option in the target environment only if their TDM Environment role has permissions.
 
 ### Parameters 
 
