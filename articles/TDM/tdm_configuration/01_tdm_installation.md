@@ -4,7 +4,7 @@
 
 The following components must be installed as a prerequisite:
 
-- **Fabric Docker** -  Fabric 6.5.x and above for TDM 7.1.
+- **Fabric Server** -  Fabric 6.5.x and above for TDM 7.1.
 - **PostgreSQL DB** - the TDM DB tables are created on a PostgreSQL DB. Note that you can either use a PostgreSQL v9.6 or v13 versions. 
 
 ## TDM Package Content
@@ -29,7 +29,7 @@ When openning the TDM package the package also updates the following:
   - Add the TDM to Fabric Web Framework applications.
   - Click for more information about [adding applications to Fabric Web Framework](/articles/30_web_framework/02_preintegrated_apps_overview.md).
 
-## Installation guidelines for TDM Package on the Fabric Docker
+## Installation guidelines for TDM Package on the Fabric Server
 
 - Download the the TDM package from the download page. Copy it under the  $K2_HOME directory and untar it using the following command:
 
@@ -54,7 +54,7 @@ The Redis must run in one of the Fabric nodes. All Fabric nodes must work with t
 
 #### Open the Redis Port
 
-- Edit the **docker-compose.yml** file of Fabric docker and add the Redis port to the ports list:  
+- When using a Fabric Docker, Edit the **docker-compose.yml** file of Fabric docker and add the Redis port to the ports list:  
 
   ```
   - "6379:6379"
@@ -125,7 +125,7 @@ Following steps should be following if a new APIDOC should be generated to inclu
    
 ## Create the TDM PostgreSQL DB (in case of new installation)
 
-- Go to **$K2_HOME/TDMGUI/createTDMDB** directory in Fabric docker.
+- Go to **$K2_HOME/TDMGUI/createTDMDB** directory in Fabric.
 
 - Set the following environment variables:
 
@@ -143,7 +143,7 @@ Following steps should be following if a new APIDOC should be generated to inclu
 
 ## Upgrade the TDM PostgreSQL DB (if not a new installation)
 
-- Go to **$K2_HOME/TDMGUI/createTDMDB/updateTDMDB** directory in Fabric docker.
+- Go to **$K2_HOME/TDMGUI/createTDMDB/updateTDMDB** directory in Fabric.
 
 - Set the following environment variables:
 
