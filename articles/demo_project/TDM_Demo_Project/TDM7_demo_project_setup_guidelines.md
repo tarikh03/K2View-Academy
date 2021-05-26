@@ -2,7 +2,7 @@
 
 ### Databases Setup
 
-The TDM demo project is based on PostgreSQL databases:
+The TDM demo project is aligned with TDM V7.1 and is based on PostgreSQL databases:
 
 <table>
 <tr>
@@ -51,7 +51,6 @@ The target DBs are empty and the source DBs are populated with customers.
    & "C:\Program Files\PostgreSQL\9.6\bin\psql.exe" -Upostgres --host localhost --port 5432 -f "create_resources.sql"
    ```
    
-
 3. Open **pgAdmin 4** and start restoring the databases from backup files.
 
 ### Fabric Implementation
@@ -92,7 +91,7 @@ The target DBs are empty and the source DBs are populated with customers.
      - Set the version of the BILLING product to DEV.
 
 
-     
+​     
 
 See instructions on how to work with the TDM GUI in the following [link](/articles/TDM/tdm_gui/README.md).
 
