@@ -1,14 +1,19 @@
 # TDM GUI - Permission Groups (User Types)
 
-There are three main types of TDM users, each with different permissions for different activities. Each type is called a **Permission Group**. 
+There are three main types of TDM users, each with different permissions for different activities:
+- Admin
+- Owner
+- Tester User
 
-Note that all TDM windows can be accessed by all users in View mode. However, only authorized users with the relevant permissions can update TDM definitions.
+Each type is called a **Permission Group**. 
 
- The following Permission Groups are supported by TDM: 
+All TDM windows can be accessed by all users in View mode. However, only authorized users with the relevant permissions can update TDM definitions.
+
+Below are more detailed descriptions of the Permission Groups: 
 
 ## Admin 
 
-The Admin can execute all activities in the TDM GUI application. 
+An Admin can execute all activities in the TDM GUI application. 
 
 Admins usually also define the [TDM implementation in Fabric](/articles/TDM/tdm_implementation/03_tdm_fabric_implementation_flow.md). They can execute all activities in the TDM GUI and are responsible for the following activities:
 
@@ -20,7 +25,7 @@ Admins usually also define the [TDM implementation in Fabric](/articles/TDM/tdm_
 
 ## Owner 
 
-The Owner can be assigned as an owner of TDM testing environments. Admins can define one or several Environment Owners for each testing environment. 
+An Owner is assigned to a specific TDM testing environment. Admins can define one or several Environment Owners for each testing environment. 
 
 Environment Owners can execute the following activities in their environment:
 
@@ -31,11 +36,11 @@ Environment Owners can execute the following activities in their environment:
 - Create, edit or delete [TDM roles](10_environment_roles_tab.md) and define permissions per role.
 - Attach users to TDM roles.
 
-Note that Environment Owners cannot add or delete an environment and cannot add or remove Environment Owners from the environment.
+Environment Owners cannot add or delete an environment and cannot add or remove Environment Owners from the environment.
 
 ## Tester User
 
-Testers can create and execute extract or load tasks based on their TDM role. 
+A Tester User can create, execute, and extract or load tasks based on their TDM role. 
 
 ## Permission Groups Mapping
 
@@ -43,15 +48,15 @@ Testers can create and execute extract or load tasks based on their TDM role.
 
 The TDM GUI application is pre-integrated with [Fabric Web Framwork](/articles/30_web_framework/02_preintegrated_apps_overview.md).  The user logins into the Fabric Web Framework and **Fabric authenticates the user**. The TDM GUI application gets the **user id** and the user's **Fabric roles** from the user's session. 
 
-The users are defined and each user can be attach to one or several user groups in their organization. 
+The users are defined and each user can be attached to one or several user groups in their organization. 
 
-The user groups are defined in the organization's SP and must be defined in advance in Fabric as [Fabric roles](/articles/17_fabric_credentials/02_fabric_credentials_commands.md#create-role). 
+The user groups are defined in the organization's service provider and must be defined in advance in Fabric as [Fabric roles](/articles/17_fabric_credentials/02_fabric_credentials_commands.md#create-role). 
 
 Assuming a **one-to-one relation between a user group and a Fabric role**.
 
 [Click for more information about Fabric's User Identification and Access Management](/articles/26_fabric_security/07_user_IAM_overview.md).
 
-The mapping of each Fabric role to a TDM Permission Group is done by the [Permission Groups Mapping](02a_permission_group_mapping_window.md) TDM window and is kept in [permission_groups_mapping TDM DB table](/articles/TDM/tdm_architecture/02_tdm_database.md#permission_groups_mapping).
+The mapping of each Fabric role to a TDM Permission Group is done by the [Permission Groups Mapping](02a_permission_group_mapping_window.md) TDM window and is kept in the [permission_groups_mapping TDM DB table](/articles/TDM/tdm_architecture/02_tdm_database.md#permission_groups_mapping).
 
 The TDM GUI application **identifies the user type (Permission Group) by their Fabric roles**.
 
@@ -60,7 +65,7 @@ The TDM GUI application **identifies the user type (Permission Group) by their F
 - User id **johnD123** is a tester and is attached to **testers1** and **testers2** groups.
 - User id **clarkG** is a tester and it attached to **testers1** group.
 - User id **janeR1** is a team leader and is attached to **testingTeamLeaders** group.
-- User **leo10** is the the TDM administrator and it attached to **testingAdmin** group. 
+- User **leo10** is the the TDM administrator and is attached to **testingAdmin** group. 
 
 - Each group has a Fabric role with the same name as the group.
 
@@ -90,7 +95,7 @@ The TDM GUI application **identifies the user type (Permission Group) by their F
   </tr>
   </table>
 
-- User id **johnD123** logs in Fabric Web Framework and is authenticated by Fabric. This user connects the TDM GUI application.
+- User id **johnD123** logs in to the Fabric Web Framework and is authenticated by Fabric. This user connects the TDM GUI application.
 
 - The TDM gets the following attributes from the user session:
 
