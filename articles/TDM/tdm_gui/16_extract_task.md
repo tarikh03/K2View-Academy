@@ -53,7 +53,7 @@ Check to [override Globals on a task level](23_task_globals_tab.md).
 ### Environment Name
 
 - Select a source environment from the dropdown list of active TDM environments with **Source** or **Both** [environment types](08_environment_window_general_information.md#environment-type). 
-- Note that tester users can only select an environment they are attached to by a [role](10_environment_roles_tab.md).
+- Note that tester users can only select an environment they are attached to by a [TDM Environment role](10_environment_roles_tab.md).
 
 ### Retention Period
 
@@ -117,7 +117,7 @@ Notes:
 
 This tab is only displayed for a regular mode task, i.e. the **Entity Versioning** setting is unchecked.  This tab holds the following optional setting: **Request Up to Date Entity**. 
 
-By default, the Requested Up to Date Entity is unchecked. You can check this setting to override the Sync mode on a task level and set the Sync mode of the task execution to [Force](/articles/14_sync_LU_instance/02_sync_modes.md). A tester can select this option only if their **Read** [environment role](10_environment_roles_tab.md#role-permissions) enables it.
+By default, the Requested Up to Date Entity is unchecked. You can check this setting to override the Sync mode on a task level and set the Sync mode of the task execution to [Force](/articles/14_sync_LU_instance/02_sync_modes.md). A tester can select this option only if their **Read** [TDM Environment role](10_environment_roles_tab.md#role-permissions) enables it.
 
 ## Execution Timing
 
@@ -127,7 +127,7 @@ The following options are available for task execution:
 
 - **Execution by Request**, the default option.
 
-- **Scheduled execution**, set scheduling parameters to automatically execute the task based on the scheduling parameters. Note that a tester can select this option only their  role has a scheduling permission.
+- **Scheduled execution**, set scheduling parameters to automatically execute the task based on the scheduling parameters. Note that a tester can select this option only their  TDM Environment role has a scheduling permission.
 
 Click for more information about [TDM task scheduling](22_task_execution_timing_tab.md).
 
