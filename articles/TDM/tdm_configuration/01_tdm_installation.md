@@ -31,7 +31,7 @@ When openning the TDM package the package also updates the following:
 
 ## Installation guidelines for TDM Package on the Fabric Server
 
-- Download the the TDM package from the download page. Copy it under the  $K2_HOME directory and untar it using the following command:
+- Download the TDM package from the download page. Copy it under the  $K2_HOME directory and untar it using the following command:
 
   ```
   tar -zxvf <TDM GUI tar file>
@@ -160,7 +160,7 @@ Following steps should be following if a new APIDOC should be generated to inclu
 
 ## Add Permission Groups Mapping to the TDM
 
-The TDM GUI application is pre-integrated with [Fabric Web Framwork](/articles/30_web_framework/02_preintegrated_apps_overview.md). The user logins into the Fabric Web Framework and **Fabric authenticates the user**. The TDM GUI application gets the **user id** and the user's **Fabric roles** from the user's session and **identifies the user type (Permission Group) by their Fabric roles**.
+The TDM GUI application is pre-integrated with [Fabric Web Framework](/articles/30_web_framework/02_preintegrated_apps_overview.md). The user logins into the Fabric Web Framework and **Fabric authenticates the user**. The TDM GUI application gets the **user id** and the user's **Fabric roles** from the user's session and **identifies the user type (Permission Group) by their Fabric roles**.
 
 The mapping of each Fabric role to a TDM Permission Group is done by the [Permission Groups Mapping](/articles/TDM/tdm_gui/02a_permission_group_mapping_window.md) TDM window and is kept in [permission_groups_mapping TDM DB table](/articles/TDM/tdm_architecture/02_tdm_database.md#permission_groups_mapping).
 
