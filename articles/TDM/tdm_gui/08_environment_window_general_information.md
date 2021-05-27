@@ -53,7 +53,9 @@ Do not sync the entities from the source when running a TDM task with the enviro
 
 #### Always Sync  
 
-Always sync the entities from the source when running a TDM task with the environment as a source.  
+Always sync the entities from the source when running a TDM task with the environment as a source. 
+
+Click for more information on [how overriding the sync mode impacts the task execution](/articles/TDM/tdm_architecture/04_task_execution_overridden_parameters.md#overriding-the-sync-mode-on-the-task-execution) process.
 
 ### Environment Owners
 
