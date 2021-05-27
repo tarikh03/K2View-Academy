@@ -6,15 +6,15 @@ The TDM Library has all the utilities required to implement a TDM project and to
 - [TDM LU](#tdm-lu).
 - [TDM_LIBRARY LU](#tdm_library-lu).
 
-Note that the TDM Library must be imported to the Fabric project created for TDM. Download the [TDM library](TDM_V7_LIBRARY.k2export) .
+Note that the TDM Library must be imported to the Fabric project created for TDM. Download the TDM library from [this link](TDM_V7_LIBRARY.k2export) .
 
 ## TDM Library - Shared Objects
 
 ### TDM Web Services
 
-Import and deploy all TDM Web SAervices to Fabric projects. These APIs are invoked by the TDM GUI application and being the nackend layer of the TDM GUI application.
+Import and deploy all TDM Web Services to Fabric projects. These APIs are invoked by the TDM GUI application and comprise the backend layer of the TDM GUI application.
 
-Note that since the TDM categories contain the product's Web Services, it is recommended to add the project's Web Services to separate categories to simplify upgrading the TDM version.
+Since the TDM categories contain the product's Web Services, it is recommended to add the project's Web Services into separate categories to simplify upgrading the TDM version.
 
 ### Generic TDM Interfaces
 
