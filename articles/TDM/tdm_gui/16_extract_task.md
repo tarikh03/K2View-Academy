@@ -57,7 +57,7 @@ Check to [override Globals on a task level](23_task_globals_tab.md).
 
 ### Retention Period
 
-This is the retention period (TTL) set on the extracted LUIs. When this period ends, the LUIs are **automatically deleted** from Fabric and are no longer available. 
+This is the retention period set on the extracted LUIs. When this period ends, the LUIs are **automatically deleted** from Fabric and are no longer available. 
 
 Note that when the Retention Period is set to zero, no retention period is set on the extracted LUIs.
 
@@ -127,7 +127,7 @@ The following options are available for task execution:
 
 - **Execution by Request**, the default option.
 
-- **Scheduled execution**, set scheduling parameters to automatically execute the task based on the scheduling parameters. Note that a tester can select this option only their  TDM Environment role has a scheduling permission.
+- **Scheduled execution**, set scheduling parameters to automatically execute the task based on the scheduling parameters. Note that a tester can select this option only if their TDM Environment role has a scheduling permission.
 
 Click for more information about [TDM task scheduling](22_task_execution_timing_tab.md).
 
