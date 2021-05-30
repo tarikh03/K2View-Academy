@@ -6,7 +6,7 @@ Access the DPM System login screen by using the following URL.
 
 For this tutorial, enter the following credentials to access user information with an Administrator role.
 
-**Username** - k2adminDPM 
+**Username** - k2admin_dpm
 
 **Password** - admin
 
