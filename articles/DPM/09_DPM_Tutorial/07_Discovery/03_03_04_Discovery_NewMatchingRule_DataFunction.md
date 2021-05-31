@@ -8,7 +8,7 @@ Create a new rule and select the **Matching Type** to be **Data Function**.
 
 ![image](../images/07_01_Discovery_Data_Function.png)
 
-Select a **Data Function** from the dropdown list. 
+Select a **Data Function** from the dropdown list. for our example, we selected the built-in dfnDiscovery_ValidateSSN function.
 
 ![image](../images/07_02_Discovery_Data_Function.png)
 
