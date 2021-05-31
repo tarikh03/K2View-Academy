@@ -4,7 +4,7 @@ To configure the Discovery Rules, you should enter the DPM using the credentials
 
 For this tutorial, enter the following credentials to access user information with an Administrator role.
 
-**Username** - k2admin
+**Username** - k2admin_dpm
 
 **Password** - admin
 
