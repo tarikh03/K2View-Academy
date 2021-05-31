@@ -24,7 +24,7 @@ Select **Requests List**. The list of Requests that are under the responsibility
 
 <img src="../images/02_02_DSAR_Fulfillment_Case_Owner_Request_List.png" width="100%" height="100%">
 
-Only the Request we previously submitted displays in the table. Observe that the Request **Risk/Status** is "In Progress".
+identify the Request we previously submitted in the table. Observe that the Request **Risk/Status** is "In Progress".
 
 Click the Request line in the table to display the Request details.
 
