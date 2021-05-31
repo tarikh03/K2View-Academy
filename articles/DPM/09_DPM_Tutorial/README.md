@@ -4,9 +4,7 @@
 
 We invite you to acquire a firsthand experience of our DPM application by following this step-by-step tutorial. 
 
-This tutorial will take you through the main activities of implementing and using our DPM application, such as implementing a Data Subject Access Request (DSAR) Flow, defining Consents, executing PII Discovery, and more. 
-
-This guide takes you through the set-up activities required to create your dedicated sandbox environment and the detailed steps of implementation and execution of various DPM features.
+This tutorial will take you through the main activities of implementing and using our DPM application, such as implementing a Data Subject Access Request (DSAR) Flow, defining Consents, executing PII Discovery, and other DPM features. 
 
 ## Tutorial Project Presentation
 
@@ -35,7 +33,7 @@ The two systems that we picked up to simulate source systems are:
 </tbody>
 </table>
 
-When you set up the tutorial environment, we automatically generate for you not only a running instance of each of those applications, but we also generate in each of those systems an imaginary customer using the name an e-mail address you provided when initiating the tutorial. 
+When we set up the tutorial environment, we automatically generate for you not only a running instance of each of those applications, but we also generate in each of those systems an imaginary customer using the name an e-mail address you provided when initiating the tutorial. 
 
 This imaginary customer will be used throughout the tutorial to demonstrate DPM features and functionality, such as customer matching between applications, fulfilment of data access requests, keeping up with data change scenarios, and more.  
 
@@ -43,7 +41,7 @@ This imaginary customer will be used throughout the tutorial to demonstrate DPM 
 
 As part of our tutorial, we will walk you through demonstration of how K2View's DPM automates Data Subject Requests (DSR) of different types, such as Data Subject Access Request, data rectification, data anonymization and purging. 
 
-For that purpose, as a starting point for the different demo scenarios you will be requested to access the "Source Systems" in order to confirm that the activities were indeed executed as expected. 
+For that purpose, as part of the different demo scenarios you will be requested to access the "Source Systems" in order to confirm that the activities were indeed executed as expected. 
 
 For example: When a DSAR is completed we will request you to verify that the data collected by the DPM are indeed "your data" as it is reflected in the source systems, or that when a request for data anonymization was completed, "your data" were anonymized at the "source systems".  
 
