@@ -3,7 +3,9 @@
 The second application which we use as a source is called Open Source Billing (OSB). 
 
 At your internet navigator, type the URL that was provided to you in the Tutorial welcome email to access the OSB application. 
-For example:  http://62.90.46.213:3000/ 
+
+For example:  http://62.90.46.213:3000/.
+
 Use the user and password that was provided to you in the same email. 
 
  <img src="../images/00_OSB_login.png" width="30%" height="30%">
