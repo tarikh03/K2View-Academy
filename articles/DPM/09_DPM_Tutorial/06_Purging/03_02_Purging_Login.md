@@ -2,11 +2,11 @@
 
 For this tutorial, enter the following credentials to access user information with a Representative role.
 
-**Username** - anabelle
+**Username** - representative
 
 **Password** - k2view
 
-<img src="../images/anabelle_login.png" width="30%" height="30%">
+<img src="../images/representative_login.png" width="30%" height="30%">
 
 Click **Login**.
 
