@@ -20,7 +20,7 @@ Click **Login**.
 
 Once a user logs into the DPM system as a Customer, the screen is updated with two frames (windows) of information. The left frame displays a list of menu options for this module. The right frame displays the interactive components of the selection. The Dashboard screen displays by default after logging into the system.
 
-![image](../images/Customer_Dashboard.png)    
+![image](../images/Customer_Dashboard_View_Requests.png)    
 
 Click ![image](../images/Customer_Request.png) under the CUSTOMER menu options, located on the left side of the screen. 
  
