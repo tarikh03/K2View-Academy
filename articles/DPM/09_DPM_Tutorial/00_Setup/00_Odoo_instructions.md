@@ -1,6 +1,6 @@
 # Access and Use of Odoo
 
-At your internet navigator, type  http://localhost:8069/ to access the Odoo application. Use the user and password that was provided to you in the Tutorial welcome email. 
+At your internet navigator, use the URL provided to you in the tutorial Welcome e-mail to access the Odoo application. Use the user and password that was provided to you in the same e-mail. 
 
 <img src="../images/00_odoo_login.png" width="30%" height="30%">
 
