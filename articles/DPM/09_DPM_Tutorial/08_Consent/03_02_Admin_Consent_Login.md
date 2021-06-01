@@ -4,13 +4,13 @@ To configure the Consent Topics, you should enter the DPM using the credentials 
 
 For this tutorial, enter the following credentials to access user information with an Administrator role.
 
-**Username** - k2admin
+**Username** - k2admin_dpm
 
 **Password** - admin
 
 This user is defined as an Administrator user. 
 
-<img src="../images/anabelle_login.png" width="30%" height="30%">
+<img src="../images/k2admin_login.png" width="30%" height="30%">
 
 
 Click **Login**. 
