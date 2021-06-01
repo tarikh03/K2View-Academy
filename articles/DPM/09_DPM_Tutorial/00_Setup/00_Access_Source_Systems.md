@@ -9,20 +9,11 @@ The two systems that we picked up to simulate source systems are:
     <p><center><strong>Source Application</strong></center></p>
 </td>
 <td width="300"> 
-    <p><center><strong>Access URL</strong></center></p>
-</td>
-<td width="300"> 
     <p><center><strong>Access Instructions</strong></center></p>
 </td>
 </tr>
 <tr>
 <td width="120"><img src="../images/00_odoo.png" alt=""/></td>
-<td width="300">
-    <a href="http://localhost:8069">
-    <div style="height:100%;width:100%">
-		<p>http://localhost:8069</p>
-     </div></a>
-</td>
 <td width="300"> 
 <a href="00_Odoo_instructions.md">
     <div style="height:100%;width:100%">
@@ -32,12 +23,6 @@ The two systems that we picked up to simulate source systems are:
 </tr>
 <tr>
 <td width="120"><img src="../images/00_opensourcebilling_icon.png" width="120%" height="120%" alt=""/></td>
-<td width="300"> 
-    <a href="http://localhost:3000">
-    <div style="height:100%;width:100%">
-		<p>http://localhost:3000</p>
-        </div></a>
-</td>
 <td width="300"> 
     <a href="00_OSB_instructions.md">
     <div style="height:100%;width:100%">
