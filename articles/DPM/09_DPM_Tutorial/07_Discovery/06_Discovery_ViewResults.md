@@ -4,7 +4,7 @@ After the DPM system has searched the databases of all selected systems for PII 
 
 Each of the lines in the results table indicates a field in one of the source databases that was identifyed as potentially holding PII data. The system indicates the system, table and field name, along with the matching type and the nature of the field (e.g. First name or Bank account number) that resulted in this identification. 
 
-Click the ![image](../images/07_Discovery_Results_Tab.png) tab.
+Click the Results tab:  ![image](../images/07_Discovery_Results_Tab.png)
 
 ![image](../images/07_Discovery_Results.png)
 
